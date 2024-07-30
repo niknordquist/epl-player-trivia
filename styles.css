@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'plfont';
+    src: url("plfont.ttf")
+}
+
+body {
+    background-color: #371959;
+    color: #f2ecdc;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1 {
+    padding-top: 4rem;
+    font-family: "plfont";
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-weight: 300;
+    padding-bottom: 2em;
+}
+
+h1, h2 {
+    margin: 0 auto;
+}
+
+#list-container, #button-container, h1, h2 {
+    text-align: center;
+}
+
+#rules {
+    display: inline-block;
+    text-align: left;
+    line-height: 1.5em;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+#transfermarkt {
+    color: #f2ecdc;
+    font-weight: bold;
+}
+
+
+#play {
+    cursor: pointer;
+    margin-top: 5rem;
+    padding: 2rem 2rem;
+    font-size: 3rem;
+    font-family: 'plfont';
+    border: 10px solid #fff4b8;
+    border-radius: 3px;
+    box-shadow: 0 20px #1c0c2e;
+}
+
+#play:active {
+    box-shadow: 0 15px #1c0c2e;
+    margin-top: 5.25rem;
+}
+
+#gamehud {
+    display: none;
+}

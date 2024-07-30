@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="newgame">
+        <h1>Premier League Player Trivia</h1>
+        <h2>A short and simple Premier League trivia game </h2>
+        <div id="list-container">
+            <ul id="rules">
+                <li>You have <strong>10</strong> guesses to identify the player</li>
+                <li>After <strong>5</strong> guesses, you will be given the player's market value <i>(according to <a
+                            href="https://www.transfermarkt.us/"><span
+                                id="transfermarkt">transfermarkt.us</span></a>)</i></li>
+                <li>You can unlock the following hints by guessing a player with the same...</li>
+                <ul id="rules">
+                    <li>Club</li>
+                    <li>Position</li>
+                    <li>Nationality</li>
+                </ul>
+            </ul>
+        </div>
+        <div id='button-container'>
+            <button id="play">PLAY GAME</button>
+        </div>
+    </div>
+    <div id="gamehud">
+        <h1>Test Text!</h1>
+    </div>
+    <script src="triviascript.js"></script>
+</body>
+
+</html>
