@@ -1,0 +1,4439 @@
+[
+  {
+    "name": "Calafiori",
+    "club": "Arsenal",
+    "position": "Defender",
+    "nation": "Italy",
+    "value": 45,
+    "answer": "Riccardo Calafiori",
+    "img": "img-players/arsenal/calafiori.jpg"
+  },
+  {
+    "name": "Gabriel",
+    "club": "Arsenal",
+    "position": "Defender",
+    "nation": "Brazil",
+    "value": 70,
+    "answer": "Gabriel Magalhāes",
+    "img": "img-players/arsenal/gabriel.jpg"
+  },
+  {
+    "name": "Havertz",
+    "club": "Arsenal",
+    "position": "Midfielder",
+    "nation": "Germany",
+    "value": 70,
+    "answer": "Kai Havertz",
+    "img": ""
+  },
+  {
+    "name": "Hein",
+    "club": "Arsenal",
+    "position": "Goalkeeper",
+    "nation": "Estonia",
+    "value": 2,
+    "answer": "Karl Hein",
+    "img": ""
+  },
+  {
+    "name": "Jesus",
+    "club": "Arsenal",
+    "position": "Striker",
+    "nation": "Brazil",
+    "value": 65,
+    "answer": "Gabriel Jesus",
+    "img": ""
+  },
+  {
+    "name": "Jorginho",
+    "club": "Arsenal",
+    "position": "Midfielder",
+    "nation": "Italy",
+    "value": 12,
+    "answer": "Jorginho",
+    "img": ""
+  },
+  {
+    "name": "Kiwior",
+    "club": "Arsenal",
+    "position": "Defender",
+    "nation": "Poland",
+    "value": 30,
+    "answer": "Jakub Kiwior",
+    "img": ""
+  },
+  {
+    "name": "Martinelli",
+    "club": "Arsenal",
+    "position": "Winger",
+    "nation": "Brazil",
+    "value": 70,
+    "answer": "Gabriel Martinelli",
+    "img": ""
+  },
+  {
+    "name": "Nelson",
+    "club": "Arsenal",
+    "position": "Winger",
+    "nation": "England",
+    "value": 15,
+    "answer": "Reiss Nelson",
+    "img": ""
+  },
+  {
+    "name": "Nketiah",
+    "club": "Arsenal",
+    "position": "Striker",
+    "nation": "England",
+    "value": 30,
+    "answer": "Eddie Nketiah",
+    "img": ""
+  },
+  {
+    "name": "Odegaard",
+    "club": "Arsenal",
+    "position": "Midfielder",
+    "nation": "Norway",
+    "value": 110,
+    "answer": "Martin Odegaard",
+    "img": ""
+  },
+  {
+    "name": "Partey",
+    "club": "Arsenal",
+    "position": "Midfielder",
+    "nation": "Ghana",
+    "value": 18,
+    "answer": "Thomas Partey",
+    "img": ""
+  },
+  {
+    "name": "Ramsdale",
+    "club": "Arsenal",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 25,
+    "answer": "Aaron Ramsdale",
+    "img": ""
+  },
+  {
+    "name": "Raya",
+    "club": "Arsenal",
+    "position": "Goalkeeper",
+    "nation": "Spain",
+    "value": 35,
+    "answer": "David Raya",
+    "img": ""
+  },
+  {
+    "name": "Rice",
+    "club": "Arsenal",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 120,
+    "answer": "Declan Rice",
+    "img": ""
+  },
+  {
+    "name": "Saka",
+    "club": "Arsenal",
+    "position": "Winger",
+    "nation": "England",
+    "value": 140,
+    "answer": "Bukayo Saka",
+    "img": ""
+  },
+  {
+    "name": "Saliba",
+    "club": "Arsenal",
+    "position": "Defender",
+    "nation": "France",
+    "value": 80,
+    "answer": "William Saliba",
+    "img": ""
+  },
+  {
+    "name": "Smith rowe",
+    "club": "Arsenal",
+    "position": "Winger",
+    "nation": "England",
+    "value": 22,
+    "answer": "Emile Smith-Rowe",
+    "img": ""
+  },
+  {
+    "name": "Tierney",
+    "club": "Arsenal",
+    "position": "Defender",
+    "nation": "Scotland",
+    "value": 12,
+    "answer": "Kieran Tierney",
+    "img": ""
+  },
+  {
+    "name": "Timber",
+    "club": "Arsenal",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 38,
+    "answer": "Jurrien Timber",
+    "img": ""
+  },
+  {
+    "name": "Tomiyasu",
+    "club": "Arsenal",
+    "position": "Defender",
+    "nation": "Japan",
+    "value": 35,
+    "answer": "Takehiro Tomiyasu",
+    "img": ""
+  },
+  {
+    "name": "Trossard",
+    "club": "Arsenal",
+    "position": "Winger",
+    "nation": "Belgium",
+    "value": 35,
+    "answer": "Leandro Trossard",
+    "img": ""
+  },
+  {
+    "name": "Vieira",
+    "club": "Arsenal",
+    "position": "Midfielder",
+    "nation": "Portugal",
+    "value": 22,
+    "answer": "Fabio Vieira",
+    "img": ""
+  },
+  {
+    "name": "White",
+    "club": "Arsenal",
+    "position": "Defender",
+    "nation": "England",
+    "value": 55,
+    "answer": "Ben White",
+    "img": ""
+  },
+  {
+    "name": "Zinchenko",
+    "club": "Arsenal",
+    "position": "Defender",
+    "nation": "Ukraine",
+    "value": 38,
+    "answer": "Oleksandr Zinchenko",
+    "img": ""
+  },
+  {
+    "name": "Choudhury",
+    "club": "Leicester City",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 4.5,
+    "answer": "Hamza Chowdhury",
+    "img": ""
+  },
+  {
+    "name": "Coady",
+    "club": "Leicester City",
+    "position": "Defender",
+    "nation": "England",
+    "value": 3,
+    "answer": "Conor Coady",
+    "img": ""
+  },
+  {
+    "name": "Daka",
+    "club": "Leicester City",
+    "position": "Striker",
+    "nation": "Zambia",
+    "value": 12,
+    "answer": "Patson Daka",
+    "img": ""
+  },
+  {
+    "name": "Faes",
+    "club": "Leicester City",
+    "position": "Defender",
+    "nation": "Belgium",
+    "value": 20,
+    "answer": "Wout Faes",
+    "img": ""
+  },
+  {
+    "name": "Fatawu",
+    "club": "Leicester City",
+    "position": "Winger",
+    "nation": "Ghana",
+    "value": 10,
+    "answer": "Abdul Fatawu",
+    "img": ""
+  },
+  {
+    "name": "Hermansen",
+    "club": "Leicester City",
+    "position": "Goalkeeper",
+    "nation": "Denmark",
+    "value": 9,
+    "answer": "Mads Hermansen",
+    "img": ""
+  },
+  {
+    "name": "Iversen",
+    "club": "Leicester City",
+    "position": "Goalkeeper",
+    "nation": "Denmark",
+    "value": 3,
+    "answer": "Daniel Iversen",
+    "img": ""
+  },
+  {
+    "name": "Justin",
+    "club": "Leicester City",
+    "position": "Defender",
+    "nation": "England",
+    "value": 15,
+    "answer": "James Justin",
+    "img": ""
+  },
+  {
+    "name": "Kristiansen",
+    "club": "Leicester City",
+    "position": "Defender",
+    "nation": "Denmark",
+    "value": 15,
+    "answer": "Victor Kristiansen",
+    "img": ""
+  },
+  {
+    "name": "Mavididi",
+    "club": "Leicester City",
+    "position": "Winger",
+    "nation": "England",
+    "value": 11,
+    "answer": "Stephy Mavididi",
+    "img": ""
+  },
+  {
+    "name": "Ndidi",
+    "club": "Leicester City",
+    "position": "Midfielder",
+    "nation": "Nigeria",
+    "value": 16,
+    "answer": "Wilfried Ndidi",
+    "img": ""
+  },
+  {
+    "name": "Okoli",
+    "club": "Leicester City",
+    "position": "Defender",
+    "nation": "Italy",
+    "value": 8,
+    "answer": "Caleb Okoli",
+    "img": ""
+  },
+  {
+    "name": "Pereira",
+    "club": "Leicester City",
+    "position": "Defender",
+    "nation": "Portugal",
+    "value": 8,
+    "answer": "Ricardo Pereira",
+    "img": ""
+  },
+  {
+    "name": "Reid",
+    "club": "Leicester City",
+    "position": "Winger",
+    "nation": "Jamaica",
+    "value": 7,
+    "answer": "Bobby Decordova-Reid",
+    "img": ""
+  },
+  {
+    "name": "Soumare",
+    "club": "Leicester City",
+    "position": "Midfielder",
+    "nation": "France",
+    "value": 14,
+    "answer": "Boubakary Soumare",
+    "img": ""
+  },
+  {
+    "name": "Souttar",
+    "club": "Leicester City",
+    "position": "Defender",
+    "nation": "Australia",
+    "value": 8,
+    "answer": "Harry Souttar",
+    "img": ""
+  },
+  {
+    "name": "Thomas",
+    "club": "Leicester City",
+    "position": "Defender",
+    "nation": "England",
+    "value": 6,
+    "answer": "Luke Thomas",
+    "img": ""
+  },
+  {
+    "name": "Vardy",
+    "club": "Leicester City",
+    "position": "Striker",
+    "nation": "England",
+    "value": 1,
+    "answer": "Jamie Hardy",
+    "img": ""
+  },
+  {
+    "name": "Vestergaard",
+    "club": "Leicester City",
+    "position": "Defender",
+    "nation": "Denmark",
+    "value": 3,
+    "answer": "Jannik Vestergaard",
+    "img": ""
+  },
+  {
+    "name": "Ward",
+    "club": "Leicester City",
+    "position": "Goalkeeper",
+    "nation": "Wales",
+    "value": 1.8,
+    "answer": "Danny Ward",
+    "img": ""
+  },
+  {
+    "name": "Winks",
+    "club": "Leicester City",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 12,
+    "answer": "Harry Winks",
+    "img": ""
+  },
+  {
+    "name": "Almiron",
+    "club": "Newcastle",
+    "position": "Winger",
+    "nation": "Paraguay",
+    "value": 20,
+    "answer": "Miguel Almiron",
+    "img": ""
+  },
+  {
+    "name": "Barnes",
+    "club": "Newcastle",
+    "position": "Winger",
+    "nation": "England",
+    "value": 35,
+    "answer": "Harvey Barnes",
+    "img": ""
+  },
+  {
+    "name": "Botman",
+    "club": "Newcastle",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 45,
+    "answer": "Sven Botman",
+    "img": ""
+  },
+  {
+    "name": "Burn",
+    "club": "Newcastle",
+    "position": "Defender",
+    "nation": "England",
+    "value": 8,
+    "answer": "Dan Burn",
+    "img": ""
+  },
+  {
+    "name": "Dubravka",
+    "club": "Newcastle",
+    "position": "Goalkeeper",
+    "nation": "Slovakia",
+    "value": 1,
+    "answer": "Martin Dubravka",
+    "img": ""
+  },
+  {
+    "name": "Fraser",
+    "club": "Newcastle",
+    "position": "Winger",
+    "nation": "Scotland",
+    "value": 3,
+    "answer": "Ryan Fraser",
+    "img": ""
+  },
+  {
+    "name": "Gordon",
+    "club": "Newcastle",
+    "position": "Winger",
+    "nation": "England",
+    "value": 60,
+    "answer": "Anthony Gordon",
+    "img": ""
+  },
+  {
+    "name": "Guimaraes",
+    "club": "Newcastle",
+    "position": "Midfielder",
+    "nation": "Brazil",
+    "value": 85,
+    "answer": "Bruno Guimaraes",
+    "img": ""
+  },
+  {
+    "name": "Hall",
+    "club": "Newcastle",
+    "position": "Defender",
+    "nation": "England",
+    "value": 18,
+    "answer": "Lewis Hall",
+    "img": ""
+  },
+  {
+    "name": "Hayden",
+    "club": "Newcastle",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 1.8,
+    "answer": "Isaac Hayden",
+    "img": ""
+  },
+  {
+    "name": "Isak",
+    "club": "Newcastle",
+    "position": "Striker",
+    "nation": "Sweden",
+    "value": 75,
+    "answer": "Alexander Isak",
+    "img": ""
+  },
+  {
+    "name": "Joelinton",
+    "club": "Newcastle",
+    "position": "Midfielder",
+    "nation": "Brazil",
+    "value": 40,
+    "answer": "Joelinton",
+    "img": ""
+  },
+  {
+    "name": "Kelly",
+    "club": "Newcastle",
+    "position": "Defender",
+    "nation": "England",
+    "value": 18,
+    "answer": "Lloyd Kelly",
+    "img": ""
+  },
+  {
+    "name": "Krafth",
+    "club": "Newcastle",
+    "position": "Defender",
+    "nation": "Sweden",
+    "value": 2.5,
+    "answer": "Emil Krafth",
+    "img": ""
+  },
+  {
+    "name": "Lascelles",
+    "club": "Newcastle",
+    "position": "Defender",
+    "nation": "England",
+    "value": 7,
+    "answer": "Jamaal Lascelles",
+    "img": ""
+  },
+  {
+    "name": "Lewis",
+    "club": "Newcastle",
+    "position": "Defender",
+    "nation": "Northern Ireland",
+    "value": 3.5,
+    "answer": "Jamal Lewis",
+    "img": ""
+  },
+  {
+    "name": "Livramento",
+    "club": "Newcastle",
+    "position": "Defender",
+    "nation": "England",
+    "value": 35,
+    "answer": "Tino Livramento",
+    "img": ""
+  },
+  {
+    "name": "Longstaff",
+    "club": "Newcastle",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 25,
+    "answer": "Sean Longstaff",
+    "img": ""
+  },
+  {
+    "name": "Miley",
+    "club": "Newcastle",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 22,
+    "answer": "Lewis Miley",
+    "img": ""
+  },
+  {
+    "name": "Murphy",
+    "club": "Newcastle",
+    "position": "Winger",
+    "nation": "England",
+    "value": 15,
+    "answer": "Jacob Murphy",
+    "img": ""
+  },
+  {
+    "name": "Pope",
+    "club": "Newcastle",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 16,
+    "answer": "Nick Pope",
+    "img": ""
+  },
+  {
+    "name": "Ritchie",
+    "club": "Newcastle",
+    "position": "Winger",
+    "nation": "Scotland",
+    "value": 1,
+    "answer": "Matt Ritchie",
+    "img": ""
+  },
+  {
+    "name": "Saint maximin",
+    "club": "Newcastle",
+    "position": "Winger",
+    "nation": "France",
+    "value": 32,
+    "answer": "Allan Saint-Maximin",
+    "img": ""
+  },
+  {
+    "name": "Schar",
+    "club": "Newcastle",
+    "position": "Defender",
+    "nation": "Switzerland",
+    "value": 10,
+    "answer": "Fabian Schar",
+    "img": ""
+  },
+  {
+    "name": "Targett",
+    "club": "Newcastle",
+    "position": "Defender",
+    "nation": "England",
+    "value": 10,
+    "answer": "Matt Targett",
+    "img": ""
+  },
+  {
+    "name": "Tonali",
+    "club": "Newcastle",
+    "position": "Midfielder",
+    "nation": "Italy",
+    "value": 38,
+    "answer": "Sandro Tonali",
+    "img": ""
+  },
+  {
+    "name": "Trippier",
+    "club": "Newcastle",
+    "position": "Defender",
+    "nation": "England",
+    "value": 10,
+    "answer": "Kieran Trippier",
+    "img": ""
+  },
+  {
+    "name": "Vlachodimos",
+    "club": "Newcastle",
+    "position": "Goalkeeper",
+    "nation": "Greece",
+    "value": 7,
+    "answer": "Odysseas Vlachodimos",
+    "img": ""
+  },
+  {
+    "name": "Willock",
+    "club": "Newcastle",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 30,
+    "answer": "Joe Willock",
+    "img": ""
+  },
+  {
+    "name": "Wilson",
+    "club": "Newcastle",
+    "position": "Striker",
+    "nation": "England",
+    "value": 13,
+    "answer": "Callum Wilson",
+    "img": ""
+  },
+  {
+    "name": "Bentancur",
+    "club": "Tottenham",
+    "position": "Midfielder",
+    "nation": "Uruguay",
+    "value": 35,
+    "answer": "Rodrigo Bentancur",
+    "img": ""
+  },
+  {
+    "name": "Bergvall",
+    "club": "Tottenham",
+    "position": "Midfielder",
+    "nation": "Sweden",
+    "value": 10,
+    "answer": "Lucas Bergvall",
+    "img": ""
+  },
+  {
+    "name": "Bissouma",
+    "club": "Tottenham",
+    "position": "Midfielder",
+    "nation": "Mali",
+    "value": 35,
+    "answer": "Yves Bissouma",
+    "img": ""
+  },
+  {
+    "name": "Davies",
+    "club": "Tottenham",
+    "position": "Defender",
+    "nation": "Wales",
+    "value": 10,
+    "answer": "Ben Davies",
+    "img": ""
+  },
+  {
+    "name": "Dragusin",
+    "club": "Tottenham",
+    "position": "Defender",
+    "nation": "Romania",
+    "value": 25,
+    "answer": "Radu Dragusin",
+    "img": ""
+  },
+  {
+    "name": "Forster",
+    "club": "Tottenham",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 1.2,
+    "answer": "Fraser Forster",
+    "img": ""
+  },
+  {
+    "name": "Gray",
+    "club": "Tottenham",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 18,
+    "answer": "Archie Gray",
+    "img": ""
+  },
+  {
+    "name": "Johnson",
+    "club": "Tottenham",
+    "position": "Striker",
+    "nation": "Wales",
+    "value": 48,
+    "answer": "Brennan Johnson",
+    "img": ""
+  },
+  {
+    "name": "Kulusevski",
+    "club": "Tottenham",
+    "position": "Winger",
+    "nation": "Sweden",
+    "value": 55,
+    "answer": "Dejan Kulusevski",
+    "img": ""
+  },
+  {
+    "name": "Lo Celso",
+    "club": "Tottenham",
+    "position": "Midfielder",
+    "nation": "Argentina",
+    "value": 16,
+    "answer": "Giovani Lo Celso",
+    "img": ""
+  },
+  {
+    "name": "Maddison",
+    "club": "Tottenham",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 70,
+    "answer": "James Maddison",
+    "img": ""
+  },
+  {
+    "name": "Porro",
+    "club": "Tottenham",
+    "position": "Defender",
+    "nation": "Spain",
+    "value": 45,
+    "answer": "Pedro Porro",
+    "img": ""
+  },
+  {
+    "name": "Reguilon",
+    "club": "Tottenham",
+    "position": "Defender",
+    "nation": "Spain",
+    "value": 12,
+    "answer": "Sergio Region",
+    "img": ""
+  },
+  {
+    "name": "Richarlison",
+    "club": "Tottenham",
+    "position": "Striker",
+    "nation": "Brazil",
+    "value": 38,
+    "answer": "Richarlison",
+    "img": ""
+  },
+  {
+    "name": "Romero",
+    "club": "Tottenham",
+    "position": "Defender",
+    "nation": "Argentina",
+    "value": 65,
+    "answer": "Cristian Romero",
+    "img": ""
+  },
+  {
+    "name": "Royal",
+    "club": "Tottenham",
+    "position": "Defender",
+    "nation": "Brazil",
+    "value": 18,
+    "answer": "Emerson Royal",
+    "img": ""
+  },
+  {
+    "name": "Sarr",
+    "club": "Tottenham",
+    "position": "Midfielder",
+    "nation": "Senegal",
+    "value": 45,
+    "answer": "Pape Matar Sarr",
+    "img": ""
+  },
+  {
+    "name": "Skipp",
+    "club": "Tottenham",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 15,
+    "answer": "Oliver Skipp",
+    "img": ""
+  },
+  {
+    "name": "Solomon",
+    "club": "Tottenham",
+    "position": "Winger",
+    "nation": "Israel",
+    "value": 13,
+    "answer": "Manor Solomon",
+    "img": ""
+  },
+  {
+    "name": "Son",
+    "club": "Tottenham",
+    "position": "Winger",
+    "nation": "South Korea",
+    "value": 45,
+    "answer": "Heung-Min Son",
+    "img": ""
+  },
+  {
+    "name": "Spence",
+    "club": "Tottenham",
+    "position": "Defender",
+    "nation": "England",
+    "value": 8,
+    "answer": "Djed Spence",
+    "img": ""
+  },
+  {
+    "name": "Udogie",
+    "club": "Tottenham",
+    "position": "Defender",
+    "nation": "Italy",
+    "value": 45,
+    "answer": "Destiny Udogie",
+    "img": ""
+  },
+  {
+    "name": "Van de ven",
+    "club": "Tottenham",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 55,
+    "answer": "Micky Van de Ven",
+    "img": ""
+  },
+  {
+    "name": "Veliz",
+    "club": "Tottenham",
+    "position": "Striker",
+    "nation": "Argentina",
+    "value": 9,
+    "answer": "Alejo Veliz",
+    "img": ""
+  },
+  {
+    "name": "Vicario",
+    "club": "Tottenham",
+    "position": "Goalkeeper",
+    "nation": "Italy",
+    "value": 35,
+    "answer": "Guglielmo Vicario",
+    "img": ""
+  },
+  {
+    "name": "Werner",
+    "club": "Tottenham",
+    "position": "Winger",
+    "nation": "Germany",
+    "value": 17,
+    "answer": "Timo Werner",
+    "img": ""
+  },
+  {
+    "name": "Aguerd",
+    "club": "West Ham",
+    "position": "Defender",
+    "nation": "Morocco",
+    "value": 35,
+    "answer": "Nayef Aguerd",
+    "img": ""
+  },
+  {
+    "name": "Alvarez",
+    "club": "West Ham",
+    "position": "Midfielder",
+    "nation": "Mexico",
+    "value": 35,
+    "answer": "Edson Alvarez",
+    "img": ""
+  },
+  {
+    "name": "Antonio",
+    "club": "West Ham",
+    "position": "Striker",
+    "nation": "Jamaica",
+    "value": 4,
+    "answer": "Michail Antonio",
+    "img": ""
+  },
+  {
+    "name": "Areola",
+    "club": "West Ham",
+    "position": "Goalkeeper",
+    "nation": "France",
+    "value": 10,
+    "answer": "Alphonse Areola",
+    "img": ""
+  },
+  {
+    "name": "Bowen",
+    "club": "West Ham",
+    "position": "Winger",
+    "nation": "England",
+    "value": 50,
+    "answer": "Jarrod Bowen",
+    "img": ""
+  },
+  {
+    "name": "Cornet",
+    "club": "West Ham",
+    "position": "Midfielder",
+    "nation": "Ivory Coast",
+    "value": 9,
+    "answer": "Maxwel Cornet",
+    "img": ""
+  },
+  {
+    "name": "Coufal",
+    "club": "West Ham",
+    "position": "Defender",
+    "nation": "Czechia",
+    "value": 8,
+    "answer": "Vladimir Coufal",
+    "img": ""
+  },
+  {
+    "name": "Cresswell",
+    "club": "West Ham",
+    "position": "Defender",
+    "nation": "England",
+    "value": 0.9,
+    "answer": "Aaron Cresswell",
+    "img": ""
+  },
+  {
+    "name": "Emerson",
+    "club": "West Ham",
+    "position": "Defender",
+    "nation": "Italy",
+    "value": 12,
+    "answer": "Emerson",
+    "img": ""
+  },
+  {
+    "name": "Fabianski",
+    "club": "West Ham",
+    "position": "Goalkeeper",
+    "nation": "Poland",
+    "value": 0.7,
+    "answer": "Lukasz Fabianski",
+    "img": ""
+  },
+  {
+    "name": "Foderingham",
+    "club": "West Ham",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 0.9,
+    "answer": "Wes Foderingham",
+    "img": ""
+  },
+  {
+    "name": "Guilherme",
+    "club": "West Ham",
+    "position": "Winger",
+    "nation": "Brazil",
+    "value": 24,
+    "answer": "Luis Guilherme",
+    "img": ""
+  },
+  {
+    "name": "Ings",
+    "club": "West Ham",
+    "position": "Striker",
+    "nation": "England",
+    "value": 8,
+    "answer": "Danny Ings",
+    "img": ""
+  },
+  {
+    "name": "Kilman",
+    "club": "West Ham",
+    "position": "Defender",
+    "nation": "England",
+    "value": 32,
+    "answer": "Max Kilman",
+    "img": ""
+  },
+  {
+    "name": "Kudus",
+    "club": "West Ham",
+    "position": "Winger",
+    "nation": "Ghana",
+    "value": 50,
+    "answer": "Mohammed Kudus",
+    "img": ""
+  },
+  {
+    "name": "Mavropanos",
+    "club": "West Ham",
+    "position": "Defender",
+    "nation": "Greece",
+    "value": 20,
+    "answer": "Konstantinos Mavropanos",
+    "img": ""
+  },
+  {
+    "name": "Paqueta",
+    "club": "West Ham",
+    "position": "Midfielder",
+    "nation": "Brazil",
+    "value": 65,
+    "answer": "Lucas Paqueta",
+    "img": ""
+  },
+  {
+    "name": "Soucek",
+    "club": "West Ham",
+    "position": "Midfielder",
+    "nation": "Czechia",
+    "value": 30,
+    "answer": "Tomas Soucek",
+    "img": ""
+  },
+  {
+    "name": "Ward Prowse",
+    "club": "West Ham",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 30,
+    "answer": "James Ward-Prowse",
+    "img": ""
+  },
+  {
+    "name": "Zouma",
+    "club": "West Ham",
+    "position": "Defender",
+    "nation": "France",
+    "value": 25,
+    "answer": "Kurt Zouma",
+    "img": ""
+  },
+  {
+    "name": "Archer",
+    "club": "Aston Villa",
+    "position": "Striker",
+    "nation": "England",
+    "value": 13,
+    "answer": "Cameron Archer",
+    "img": ""
+  },
+  {
+    "name": "Bailey",
+    "club": "Aston Villa",
+    "position": "Winger",
+    "nation": "Jamaica",
+    "value": 42,
+    "answer": "Leon Bailey",
+    "img": ""
+  },
+  {
+    "name": "Barkley",
+    "club": "Aston Villa",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 8,
+    "answer": "Ross Barkley",
+    "img": ""
+  },
+  {
+    "name": "Barrenechea",
+    "club": "Aston Villa",
+    "position": "Midfielder",
+    "nation": "Argentina",
+    "value": 7.5,
+    "answer": "Enzo Barrenechea",
+    "img": ""
+  },
+  {
+    "name": "Buendia",
+    "club": "Aston Villa",
+    "position": "Winger",
+    "nation": "Argentina",
+    "value": 22,
+    "answer": "Emiliano Buendia",
+    "img": ""
+  },
+  {
+    "name": "Carlos",
+    "club": "Aston Villa",
+    "position": "Defender",
+    "nation": "Brazil",
+    "value": 16,
+    "answer": "Diego Carlos",
+    "img": ""
+  },
+  {
+    "name": "Cash",
+    "club": "Aston Villa",
+    "position": "Defender",
+    "nation": "Poland",
+    "value": 28,
+    "answer": "Matty Cash",
+    "img": ""
+  },
+  {
+    "name": "Dendoncker",
+    "club": "Aston Villa",
+    "position": "Midfielder",
+    "nation": "Belgium",
+    "value": 7,
+    "answer": "Leander Dendoncker",
+    "img": ""
+  },
+  {
+    "name": "Digne",
+    "club": "Aston Villa",
+    "position": "Defender",
+    "nation": "France",
+    "value": 12,
+    "answer": "Lucas Digne",
+    "img": ""
+  },
+  {
+    "name": "Duran",
+    "club": "Aston Villa",
+    "position": "Striker",
+    "nation": "Colombia",
+    "value": 20,
+    "answer": "Jhon Durán",
+    "img": ""
+  },
+  {
+    "name": "Iling Junior",
+    "club": "Aston Villa",
+    "position": "Winger",
+    "nation": "England",
+    "value": 13,
+    "answer": "Samuel Iling-Junior",
+    "img": ""
+  },
+  {
+    "name": "Kamara",
+    "club": "Aston Villa",
+    "position": "Midfielder",
+    "nation": "France",
+    "value": 38,
+    "answer": "Boubacer Kamara",
+    "img": ""
+  },
+  {
+    "name": "Konsa",
+    "club": "Aston Villa",
+    "position": "Defender",
+    "nation": "England",
+    "value": 35,
+    "answer": "Ezri Konsa",
+    "img": ""
+  },
+  {
+    "name": "Maatsen",
+    "club": "Aston Villa",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 40,
+    "answer": "Ian Maatsen",
+    "img": ""
+  },
+  {
+    "name": "Martinez",
+    "club": "Aston Villa",
+    "position": "Goalkeeper",
+    "nation": "Argentina",
+    "value": 28,
+    "answer": "Emiliano Martinez",
+    "img": ""
+  },
+  {
+    "name": "McGinn",
+    "club": "Aston Villa",
+    "position": "Midfielder",
+    "nation": "Scotland",
+    "value": 30,
+    "answer": "John McGinn",
+    "img": ""
+  },
+  {
+    "name": "Mings",
+    "club": "Aston Villa",
+    "position": "Defender",
+    "nation": "England",
+    "value": 13,
+    "answer": "Tyrone Mings",
+    "img": ""
+  },
+  {
+    "name": "Moreno",
+    "club": "Aston Villa",
+    "position": "Defender",
+    "nation": "Spain",
+    "value": 13,
+    "answer": "Alex Moreno",
+    "img": ""
+  },
+  {
+    "name": "Nedeljkovic",
+    "club": "Aston Villa",
+    "position": "Defender",
+    "nation": "Serbia",
+    "value": 8,
+    "answer": "Kosta Nedeljkovic",
+    "img": ""
+  },
+  {
+    "name": "Onana",
+    "club": "Aston Villa",
+    "position": "Midfielder",
+    "nation": "Belgium",
+    "value": 50,
+    "answer": "Amadou Onana",
+    "img": ""
+  },
+  {
+    "name": "Philogene",
+    "club": "Aston Villa",
+    "position": "Winger",
+    "nation": "England",
+    "value": 15,
+    "answer": "Jaden Philogene",
+    "img": ""
+  },
+  {
+    "name": "Ramsey",
+    "club": "Aston Villa",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 35,
+    "answer": "Jacob Ramsey",
+    "img": ""
+  },
+  {
+    "name": "Rodgers",
+    "club": "Aston Villa",
+    "position": "Winger",
+    "nation": "England",
+    "value": 15,
+    "answer": "Morgan Rogers",
+    "img": ""
+  },
+  {
+    "name": "Tielemans",
+    "club": "Aston Villa",
+    "position": "Midfielder",
+    "nation": "Belgium",
+    "value": 25,
+    "answer": "Youri Tielemans",
+    "img": ""
+  },
+  {
+    "name": "Torres",
+    "club": "Aston Villa",
+    "position": "Defender",
+    "nation": "Spain",
+    "value": 45,
+    "answer": "Pau Torres",
+    "img": ""
+  },
+  {
+    "name": "Torres",
+    "club": "Aston Villa",
+    "position": "Defender",
+    "nation": "Spain",
+    "value": 45,
+    "answer": "Pau Torres",
+    "img": ""
+  },
+  {
+    "name": "Watkins",
+    "club": "Aston Villa",
+    "position": "Striker",
+    "nation": "England",
+    "value": 65,
+    "answer": "Ollie Watkins",
+    "img": ""
+  },
+  {
+    "name": "Antony",
+    "club": "Manchester United",
+    "position": "Winger",
+    "nation": "Brazil",
+    "value": 25,
+    "answer": "Antony",
+    "img": ""
+  },
+  {
+    "name": "Bayindir",
+    "club": "Manchester United",
+    "position": "Goalkeeper",
+    "nation": "Turkey",
+    "value": 10,
+    "answer": "Altay Bayindir",
+    "img": ""
+  },
+  {
+    "name": "Casemiro",
+    "club": "Manchester United",
+    "position": "Midfielder",
+    "nation": "Brazil",
+    "value": 20,
+    "answer": "Casemiro",
+    "img": ""
+  },
+  {
+    "name": "Dalot",
+    "club": "Manchester United",
+    "position": "Defender",
+    "nation": "Portugal",
+    "value": 35,
+    "answer": "Diogo Dalot",
+    "img": ""
+  },
+  {
+    "name": "Diallo",
+    "club": "Manchester United",
+    "position": "Winger",
+    "nation": "Ivory Coast",
+    "value": 18,
+    "answer": "Amad Diallo",
+    "img": ""
+  },
+  {
+    "name": "Eriksen",
+    "club": "Manchester United",
+    "position": "Midfielder",
+    "nation": "Denmark",
+    "value": 8,
+    "answer": "Christian Eriksen",
+    "img": ""
+  },
+  {
+    "name": "Evans",
+    "club": "Manchester United",
+    "position": "Defender",
+    "nation": "Northern Ireland",
+    "value": 2,
+    "answer": "Jonny Evans",
+    "img": ""
+  },
+  {
+    "name": "Fernandes",
+    "club": "Manchester United",
+    "position": "Midfielder",
+    "nation": "Brazil",
+    "value": 70,
+    "answer": "Bruno Fernandes",
+    "img": ""
+  },
+  {
+    "name": "Garnacho",
+    "club": "Manchester United",
+    "position": "Winger",
+    "nation": "Argentina",
+    "value": 45,
+    "answer": "Alejnadro Garnacho",
+    "img": ""
+  },
+  {
+    "name": "Hannibal",
+    "club": "Manchester United",
+    "position": "Midfielder",
+    "nation": "Turkey",
+    "value": 9,
+    "answer": "Hannibal",
+    "img": ""
+  },
+  {
+    "name": "Hojlund",
+    "club": "Manchester United",
+    "position": "Striker",
+    "nation": "Denmark",
+    "value": 65,
+    "answer": "Rasmus Hojlund",
+    "img": ""
+  },
+  {
+    "name": "Lindelof",
+    "club": "Manchester United",
+    "position": "Defender",
+    "nation": "Sweden",
+    "value": 15,
+    "answer": "Victor Lindelof",
+    "img": ""
+  },
+  {
+    "name": "Maguire",
+    "club": "Manchester United",
+    "position": "Defender",
+    "nation": "England",
+    "value": 18,
+    "answer": "Harry Maguire",
+    "img": ""
+  },
+  {
+    "name": "Mainoo",
+    "club": "Manchester United",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 55,
+    "answer": "Kobbie Mainoo",
+    "img": ""
+  },
+  {
+    "name": "Malacia",
+    "club": "Manchester United",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 18,
+    "answer": "Tyrell Malacia",
+    "img": ""
+  },
+  {
+    "name": "Martinez",
+    "club": "Manchester United",
+    "position": "Defender",
+    "nation": "Argentina",
+    "value": 50,
+    "answer": "Lisandro Martinez",
+    "img": ""
+  },
+  {
+    "name": "Mctominay",
+    "club": "Manchester United",
+    "position": "Midfielder",
+    "nation": "Scotland",
+    "value": 32,
+    "answer": "Scott McTominay",
+    "img": ""
+  },
+  {
+    "name": "Mount",
+    "club": "Manchester United",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 35,
+    "answer": "Mason Mount",
+    "img": ""
+  },
+  {
+    "name": "Onana",
+    "club": "Manchester United",
+    "position": "Goalkeeper",
+    "nation": "Cameroon",
+    "value": 35,
+    "answer": "Andre Onana",
+    "img": ""
+  },
+  {
+    "name": "Pellistri",
+    "club": "Manchester United",
+    "position": "Winger",
+    "nation": "Uruguay",
+    "value": 10,
+    "answer": "Facundo Pellistri",
+    "img": ""
+  },
+  {
+    "name": "Rashford",
+    "club": "Manchester United",
+    "position": "Winger",
+    "nation": "England",
+    "value": 60,
+    "answer": "Marcus Rashford",
+    "img": ""
+  },
+  {
+    "name": "Sancho",
+    "club": "Manchester United",
+    "position": "Winger",
+    "nation": "England",
+    "value": 30,
+    "answer": "Jadon Sancho",
+    "img": ""
+  },
+  {
+    "name": "Shaw",
+    "club": "Manchester United",
+    "position": "Defender",
+    "nation": "England",
+    "value": 32,
+    "answer": "Luke Shaw",
+    "img": ""
+  },
+  {
+    "name": "Wan bissaka",
+    "club": "Manchester United",
+    "position": "Defender",
+    "nation": "England",
+    "value": 20,
+    "answer": "Aaron Wan-Bissaka",
+    "img": ""
+  },
+  {
+    "name": "Yoro",
+    "club": "Manchester United",
+    "position": "Defender",
+    "nation": "France",
+    "value": 50,
+    "answer": "Leny Yoro",
+    "img": ""
+  },
+  {
+    "name": "Zirkzee",
+    "club": "Manchester United",
+    "position": "Striker",
+    "nation": "Netherlands",
+    "value": 50,
+    "answer": "Joshua Zirkzee",
+    "img": ""
+  },
+  {
+    "name": "Aarons",
+    "club": "Bournemouth",
+    "position": "Defender",
+    "nation": "England",
+    "value": 16,
+    "answer": "Max Aarons",
+    "img": ""
+  },
+  {
+    "name": "Adams",
+    "club": "Bournemouth",
+    "position": "Midfielder",
+    "nation": "United States",
+    "value": 15,
+    "answer": "Tyler Adams",
+    "img": ""
+  },
+  {
+    "name": "Anthony",
+    "club": "Bournemouth",
+    "position": "Winger",
+    "nation": "England",
+    "value": 6,
+    "answer": "Jaidon Anthony",
+    "img": ""
+  },
+  {
+    "name": "Billing",
+    "club": "Bournemouth",
+    "position": "Midfielder",
+    "nation": "Denmark",
+    "value": 22,
+    "answer": "Phillip Billing",
+    "img": ""
+  },
+  {
+    "name": "Brooks",
+    "club": "Bournemouth",
+    "position": "Winger",
+    "nation": "Wales",
+    "value": 8,
+    "answer": "David Brooks",
+    "img": ""
+  },
+  {
+    "name": "Christie",
+    "club": "Bournemouth",
+    "position": "Midfielder",
+    "nation": "Scotland",
+    "value": 12,
+    "answer": "Ryan Christie",
+    "img": ""
+  },
+  {
+    "name": "Cook",
+    "club": "Bournemouth",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 12,
+    "answer": "Lewis Cook",
+    "img": ""
+  },
+  {
+    "name": "Faivre",
+    "club": "Bournemouth",
+    "position": "Midfielder",
+    "nation": "France",
+    "value": 15,
+    "answer": "Romain Faivre",
+    "img": ""
+  },
+  {
+    "name": "Kerkez",
+    "club": "Bournemouth",
+    "position": "Defender",
+    "nation": "Hungary",
+    "value": 20,
+    "answer": "Milos Kerkez",
+    "img": ""
+  },
+  {
+    "name": "Kluivert",
+    "club": "Bournemouth",
+    "position": "Winger",
+    "nation": "Netherlands",
+    "value": 14,
+    "answer": "Justin Kluivert",
+    "img": ""
+  },
+  {
+    "name": "Mepham",
+    "club": "Bournemouth",
+    "position": "Defender",
+    "nation": "Wales",
+    "value": 6,
+    "answer": "Chris Mepham",
+    "img": ""
+  },
+  {
+    "name": "Neto",
+    "club": "Bournemouth",
+    "position": "Goalkeeper",
+    "nation": "Brazil",
+    "value": 2.5,
+    "answer": "Neto",
+    "img": ""
+  },
+  {
+    "name": "Ouattara",
+    "club": "Bournemouth",
+    "position": "Winger",
+    "nation": "Burkina Faso",
+    "value": 20,
+    "answer": "Dango Ouattara",
+    "img": ""
+  },
+  {
+    "name": "Scott",
+    "club": "Bournemouth",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 20,
+    "answer": "Alex Scott",
+    "img": ""
+  },
+  {
+    "name": "Semenyo",
+    "club": "Bournemouth",
+    "position": "Striker",
+    "nation": "Ghana",
+    "value": 10,
+    "answer": "Antoine Semenyo",
+    "img": ""
+  },
+  {
+    "name": "Senesi",
+    "club": "Bournemouth",
+    "position": "Defender",
+    "nation": "Argentina",
+    "value": 22,
+    "answer": "Marcos Senesi",
+    "img": ""
+  },
+  {
+    "name": "Sinisterra",
+    "club": "Bournemouth",
+    "position": "Winger",
+    "nation": "Colombia",
+    "value": 17,
+    "answer": "Luis Sinisterra",
+    "img": ""
+  },
+  {
+    "name": "Smith",
+    "club": "Bournemouth",
+    "position": "Defender",
+    "nation": "England",
+    "value": 1,
+    "answer": "Adam Smith",
+    "img": ""
+  },
+  {
+    "name": "Solanke",
+    "club": "Bournemouth",
+    "position": "Striker",
+    "nation": "England",
+    "value": 40,
+    "answer": "Dominic Solanke",
+    "img": ""
+  },
+  {
+    "name": "Tavernier",
+    "club": "Bournemouth",
+    "position": "Winger",
+    "nation": "England",
+    "value": 20,
+    "answer": "Marcus Tavernier",
+    "img": ""
+  },
+  {
+    "name": "Traore",
+    "club": "Bournemouth",
+    "position": "Midfielder",
+    "nation": "Ivory Coast",
+    "value": 17,
+    "answer": "Hamed Traore",
+    "img": ""
+  },
+  {
+    "name": "Travers",
+    "club": "Bournemouth",
+    "position": "Goalkeeper",
+    "nation": "Ireland",
+    "value": 3.5,
+    "answer": "Mark Travers",
+    "img": ""
+  },
+  {
+    "name": "Unal",
+    "club": "Bournemouth",
+    "position": "Striker",
+    "nation": "Turkey",
+    "value": 18,
+    "answer": "Enes Unal",
+    "img": ""
+  },
+  {
+    "name": "Zabarnyi",
+    "club": "Bournemouth",
+    "position": "Defender",
+    "nation": "Ukraine",
+    "value": 32,
+    "answer": "Ilya Zabarnyi",
+    "img": ""
+  },
+  {
+    "name": "Aina",
+    "club": "Nottingham Forest",
+    "position": "Defender",
+    "nation": "Nigeria",
+    "value": 12,
+    "answer": "Ola Aina",
+    "img": ""
+  },
+  {
+    "name": "Anderson",
+    "club": "Nottingham Forest",
+    "position": "Midfielder",
+    "nation": "Scotland",
+    "value": 15,
+    "answer": "Elliot Anderson",
+    "img": ""
+  },
+  {
+    "name": "Awoniyi",
+    "club": "Nottingham Forest",
+    "position": "Striker",
+    "nation": "Nigeria",
+    "value": 28,
+    "answer": "Taiwo Awoniyi",
+    "img": ""
+  },
+  {
+    "name": "Boly",
+    "club": "Nottingham Forest",
+    "position": "Defender",
+    "nation": "Ivory Coast",
+    "value": 2.5,
+    "answer": "Willy Boly",
+    "img": ""
+  },
+  {
+    "name": "Danilo",
+    "club": "Nottingham Forest",
+    "position": "Midfielder",
+    "nation": "Brazil",
+    "value": 28,
+    "answer": "Danilo",
+    "img": ""
+  },
+  {
+    "name": "Dennis",
+    "club": "Nottingham Forest",
+    "position": "Striker",
+    "nation": "Nigeria",
+    "value": 4.2,
+    "answer": "Emmanuel Dennis",
+    "img": ""
+  },
+  {
+    "name": "Dominguez",
+    "club": "Nottingham Forest",
+    "position": "Midfielder",
+    "nation": "Argentina",
+    "value": 17,
+    "answer": "Nicolas Dominguez",
+    "img": ""
+  },
+  {
+    "name": "Elanga",
+    "club": "Nottingham Forest",
+    "position": "Winger",
+    "nation": "Sweden",
+    "value": 22,
+    "answer": "Anthony Elanga",
+    "img": ""
+  },
+  {
+    "name": "Gibbs white",
+    "club": "Nottingham Forest",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 40,
+    "answer": "Morgan Gibbs-White",
+    "img": ""
+  },
+  {
+    "name": "Hudson Odoi",
+    "club": "Nottingham Forest",
+    "position": "Winger",
+    "nation": "England",
+    "value": 18,
+    "answer": "Callum Hudson-Odoi",
+    "img": ""
+  },
+  {
+    "name": "Milenkovic",
+    "club": "Nottingham Forest",
+    "position": "Defender",
+    "nation": "Serbia",
+    "value": 15,
+    "answer": "Nikola Milenkovic",
+    "img": ""
+  },
+  {
+    "name": "Murillo",
+    "club": "Nottingham Forest",
+    "position": "Defender",
+    "nation": "Brazil",
+    "value": 35,
+    "answer": "Murillo",
+    "img": ""
+  },
+  {
+    "name": "O brien",
+    "club": "Nottingham Forest",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 5,
+    "answer": "Lewis O'Brien",
+    "img": ""
+  },
+  {
+    "name": "Omobamidele",
+    "club": "Nottingham Forest",
+    "position": "Defender",
+    "nation": "Ireland",
+    "value": 11,
+    "answer": "Andrew Omobamidele",
+    "img": ""
+  },
+  {
+    "name": "Richards",
+    "club": "Nottingham Forest",
+    "position": "Defender",
+    "nation": "England",
+    "value": 2.5,
+    "answer": "Omar Richards",
+    "img": ""
+  },
+  {
+    "name": "Sangare",
+    "club": "Nottingham Forest",
+    "position": "Midfielder",
+    "nation": "Ivory Coast",
+    "value": 30,
+    "answer": "Ibrahim Sangaré",
+    "img": ""
+  },
+  {
+    "name": "Selz",
+    "club": "Nottingham Forest",
+    "position": "Goalkeeper",
+    "nation": "Belgium",
+    "value": 7,
+    "answer": "Matz Sels",
+    "img": ""
+  },
+  {
+    "name": "Toffolo",
+    "club": "Nottingham Forest",
+    "position": "Defender",
+    "nation": "England",
+    "value": 5,
+    "answer": "Harry Toffolo",
+    "img": ""
+  },
+  {
+    "name": "Turner",
+    "club": "Nottingham Forest",
+    "position": "Goalkeeper",
+    "nation": "United States",
+    "value": 7,
+    "answer": "Matt Turner",
+    "img": ""
+  },
+  {
+    "name": "Williams",
+    "club": "Nottingham Forest",
+    "position": "Defender",
+    "nation": "Wales",
+    "value": 17,
+    "answer": "Neco Williams",
+    "img": ""
+  },
+  {
+    "name": "Wood",
+    "club": "Nottingham Forest",
+    "position": "Striker",
+    "nation": "New Zealand",
+    "value": 7,
+    "answer": "Chris Wood",
+    "img": ""
+  },
+  {
+    "name": "Worrall",
+    "club": "Nottingham Forest",
+    "position": "Defender",
+    "nation": "England",
+    "value": 7.5,
+    "answer": "Joe Worrall",
+    "img": ""
+  },
+  {
+    "name": "Yates",
+    "club": "Nottingham Forest",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 12,
+    "answer": "Ryan Yates",
+    "img": ""
+  },
+  {
+    "name": "Ait nouri",
+    "club": "Wolves",
+    "position": "Defender",
+    "nation": "Algeria",
+    "value": 35,
+    "answer": "Rayan Ait-Nouri",
+    "img": ""
+  },
+  {
+    "name": "Bellegarde",
+    "club": "Wolves",
+    "position": "Midfielder",
+    "nation": "France",
+    "value": 15,
+    "answer": "Jean-Ricner Bellgarde",
+    "img": ""
+  },
+  {
+    "name": "Bueno",
+    "club": "Wolves",
+    "position": "Defender",
+    "nation": "Spain",
+    "value": 6,
+    "answer": "Hugo Bueno",
+    "img": ""
+  },
+  {
+    "name": "Bueno",
+    "club": "Wolves",
+    "position": "Defender",
+    "nation": "Uruguay",
+    "value": 8,
+    "answer": "Santiago Bueno",
+    "img": ""
+  },
+  {
+    "name": "Cunha",
+    "club": "Wolves",
+    "position": "Striker",
+    "nation": "Brazil",
+    "value": 45,
+    "answer": "Matheus Cunha",
+    "img": ""
+  },
+  {
+    "name": "Dawson",
+    "club": "Wolves",
+    "position": "Defender",
+    "nation": "England",
+    "value": 2,
+    "answer": "Craig Dawson",
+    "img": ""
+  },
+  {
+    "name": "Doherty",
+    "club": "Wolves",
+    "position": "Defender",
+    "nation": "Ireland",
+    "value": 3,
+    "answer": "Matt Doherty",
+    "img": ""
+  },
+  {
+    "name": "Doyle",
+    "club": "Wolves",
+    "position": "Midfielder",
+    "nation": "Ireland",
+    "value": 10,
+    "answer": "Tommy Doyle",
+    "img": ""
+  },
+  {
+    "name": "Gomes",
+    "club": "Wolves",
+    "position": "Midfielder",
+    "nation": "Brazil",
+    "value": 35,
+    "answer": "Joao Gomes",
+    "img": ""
+  },
+  {
+    "name": "Gomes",
+    "club": "Wolves",
+    "position": "Winger",
+    "nation": "Portugal",
+    "value": 12,
+    "answer": "Rodrigo Gomes",
+    "img": ""
+  },
+  {
+    "name": "Guedes",
+    "club": "Wolves",
+    "position": "Winger",
+    "nation": "Portugal",
+    "value": 15,
+    "answer": "Goncalo Guedes",
+    "img": ""
+  },
+  {
+    "name": "Hoever",
+    "club": "Wolves",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 4.5,
+    "answer": "Ki-Jana Hoever",
+    "img": ""
+  },
+  {
+    "name": "Hwang",
+    "club": "Wolves",
+    "position": "Striker",
+    "nation": "South Korea",
+    "value": 25,
+    "answer": "Hwang Hee-Chan",
+    "img": ""
+  },
+  {
+    "name": "Kalajdzic",
+    "club": "Wolves",
+    "position": "Striker",
+    "nation": "Austria",
+    "value": 5,
+    "answer": "Sasa Kalajdzic",
+    "img": ""
+  },
+  {
+    "name": "Larsen",
+    "club": "Wolves",
+    "position": "Striker",
+    "nation": "Norway",
+    "value": 25,
+    "answer": "Jørgen Strand Larsen",
+    "img": ""
+  },
+  {
+    "name": "Lemina",
+    "club": "Wolves",
+    "position": "Midfielder",
+    "nation": "Gabon",
+    "value": 10,
+    "answer": "Mario Lemina",
+    "img": ""
+  },
+  {
+    "name": "Mosquera",
+    "club": "Wolves",
+    "position": "Defender",
+    "nation": "Colombia",
+    "value": 6,
+    "answer": "Yerson Mosquera",
+    "img": ""
+  },
+  {
+    "name": "Neto",
+    "club": "Wolves",
+    "position": "Winger",
+    "nation": "Portugal",
+    "value": 55,
+    "answer": "Pedro Neto",
+    "img": ""
+  },
+  {
+    "name": "Podence",
+    "club": "Wolves",
+    "position": "Winger",
+    "nation": "Portugal",
+    "value": 13,
+    "answer": "Daniel Podence",
+    "img": ""
+  },
+  {
+    "name": "Sa",
+    "club": "Wolves",
+    "position": "Goalkeeper",
+    "nation": "Portugal",
+    "value": 14,
+    "answer": "Jose Sa",
+    "img": ""
+  },
+  {
+    "name": "Sarabia",
+    "club": "Wolves",
+    "position": "Winger",
+    "nation": "Spain",
+    "value": 10,
+    "answer": "Pablo Sarabia",
+    "img": ""
+  },
+  {
+    "name": "Semedo",
+    "club": "Wolves",
+    "position": "Defender",
+    "nation": "Portugal",
+    "value": 12,
+    "answer": "Nelson Semedo",
+    "img": ""
+  },
+  {
+    "name": "Silva",
+    "club": "Wolves",
+    "position": "Striker",
+    "nation": "Portugal",
+    "value": 11,
+    "answer": "Fabio Silva",
+    "img": ""
+  },
+  {
+    "name": "Toti",
+    "club": "Wolves",
+    "position": "Defender",
+    "nation": "Portugal",
+    "value": 20,
+    "answer": "Toti",
+    "img": ""
+  },
+  {
+    "name": "Ajer",
+    "club": "Brentford",
+    "position": "Defender",
+    "nation": "Norway",
+    "value": 15,
+    "answer": "Kristoffer Ajer",
+    "img": ""
+  },
+  {
+    "name": "Collins",
+    "club": "Brentford",
+    "position": "Defender",
+    "nation": "Ireland",
+    "value": 25,
+    "answer": "Nathan Collins",
+    "img": ""
+  },
+  {
+    "name": "Damsgaard",
+    "club": "Brentford",
+    "position": "Winger",
+    "nation": "Denmark",
+    "value": 10,
+    "answer": "Mikkel Damsgaard",
+    "img": ""
+  },
+  {
+    "name": "Dasilva",
+    "club": "Brentford",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 10,
+    "answer": "Josh Dasilva",
+    "img": ""
+  },
+  {
+    "name": "Flekken",
+    "club": "Brentford",
+    "position": "Goalkeeper",
+    "nation": "Netherlands",
+    "value": 12,
+    "answer": "Mark Flekken",
+    "img": ""
+  },
+  {
+    "name": "Henry",
+    "club": "Brentford",
+    "position": "Defender",
+    "nation": "England",
+    "value": 20,
+    "answer": "Rico Henry",
+    "img": ""
+  },
+  {
+    "name": "Hickey",
+    "club": "Brentford",
+    "position": "Defender",
+    "nation": "Scotland",
+    "value": 28,
+    "answer": "Aaron Hickey",
+    "img": ""
+  },
+  {
+    "name": "Janelt",
+    "club": "Brentford",
+    "position": "Midfielder",
+    "nation": "Germany",
+    "value": 22,
+    "answer": "Vitaly Janelt",
+    "img": ""
+  },
+  {
+    "name": "Jensen",
+    "club": "Brentford",
+    "position": "Midfielder",
+    "nation": "Denmark",
+    "value": 28,
+    "answer": "Mathias Jansen",
+    "img": ""
+  },
+  {
+    "name": "Lewis Potter",
+    "club": "Brentford",
+    "position": "Winger",
+    "nation": "England",
+    "value": 15,
+    "answer": "Keane Lewis-Potter",
+    "img": ""
+  },
+  {
+    "name": "Mbeumo",
+    "club": "Brentford",
+    "position": "Winger",
+    "nation": "Cameroon",
+    "value": 40,
+    "answer": "Bryan Mbeumo",
+    "img": ""
+  },
+  {
+    "name": "Mee",
+    "club": "Brentford",
+    "position": "Defender",
+    "nation": "England",
+    "value": 1,
+    "answer": "Ben Mee",
+    "img": ""
+  },
+  {
+    "name": "Norgaard",
+    "club": "Brentford",
+    "position": "Midfielder",
+    "nation": "Denmark",
+    "value": 18,
+    "answer": "Christian Norgaard",
+    "img": ""
+  },
+  {
+    "name": "Onyeka",
+    "club": "Brentford",
+    "position": "Midfielder",
+    "nation": "Nigeria",
+    "value": 9,
+    "answer": "Frank Onyeka",
+    "img": ""
+  },
+  {
+    "name": "Pinnock",
+    "club": "Brentford",
+    "position": "Defender",
+    "nation": "Jamaica",
+    "value": 12,
+    "answer": "Ethan Pinnock",
+    "img": ""
+  },
+  {
+    "name": "Roerslev",
+    "club": "Brentford",
+    "position": "Defender",
+    "nation": "Denmark",
+    "value": 10,
+    "answer": "Mads Roerslev",
+    "img": ""
+  },
+  {
+    "name": "Schade",
+    "club": "Brentford",
+    "position": "Winger",
+    "nation": "Germany",
+    "value": 22,
+    "answer": "Kevin Schade",
+    "img": ""
+  },
+  {
+    "name": "Thiago",
+    "club": "Brentford",
+    "position": "Striker",
+    "nation": "Brazil",
+    "value": 25,
+    "answer": "Igor Thiago",
+    "img": ""
+  },
+  {
+    "name": "Toney",
+    "club": "Brentford",
+    "position": "Striker",
+    "nation": "England",
+    "value": 50,
+    "answer": "Ivan Toney",
+    "img": ""
+  },
+  {
+    "name": "Wissa",
+    "club": "Brentford",
+    "position": "Winger",
+    "nation": "DR Congo",
+    "value": 28,
+    "answer": "Yoane Wissa",
+    "img": ""
+  },
+  {
+    "name": "Yarmolyuk",
+    "club": "Brentford",
+    "position": "Midfielder",
+    "nation": "Ukraine",
+    "value": 10,
+    "answer": "Yegor Yarmolyuk",
+    "img": ""
+  },
+  {
+    "name": "Zanka",
+    "club": "Brentford",
+    "position": "Defender",
+    "nation": "Denmark",
+    "value": 1,
+    "answer": "Zanka",
+    "img": ""
+  },
+  {
+    "name": "Adingra",
+    "club": "Brighton",
+    "position": "Winger",
+    "nation": "Ivory Coast",
+    "value": 30,
+    "answer": "Simon Adingra",
+    "img": ""
+  },
+  {
+    "name": "Ayari",
+    "club": "Brighton",
+    "position": "Midfielder",
+    "nation": "Sweden",
+    "value": 4.5,
+    "answer": "Yasin Atari",
+    "img": ""
+  },
+  {
+    "name": "Baleba",
+    "club": "Brighton",
+    "position": "Midfielder",
+    "nation": "Cameroon",
+    "value": 22,
+    "answer": "Carlos Baleba",
+    "img": ""
+  },
+  {
+    "name": "Barco",
+    "club": "Brighton",
+    "position": "Defender",
+    "nation": "Argentina",
+    "value": 13,
+    "answer": "Valentin Barco",
+    "img": ""
+  },
+  {
+    "name": "Buonanotte",
+    "club": "Brighton",
+    "position": "Midfielder",
+    "nation": "Argentina",
+    "value": 18,
+    "answer": "Facundo Buonanotte",
+    "img": ""
+  },
+  {
+    "name": "Cozier Duberry",
+    "club": "Brighton",
+    "position": "Winger",
+    "nation": "England",
+    "value": 2,
+    "answer": "Amario Cozier-Duberry",
+    "img": ""
+  },
+  {
+    "name": "Dahoud",
+    "club": "Brighton",
+    "position": "Midfielder",
+    "nation": "Germany",
+    "value": 6,
+    "answer": "Mohamed Dahoud",
+    "img": ""
+  },
+  {
+    "name": "Dunk",
+    "club": "Brighton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 12,
+    "answer": "Lewis Dunk",
+    "img": ""
+  },
+  {
+    "name": "Enciso",
+    "club": "Brighton",
+    "position": "Midfielder",
+    "nation": "Paraguay",
+    "value": 22,
+    "answer": "Julio Enciso",
+    "img": ""
+  },
+  {
+    "name": "Estupinan",
+    "club": "Brighton",
+    "position": "Defender",
+    "nation": "Ecuador",
+    "value": 30,
+    "answer": "Pervis Estupinan",
+    "img": ""
+  },
+  {
+    "name": "Ferguson",
+    "club": "Brighton",
+    "position": "Striker",
+    "nation": "Ireland",
+    "value": 50,
+    "answer": "Evan Ferguson",
+    "img": ""
+  },
+  {
+    "name": "Gilmour",
+    "club": "Brighton",
+    "position": "Midfielder",
+    "nation": "Scotland",
+    "value": 18,
+    "answer": "Billy Gilmour",
+    "img": ""
+  },
+  {
+    "name": "Gross",
+    "club": "Brighton",
+    "position": "Midfielder",
+    "nation": "Germany",
+    "value": 8,
+    "answer": "Pascal Gross",
+    "img": ""
+  },
+  {
+    "name": "Hinshelwood",
+    "club": "Brighton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 16,
+    "answer": "Jack Hinshelwood",
+    "img": ""
+  },
+  {
+    "name": "Igor",
+    "club": "Brighton",
+    "position": "Defender",
+    "nation": "Brazil",
+    "value": 17,
+    "answer": "Igor",
+    "img": ""
+  },
+  {
+    "name": "Lamptey",
+    "club": "Brighton",
+    "position": "Defender",
+    "nation": "Ghana",
+    "value": 12,
+    "answer": "Tariq Lamptey",
+    "img": ""
+  },
+  {
+    "name": "March",
+    "club": "Brighton",
+    "position": "Winger",
+    "nation": "England",
+    "value": 18,
+    "answer": "Solly March",
+    "img": ""
+  },
+  {
+    "name": "Milner",
+    "club": "Brighton",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 1,
+    "answer": "James Milner",
+    "img": ""
+  },
+  {
+    "name": "Minteh",
+    "club": "Brighton",
+    "position": "Winger",
+    "nation": "Gambia",
+    "value": 16,
+    "answer": "Yankuba Minteh",
+    "img": ""
+  },
+  {
+    "name": "Mitoma",
+    "club": "Brighton",
+    "position": "Winger",
+    "nation": "Japan",
+    "value": 45,
+    "answer": "Kaoru Mitoma",
+    "img": ""
+  },
+  {
+    "name": "Moder",
+    "club": "Brighton",
+    "position": "Midfielder",
+    "nation": "Poland",
+    "value": 10,
+    "answer": "Jakub Moder",
+    "img": ""
+  },
+  {
+    "name": "Osman",
+    "club": "Brighton",
+    "position": "Winger",
+    "nation": "Ghana",
+    "value": 12,
+    "answer": "Ibrahim Osman",
+    "img": ""
+  },
+  {
+    "name": "Pedro",
+    "club": "Brighton",
+    "position": "Striker",
+    "nation": "Brazil",
+    "value": 45,
+    "answer": "Joao Pedro",
+    "img": ""
+  },
+  {
+    "name": "Sarmiento",
+    "club": "Brighton",
+    "position": "Winger",
+    "nation": "Ecuador",
+    "value": 7,
+    "answer": "Jeremy Sarmiento",
+    "img": ""
+  },
+  {
+    "name": "Steele",
+    "club": "Brighton",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 3.5,
+    "answer": "Jason Steele",
+    "img": ""
+  },
+  {
+    "name": "Undav",
+    "club": "Brighton",
+    "position": "Striker",
+    "nation": "Germany",
+    "value": 25,
+    "answer": "Deniz Undav",
+    "img": ""
+  },
+  {
+    "name": "Van hecke",
+    "club": "Brighton",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 18,
+    "answer": "Jan Paul van Hecke",
+    "img": ""
+  },
+  {
+    "name": "Veltman",
+    "club": "Brighton",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 10,
+    "answer": "Joel Veltman",
+    "img": ""
+  },
+  {
+    "name": "Verbruggen",
+    "club": "Brighton",
+    "position": "Goalkeeper",
+    "nation": "Netherlands",
+    "value": 18,
+    "answer": "Bart Verbruggen",
+    "img": ""
+  },
+  {
+    "name": "Webster",
+    "club": "Brighton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 20,
+    "answer": "Adam Webster",
+    "img": ""
+  },
+  {
+    "name": "Welbeck",
+    "club": "Brighton",
+    "position": "Striker",
+    "nation": "England",
+    "value": 5,
+    "answer": "Danny Welbeck",
+    "img": ""
+  },
+  {
+    "name": "Wieffer",
+    "club": "Brighton",
+    "position": "Midfielder",
+    "nation": "Netherlands",
+    "value": 30,
+    "answer": "Mats Wieffer",
+    "img": ""
+  },
+  {
+    "name": "Ahamada",
+    "club": "Crystal Palace",
+    "position": "Midfielder",
+    "nation": "France",
+    "value": 8,
+    "answer": "Naouirou Acamada",
+    "img": ""
+  },
+  {
+    "name": "Andersen",
+    "club": "Crystal Palace",
+    "position": "Defender",
+    "nation": "Denmark",
+    "value": 35,
+    "answer": "Joachim Andersen",
+    "img": ""
+  },
+  {
+    "name": "Ayew",
+    "club": "Crystal Palace",
+    "position": "Striker",
+    "nation": "Ghana",
+    "value": 4,
+    "answer": "Jordan Ayer",
+    "img": ""
+  },
+  {
+    "name": "Clyne",
+    "club": "Crystal Palace",
+    "position": "Defender",
+    "nation": "England",
+    "value": 1.5,
+    "answer": "Nathaniel Clyne",
+    "img": ""
+  },
+  {
+    "name": "Doucoure",
+    "club": "Crystal Palace",
+    "position": "Midfielder",
+    "nation": "Mali",
+    "value": 35,
+    "answer": "Cheick Doucoure",
+    "img": ""
+  },
+  {
+    "name": "Edouard",
+    "club": "Crystal Palace",
+    "position": "Striker",
+    "nation": "France",
+    "value": 18,
+    "answer": "Odsonne Edouard",
+    "img": ""
+  },
+  {
+    "name": "Eze",
+    "club": "Crystal Palace",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 55,
+    "answer": "Eberechi Eze",
+    "img": ""
+  },
+  {
+    "name": "Franca",
+    "club": "Crystal Palace",
+    "position": "Midfielder",
+    "nation": "Brazil",
+    "value": 15,
+    "answer": "Matheus França",
+    "img": ""
+  },
+  {
+    "name": "Geuhi",
+    "club": "Crystal Palace",
+    "position": "Defender",
+    "nation": "England",
+    "value": 38,
+    "answer": "Marc Geuhi",
+    "img": ""
+  },
+  {
+    "name": "Henderson",
+    "club": "Crystal Palace",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 12,
+    "answer": "Dean Henderson",
+    "img": ""
+  },
+  {
+    "name": "Holding",
+    "club": "Crystal Palace",
+    "position": "Defender",
+    "nation": "England",
+    "value": 5,
+    "answer": "Rob Holding",
+    "img": ""
+  },
+  {
+    "name": "Hughes",
+    "club": "Crystal Palace",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 9,
+    "answer": "Will Hughes",
+    "img": ""
+  },
+  {
+    "name": "Johnstone",
+    "club": "Crystal Palace",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 10,
+    "answer": "Sam Johnstone",
+    "img": ""
+  },
+  {
+    "name": "Kamada",
+    "club": "Crystal Palace",
+    "position": "Midfielder",
+    "nation": "Japan",
+    "value": 18,
+    "answer": "Daichi Kamada",
+    "img": ""
+  },
+  {
+    "name": "Lerma",
+    "club": "Crystal Palace",
+    "position": "Midfielder",
+    "nation": "Colombia",
+    "value": 20,
+    "answer": "Jefferson Lerma",
+    "img": ""
+  },
+  {
+    "name": "Mateta",
+    "club": "Crystal Palace",
+    "position": "Striker",
+    "nation": "France",
+    "value": 20,
+    "answer": "Jean-Phillippe Mateta",
+    "img": ""
+  },
+  {
+    "name": "Mitchell",
+    "club": "Crystal Palace",
+    "position": "Defender",
+    "nation": "England",
+    "value": 25,
+    "answer": "Tyrick Mitchell",
+    "img": ""
+  },
+  {
+    "name": "Munoz",
+    "club": "Crystal Palace",
+    "position": "Defender",
+    "nation": "Colombia",
+    "value": 23,
+    "answer": "Daniel Muñoz",
+    "img": ""
+  },
+  {
+    "name": "Rak Sakyi",
+    "club": "Crystal Palace",
+    "position": "Winger",
+    "nation": "England",
+    "value": 2,
+    "answer": "Jesurun Rak-Sakyi",
+    "img": ""
+  },
+  {
+    "name": "Riad",
+    "club": "Crystal Palace",
+    "position": "Defender",
+    "nation": "Morocco",
+    "value": 15,
+    "answer": "Chadi Riad",
+    "img": ""
+  },
+  {
+    "name": "Richards",
+    "club": "Crystal Palace",
+    "position": "Defender",
+    "nation": "United States",
+    "value": 12,
+    "answer": "Chris Richards",
+    "img": ""
+  },
+  {
+    "name": "Schlupp",
+    "club": "Crystal Palace",
+    "position": "Midfielder",
+    "nation": "Ghana",
+    "value": 7,
+    "answer": "Jeffrey Schlupp",
+    "img": ""
+  },
+  {
+    "name": "Ward",
+    "club": "Crystal Palace",
+    "position": "Defender",
+    "nation": "England",
+    "value": 1,
+    "answer": "Joel Ward",
+    "img": ""
+  },
+  {
+    "name": "Wharton",
+    "club": "Crystal Palace",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 30,
+    "answer": "Adam Wharton",
+    "img": ""
+  },
+  {
+    "name": "Akanji",
+    "club": "Manchester City",
+    "position": "Defender",
+    "nation": "Switzerland",
+    "value": 45,
+    "answer": "Manuel Akanji",
+    "img": ""
+  },
+  {
+    "name": "Ake",
+    "club": "Manchester City",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 40,
+    "answer": "Nathan Ake",
+    "img": ""
+  },
+  {
+    "name": "Alvarez",
+    "club": "Manchester City",
+    "position": "Striker",
+    "nation": "Argentina",
+    "value": 90,
+    "answer": "Julian Alvarez",
+    "img": ""
+  },
+  {
+    "name": "Bobb",
+    "club": "Manchester City",
+    "position": "Winger",
+    "nation": "Norway",
+    "value": 25,
+    "answer": "Oscar Bobb",
+    "img": ""
+  },
+  {
+    "name": "Cancelo",
+    "club": "Manchester City",
+    "position": "Defender",
+    "nation": "Portugal",
+    "value": 25,
+    "answer": "Joao Cancelo",
+    "img": ""
+  },
+  {
+    "name": "Couto",
+    "club": "Manchester City",
+    "position": "Defender",
+    "nation": "Brazil",
+    "value": 25,
+    "answer": "Yan Couto",
+    "img": ""
+  },
+  {
+    "name": "De bruyne",
+    "club": "Manchester City",
+    "position": "Midfielder",
+    "nation": "Belgium",
+    "value": 50,
+    "answer": "Kevin De Bruyne",
+    "img": ""
+  },
+  {
+    "name": "Dias",
+    "club": "Manchester City",
+    "position": "Defender",
+    "nation": "Portugal",
+    "value": 80,
+    "answer": "Ruben Dias",
+    "img": ""
+  },
+  {
+    "name": "Doku",
+    "club": "Manchester City",
+    "position": "Winger",
+    "nation": "Belgium",
+    "value": 65,
+    "answer": "Jeremy Doku",
+    "img": ""
+  },
+  {
+    "name": "Ederson",
+    "club": "Manchester City",
+    "position": "Goalkeeper",
+    "nation": "Brazil",
+    "value": 35,
+    "answer": "Ederson",
+    "img": ""
+  },
+  {
+    "name": "Foden",
+    "club": "Manchester City",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 150,
+    "answer": "Phil Foden",
+    "img": ""
+  },
+  {
+    "name": "Grealish",
+    "club": "Manchester City",
+    "position": "Winger",
+    "nation": "England",
+    "value": 60,
+    "answer": "Jack Grealish",
+    "img": ""
+  },
+  {
+    "name": "Gvardiol",
+    "club": "Manchester City",
+    "position": "Defender",
+    "nation": "Croatia",
+    "value": 75,
+    "answer": "Josko Gvardiol",
+    "img": ""
+  },
+  {
+    "name": "Haaland",
+    "club": "Manchester City",
+    "position": "Striker",
+    "nation": "Norway",
+    "value": 180,
+    "answer": "Erling Haaland",
+    "img": ""
+  },
+  {
+    "name": "Kovacic",
+    "club": "Manchester City",
+    "position": "Midfielder",
+    "nation": "Croatia",
+    "value": 30,
+    "answer": "Mateo Kovacic",
+    "img": ""
+  },
+  {
+    "name": "Lewis",
+    "club": "Manchester City",
+    "position": "Defender",
+    "nation": "England",
+    "value": 38,
+    "answer": "Rico Lewis",
+    "img": ""
+  },
+  {
+    "name": "McAtee",
+    "club": "Manchester City",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 12,
+    "answer": "James McAtee",
+    "img": ""
+  },
+  {
+    "name": "Nunes",
+    "club": "Manchester City",
+    "position": "Midfielder",
+    "nation": "Portugal",
+    "value": 50,
+    "answer": "Matheus Nunes",
+    "img": ""
+  },
+  {
+    "name": "Ortega",
+    "club": "Manchester City",
+    "position": "Goalkeeper",
+    "nation": "Germany",
+    "value": 9,
+    "answer": "Stefan Ortega",
+    "img": ""
+  },
+  {
+    "name": "Phillips",
+    "club": "Manchester City",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 25,
+    "answer": "Kalvin Phillips",
+    "img": ""
+  },
+  {
+    "name": "Rodri",
+    "club": "Manchester City",
+    "position": "Midfielder",
+    "nation": "Spain",
+    "value": 130,
+    "answer": "Rodri",
+    "img": ""
+  },
+  {
+    "name": "Savinho",
+    "club": "Manchester City",
+    "position": "Winger",
+    "nation": "Brazil",
+    "value": 50,
+    "answer": "Saving",
+    "img": ""
+  },
+  {
+    "name": "Silva",
+    "club": "Manchester City",
+    "position": "Midfielder",
+    "nation": "Portugal",
+    "value": 70,
+    "answer": "Bernardo Silva",
+    "img": ""
+  },
+  {
+    "name": "Stones",
+    "club": "Manchester City",
+    "position": "Defender",
+    "nation": "England",
+    "value": 38,
+    "answer": "John Stones",
+    "img": ""
+  },
+  {
+    "name": "Walker",
+    "club": "Manchester City",
+    "position": "Defender",
+    "nation": "England",
+    "value": 13,
+    "answer": "Kyle Walker",
+    "img": ""
+  },
+  {
+    "name": "Bassey",
+    "club": "Fulham",
+    "position": "Defender",
+    "nation": "Nigeria",
+    "value": 16,
+    "answer": "Calvin Bassey",
+    "img": ""
+  },
+  {
+    "name": "Cairney",
+    "club": "Fulham",
+    "position": "Midfielder",
+    "nation": "Scotland",
+    "value": 2,
+    "answer": "Tom Cairney",
+    "img": ""
+  },
+  {
+    "name": "Castagne",
+    "club": "Fulham",
+    "position": "Defender",
+    "nation": "Belgium",
+    "value": 17,
+    "answer": "Timothy Castagne",
+    "img": ""
+  },
+  {
+    "name": "Diop",
+    "club": "Fulham",
+    "position": "Defender",
+    "nation": "France",
+    "value": 20,
+    "answer": "Issa Diop",
+    "img": ""
+  },
+  {
+    "name": "Iwobi",
+    "club": "Fulham",
+    "position": "Winger",
+    "nation": "England",
+    "value": 25,
+    "answer": "Alex Iwobi",
+    "img": ""
+  },
+  {
+    "name": "Jimenez",
+    "club": "Fulham",
+    "position": "Striker",
+    "nation": "Mexico",
+    "value": 5,
+    "answer": "Raul Jimenez",
+    "img": ""
+  },
+  {
+    "name": "Leno",
+    "club": "Fulham",
+    "position": "Goalkeeper",
+    "nation": "Germany",
+    "value": 13,
+    "answer": "Bernd Leno",
+    "img": ""
+  },
+  {
+    "name": "Lukic",
+    "club": "Fulham",
+    "position": "Midfielder",
+    "nation": "Serbia",
+    "value": 10,
+    "answer": "Sasa Lukic",
+    "img": ""
+  },
+  {
+    "name": "Mbabu",
+    "club": "Fulham",
+    "position": "Defender",
+    "nation": "Switzerland",
+    "value": 4,
+    "answer": "Kevin Mbabu",
+    "img": ""
+  },
+  {
+    "name": "Muniz",
+    "club": "Fulham",
+    "position": "Striker",
+    "nation": "Brazil",
+    "value": 20,
+    "answer": "Rodrigo Muniz",
+    "img": ""
+  },
+  {
+    "name": "Pereira",
+    "club": "Fulham",
+    "position": "Midfielder",
+    "nation": "Brazil",
+    "value": 20,
+    "answer": "Andreas Pereira",
+    "img": ""
+  },
+  {
+    "name": "Ream",
+    "club": "Fulham",
+    "position": "Defender",
+    "nation": "United States",
+    "value": 0.8,
+    "answer": "Tim Ream",
+    "img": ""
+  },
+  {
+    "name": "Reed",
+    "club": "Fulham",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 15,
+    "answer": "Harrison Reed",
+    "img": ""
+  },
+  {
+    "name": "Robinson",
+    "club": "Fulham",
+    "position": "Defender",
+    "nation": "United States",
+    "value": 25,
+    "answer": "Antonee Robinson",
+    "img": ""
+  },
+  {
+    "name": "Sessengon",
+    "club": "Fulham",
+    "position": "Winger",
+    "nation": "England",
+    "value": 10,
+    "answer": "Ryan Sessegnon",
+    "img": ""
+  },
+  {
+    "name": "Stansfield",
+    "club": "Fulham",
+    "position": "Striker",
+    "nation": "England",
+    "value": 3.5,
+    "answer": "Jay Stansfield",
+    "img": ""
+  },
+  {
+    "name": "Tete",
+    "club": "Fulham",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 15,
+    "answer": "Kenny Tete",
+    "img": ""
+  },
+  {
+    "name": "Traore",
+    "club": "Fulham",
+    "position": "Winger",
+    "nation": "Spain",
+    "value": 9,
+    "answer": "Adama Traore",
+    "img": ""
+  },
+  {
+    "name": "Vinicius",
+    "club": "Fulham",
+    "position": "Striker",
+    "nation": "Brazil",
+    "value": 4,
+    "answer": "Carlos Vinicius",
+    "img": ""
+  },
+  {
+    "name": "Willian",
+    "club": "Fulham",
+    "position": "Winger",
+    "nation": "Brazil",
+    "value": 3,
+    "answer": "Willian",
+    "img": ""
+  },
+  {
+    "name": "Wilson",
+    "club": "Fulham",
+    "position": "Winger",
+    "nation": "England",
+    "value": 17,
+    "answer": "Harry Wilson",
+    "img": ""
+  },
+  {
+    "name": "Alexander arnold",
+    "club": "Liverpool",
+    "position": "Defender",
+    "nation": "England",
+    "value": 70,
+    "answer": "Trent Alexander-Arnold",
+    "img": ""
+  },
+  {
+    "name": "Alisson",
+    "club": "Liverpool",
+    "position": "Goalkeeper",
+    "nation": "Brazil",
+    "value": 28,
+    "answer": "Alisson",
+    "img": ""
+  },
+  {
+    "name": "Bajcetic",
+    "club": "Liverpool",
+    "position": "Midfielder",
+    "nation": "Spain",
+    "value": 11,
+    "answer": "Stefan Bajcetic",
+    "img": ""
+  },
+  {
+    "name": "Bradley",
+    "club": "Liverpool",
+    "position": "Defender",
+    "nation": "Northern Ireland",
+    "value": 15,
+    "answer": "Connor Bradley",
+    "img": ""
+  },
+  {
+    "name": "Carvalho",
+    "club": "Liverpool",
+    "position": "Midfielder",
+    "nation": "Portugal",
+    "value": 14,
+    "answer": "Fabio Carvalho",
+    "img": ""
+  },
+  {
+    "name": "Diaz",
+    "club": "Liverpool",
+    "position": "Winger",
+    "nation": "Colombia",
+    "value": 75,
+    "answer": "Luis Diaz",
+    "img": ""
+  },
+  {
+    "name": "Doak",
+    "club": "Liverpool",
+    "position": "Winger",
+    "nation": "Scotland",
+    "value": 10,
+    "answer": "Ben Soak",
+    "img": ""
+  },
+  {
+    "name": "Elliott",
+    "club": "Liverpool",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 35,
+    "answer": "Harvey Elliott",
+    "img": ""
+  },
+  {
+    "name": "Endo",
+    "club": "Liverpool",
+    "position": "Midfielder",
+    "nation": "Japan",
+    "value": 13,
+    "answer": "Water Endo",
+    "img": ""
+  },
+  {
+    "name": "Gakpo",
+    "club": "Liverpool",
+    "position": "Winger",
+    "nation": "Netherlands",
+    "value": 50,
+    "answer": "Cody Gakpo",
+    "img": ""
+  },
+  {
+    "name": "Gomez",
+    "club": "Liverpool",
+    "position": "Defender",
+    "nation": "England",
+    "value": 28,
+    "answer": "Joe Gomez",
+    "img": ""
+  },
+  {
+    "name": "Gravenberch",
+    "club": "Liverpool",
+    "position": "Midfielder",
+    "nation": "Netherlands",
+    "value": 35,
+    "answer": "Ryan Gravenberch",
+    "img": ""
+  },
+  {
+    "name": "Jones",
+    "club": "Liverpool",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 35,
+    "answer": "Curtis Jones",
+    "img": ""
+  },
+  {
+    "name": "Jota",
+    "club": "Liverpool",
+    "position": "Winger",
+    "nation": "Portugal",
+    "value": 50,
+    "answer": "Diogo Jota",
+    "img": ""
+  },
+  {
+    "name": "Kelleher",
+    "club": "Liverpool",
+    "position": "Goalkeeper",
+    "nation": "Ireland",
+    "value": 20,
+    "answer": "Caoimhin Kelleher",
+    "img": ""
+  },
+  {
+    "name": "Konate",
+    "club": "Liverpool",
+    "position": "Defender",
+    "nation": "France",
+    "value": 45,
+    "answer": "Ibrahima Konate",
+    "img": ""
+  },
+  {
+    "name": "Mac allister",
+    "club": "Liverpool",
+    "position": "Midfielder",
+    "nation": "Argentina",
+    "value": 75,
+    "answer": "Alexis Mac Allister",
+    "img": ""
+  },
+  {
+    "name": "Nunez",
+    "club": "Liverpool",
+    "position": "Striker",
+    "nation": "Uruguay",
+    "value": 70,
+    "answer": "Diego Nunez",
+    "img": ""
+  },
+  {
+    "name": "Quansah",
+    "club": "Liverpool",
+    "position": "Defender",
+    "nation": "England",
+    "value": 22,
+    "answer": "Jarrell Quansah",
+    "img": ""
+  },
+  {
+    "name": "Robertson",
+    "club": "Liverpool",
+    "position": "Defender",
+    "nation": "Scotland",
+    "value": 30,
+    "answer": "Andrew Robertson",
+    "img": ""
+  },
+  {
+    "name": "Salah",
+    "club": "Liverpool",
+    "position": "Winger",
+    "nation": "Egypt",
+    "value": 55,
+    "answer": "Mohamed Salah",
+    "img": ""
+  },
+  {
+    "name": "Szoboszlai",
+    "club": "Liverpool",
+    "position": "Midfielder",
+    "nation": "Hungary",
+    "value": 75,
+    "answer": "Dominik Szoboszlai",
+    "img": ""
+  },
+  {
+    "name": "Tsimikas",
+    "club": "Liverpool",
+    "position": "Defender",
+    "nation": "Greece",
+    "value": 22,
+    "answer": "Kostas Tsimikas",
+    "img": ""
+  },
+  {
+    "name": "Van den berg",
+    "club": "Liverpool",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 12,
+    "answer": "Sepp Van den Berg",
+    "img": ""
+  },
+  {
+    "name": "Van dijk",
+    "club": "Liverpool",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 30,
+    "answer": "Virgil Van Dijk",
+    "img": ""
+  },
+  {
+    "name": "Alcaraz",
+    "club": "Southampton",
+    "position": "Midfielder",
+    "nation": "Argentina",
+    "value": 15,
+    "answer": "Carlos Alcaraz",
+    "img": ""
+  },
+  {
+    "name": "Aribo",
+    "club": "Southampton",
+    "position": "Midfielder",
+    "nation": "Nigeria",
+    "value": 5,
+    "answer": "Joe Aribo",
+    "img": ""
+  },
+  {
+    "name": "Armstrong",
+    "club": "Southampton",
+    "position": "Striker",
+    "nation": "England",
+    "value": 16,
+    "answer": "Adam Armstrong",
+    "img": ""
+  },
+  {
+    "name": "Bazunu",
+    "club": "Southampton",
+    "position": "Goalkeeper",
+    "nation": "Ireland",
+    "value": 15,
+    "answer": "Gavin Bazunu",
+    "img": ""
+  },
+  {
+    "name": "Bednarek",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "Poland",
+    "value": 11,
+    "answer": "Jan Bednarek",
+    "img": ""
+  },
+  {
+    "name": "Bella Kotchap",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "Germany",
+    "value": 12,
+    "answer": "Armel Bella-Kotchap",
+    "img": ""
+  },
+  {
+    "name": "Bree",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 2.2,
+    "answer": "James Bree",
+    "img": ""
+  },
+  {
+    "name": "Charles",
+    "club": "Southampton",
+    "position": "Midfielder",
+    "nation": "Northern Ireland",
+    "value": 10,
+    "answer": "Shea Charles",
+    "img": ""
+  },
+  {
+    "name": "Downes",
+    "club": "Southampton",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 9,
+    "answer": "Flynn Downes",
+    "img": ""
+  },
+  {
+    "name": "Edozie",
+    "club": "Southampton",
+    "position": "Winger",
+    "nation": "England",
+    "value": 8,
+    "answer": "Samuel Edozie",
+    "img": ""
+  },
+  {
+    "name": "Edwards",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 3.8,
+    "answer": "Ronnie Edwards",
+    "img": ""
+  },
+  {
+    "name": "Hardwood Bellis",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 22,
+    "answer": "Taylor Harwood-Bellis",
+    "img": ""
+  },
+  {
+    "name": "Lallana",
+    "club": "Southampton",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 1,
+    "answer": "Adam Lallana",
+    "img": ""
+  },
+  {
+    "name": "Larios",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "Spain",
+    "value": 4.5,
+    "answer": "Juan Larios",
+    "img": ""
+  },
+  {
+    "name": "Manning",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "Ireland",
+    "value": 3,
+    "answer": "Ryan Manning",
+    "img": ""
+  },
+  {
+    "name": "Mara",
+    "club": "Southampton",
+    "position": "Striker",
+    "nation": "France",
+    "value": 6,
+    "answer": "Sekou Mara",
+    "img": ""
+  },
+  {
+    "name": "Onuachu",
+    "club": "Southampton",
+    "position": "Striker",
+    "nation": "Nigeria",
+    "value": 13,
+    "answer": "Paul Onuachu",
+    "img": ""
+  },
+  {
+    "name": "Smallbone",
+    "club": "Southampton",
+    "position": "Midfielder",
+    "nation": "Ireland",
+    "value": 5,
+    "answer": "Will Smallbone",
+    "img": ""
+  },
+  {
+    "name": "Stephens",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "Scotland",
+    "value": 2,
+    "answer": "Jack Stephens",
+    "img": ""
+  },
+  {
+    "name": "Stewart",
+    "club": "Southampton",
+    "position": "Striker",
+    "nation": "Scotland",
+    "value": 4.5,
+    "answer": "Ross Stewart",
+    "img": ""
+  },
+  {
+    "name": "Sugawara",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "Japan",
+    "value": 12,
+    "answer": "Yukinari Sugawara",
+    "img": ""
+  },
+  {
+    "name": "Sulemana",
+    "club": "Southampton",
+    "position": "Winger",
+    "nation": "Ghana",
+    "value": 13,
+    "answer": "Kamaldeen Sulemana",
+    "img": ""
+  },
+  {
+    "name": "Taylor",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 3,
+    "answer": "Charlie Taylor",
+    "img": ""
+  },
+  {
+    "name": "Walker Peters",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 20,
+    "answer": "Kyle Walker-Peters",
+    "img": ""
+  },
+  {
+    "name": "Wood",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 3.8,
+    "answer": "Nathan Wood",
+    "img": ""
+  },
+  {
+    "name": "Adarabioyo",
+    "club": "Chelsea",
+    "position": "Defender",
+    "nation": "England",
+    "value": 20,
+    "answer": "Tosin Adarabioyo",
+    "img": ""
+  },
+  {
+    "name": "Badiashile",
+    "club": "Chelsea",
+    "position": "Defender",
+    "nation": "France",
+    "value": 30,
+    "answer": "Benoit Badiashile",
+    "img": ""
+  },
+  {
+    "name": "Broja",
+    "club": "Chelsea",
+    "position": "Striker",
+    "nation": "Albania",
+    "value": 22,
+    "answer": "Armando Broja",
+    "img": ""
+  },
+  {
+    "name": "Caicedo",
+    "club": "Chelsea",
+    "position": "Midfielder",
+    "nation": "Ecuador",
+    "value": 75,
+    "answer": "Moises Caicedo",
+    "img": ""
+  },
+  {
+    "name": "Chalobah",
+    "club": "Chelsea",
+    "position": "Defender",
+    "nation": "England",
+    "value": 13,
+    "answer": "Trevoh Chalobah",
+    "img": ""
+  },
+  {
+    "name": "Chilwell",
+    "club": "Chelsea",
+    "position": "Defender",
+    "nation": "England",
+    "value": 28,
+    "answer": "Ben Chilwell",
+    "img": ""
+  },
+  {
+    "name": "Chukwuemeka",
+    "club": "Chelsea",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 15,
+    "answer": "Carney Chukwuemeka",
+    "img": ""
+  },
+  {
+    "name": "Colwill",
+    "club": "Chelsea",
+    "position": "Defender",
+    "nation": "England",
+    "value": 50,
+    "answer": "Levi Colwill",
+    "img": ""
+  },
+  {
+    "name": "Cucurella",
+    "club": "Chelsea",
+    "position": "Defender",
+    "nation": "Spain",
+    "value": 30,
+    "answer": "Marc Cucurella",
+    "img": ""
+  },
+  {
+    "name": "Dewsbury Hall",
+    "club": "Chelsea",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 30,
+    "answer": "Kiernan Dewsbury-Hall",
+    "img": ""
+  },
+  {
+    "name": "Disasi",
+    "club": "Chelsea",
+    "position": "Defender",
+    "nation": "France",
+    "value": 40,
+    "answer": "Axel Disasi",
+    "img": ""
+  },
+  {
+    "name": "Fernandez",
+    "club": "Chelsea",
+    "position": "Midfielder",
+    "nation": "Argentina",
+    "value": 75,
+    "answer": "Enzo Fernandez",
+    "img": ""
+  },
+  {
+    "name": "Fofana",
+    "club": "Chelsea",
+    "position": "Defender",
+    "nation": "France",
+    "value": 25,
+    "answer": "Wesley Fofana",
+    "img": ""
+  },
+  {
+    "name": "Fofana",
+    "club": "Chelsea",
+    "position": "Striker",
+    "nation": "Ivory Coast",
+    "value": 12,
+    "answer": "David Datro Fofana",
+    "img": ""
+  },
+  {
+    "name": "Gallagher",
+    "club": "Chelsea",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 50,
+    "answer": "Conor Gallagher",
+    "img": ""
+  },
+  {
+    "name": "Gilchrist",
+    "club": "Chelsea",
+    "position": "Defender",
+    "nation": "England",
+    "value": 5,
+    "answer": "Alfie Gilchrist",
+    "img": ""
+  },
+  {
+    "name": "Guiu",
+    "club": "Chelsea",
+    "position": "Striker",
+    "nation": "Spain",
+    "value": 7.5,
+    "answer": "Marc Guin",
+    "img": ""
+  },
+  {
+    "name": "Gusto",
+    "club": "Chelsea",
+    "position": "Defender",
+    "nation": "France",
+    "value": 35,
+    "answer": "Malo Gusto",
+    "img": ""
+  },
+  {
+    "name": "Jackson",
+    "club": "Chelsea",
+    "position": "Striker",
+    "nation": "Senegal",
+    "value": 35,
+    "answer": "Nicolas Jackson",
+    "img": ""
+  },
+  {
+    "name": "James",
+    "club": "Chelsea",
+    "position": "Defender",
+    "nation": "England",
+    "value": 40,
+    "answer": "Reece James",
+    "img": ""
+  },
+  {
+    "name": "Kepa",
+    "club": "Chelsea",
+    "position": "Goalkeeper",
+    "nation": "Spain",
+    "value": 12,
+    "answer": "Kepa Arrizabalaga",
+    "img": ""
+  },
+  {
+    "name": "Lavia",
+    "club": "Chelsea",
+    "position": "Midfielder",
+    "nation": "Belgium",
+    "value": 35,
+    "answer": "Romeo Lavia",
+    "img": ""
+  },
+  {
+    "name": "Lukaku",
+    "club": "Chelsea",
+    "position": "Striker",
+    "nation": "Belgium",
+    "value": 30,
+    "answer": "Romelu Lukaku",
+    "img": ""
+  },
+  {
+    "name": "Madueke",
+    "club": "Chelsea",
+    "position": "Winger",
+    "nation": "England",
+    "value": 28,
+    "answer": "Noni Madueke",
+    "img": ""
+  },
+  {
+    "name": "Mudryk",
+    "club": "Chelsea",
+    "position": "Winger",
+    "nation": "Ukraine",
+    "value": 35,
+    "answer": "Mykhaylo Mudryk",
+    "img": ""
+  },
+  {
+    "name": "Nkunku",
+    "club": "Chelsea",
+    "position": "Striker",
+    "nation": "France",
+    "value": 65,
+    "answer": "Christopher Nkunku",
+    "img": ""
+  },
+  {
+    "name": "Palmer",
+    "club": "Chelsea",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 80,
+    "answer": "Cole Palmer",
+    "img": ""
+  },
+  {
+    "name": "Petrovic",
+    "club": "Chelsea",
+    "position": "Goalkeeper",
+    "nation": "Serbia",
+    "value": 20,
+    "answer": "Djordje Petrovic",
+    "img": ""
+  },
+  {
+    "name": "Sanchez",
+    "club": "Chelsea",
+    "position": "Goalkeeper",
+    "nation": "Spain",
+    "value": 20,
+    "answer": "Robert Sanchez",
+    "img": ""
+  },
+  {
+    "name": "Sterling",
+    "club": "Chelsea",
+    "position": "Winger",
+    "nation": "England",
+    "value": 35,
+    "answer": "Raheem Sterling",
+    "img": ""
+  },
+  {
+    "name": "Ugochukwu",
+    "club": "Chelsea",
+    "position": "Midfielder",
+    "nation": "France",
+    "value": 25,
+    "answer": "Lesley Ugochukwu",
+    "img": ""
+  },
+  {
+    "name": "Wiley",
+    "club": "Chelsea",
+    "position": "Defender",
+    "nation": "United States",
+    "value": 5,
+    "answer": "Caleb Wiley",
+    "img": ""
+  },
+  {
+    "name": "Beto",
+    "club": "Everton",
+    "position": "Striker",
+    "nation": "Portugal",
+    "value": 20,
+    "answer": "Beto",
+    "img": ""
+  },
+  {
+    "name": "Branthwaite",
+    "club": "Everton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 42,
+    "answer": "Jarrad Braithwaite",
+    "img": ""
+  },
+  {
+    "name": "Calvert lewin",
+    "club": "Everton",
+    "position": "Striker",
+    "nation": "England",
+    "value": 22,
+    "answer": "Dominic Calvert-Lewin",
+    "img": ""
+  },
+  {
+    "name": "Chermiti",
+    "club": "Everton",
+    "position": "Striker",
+    "nation": "Portugal",
+    "value": 9,
+    "answer": "Chermiti",
+    "img": ""
+  },
+  {
+    "name": "Coleman",
+    "club": "Everton",
+    "position": "Defender",
+    "nation": "Ireland",
+    "value": 0.5,
+    "answer": "Seamus Coleman",
+    "img": ""
+  },
+  {
+    "name": "Doucoure",
+    "club": "Everton",
+    "position": "Midfielder",
+    "nation": "Mali",
+    "value": 10,
+    "answer": "Abdoulaye Doucoure",
+    "img": ""
+  },
+  {
+    "name": "Garner",
+    "club": "Everton",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 22,
+    "answer": "James Garner",
+    "img": ""
+  },
+  {
+    "name": "Geuye",
+    "club": "Everton",
+    "position": "Midfielder",
+    "nation": "Sengeal",
+    "value": 3,
+    "answer": "Idrissa Geuye",
+    "img": ""
+  },
+  {
+    "name": "Harrison",
+    "club": "Everton",
+    "position": "Winger",
+    "nation": "England",
+    "value": 18,
+    "answer": "Jack Harrison",
+    "img": ""
+  },
+  {
+    "name": "Holgate",
+    "club": "Everton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 5,
+    "answer": "Mason Holgate",
+    "img": ""
+  },
+  {
+    "name": "Iroegbunam",
+    "club": "Everton",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 4,
+    "answer": "Tim Iroegbunam",
+    "img": ""
+  },
+  {
+    "name": "Keane",
+    "club": "Everton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 6,
+    "answer": "Michael Keane",
+    "img": ""
+  },
+  {
+    "name": "Lindstrom",
+    "club": "Everton",
+    "position": "Midfielder",
+    "nation": "Denmark",
+    "value": 22,
+    "answer": "Jesper Lindstrom",
+    "img": ""
+  },
+  {
+    "name": "Maupay",
+    "club": "Everton",
+    "position": "Striker",
+    "nation": "France",
+    "value": 12,
+    "answer": "Neal Maupay",
+    "img": ""
+  },
+  {
+    "name": "Mcneil",
+    "club": "Everton",
+    "position": "Winger",
+    "nation": "England",
+    "value": 22,
+    "answer": "Dwight McNeil",
+    "img": ""
+  },
+  {
+    "name": "Mykolenko",
+    "club": "Everton",
+    "position": "Defender",
+    "nation": "Ukraine",
+    "value": 28,
+    "answer": "Vitaliy Mykolenko",
+    "img": ""
+  },
+  {
+    "name": "Ndiaye",
+    "club": "Everton",
+    "position": "Striker",
+    "nation": "Senegal",
+    "value": 15,
+    "answer": "Iliman Ndiaye",
+    "img": ""
+  },
+  {
+    "name": "Patterson",
+    "club": "Everton",
+    "position": "Defender",
+    "nation": "Scotland",
+    "value": 15,
+    "answer": "Nathan Patterson",
+    "img": ""
+  },
+  {
+    "name": "Pickford",
+    "club": "Everton",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 22,
+    "answer": "Jordan Pickford",
+    "img": ""
+  },
+  {
+    "name": "Tarkowski",
+    "club": "Everton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 13,
+    "answer": "James Tarkowski",
+    "img": ""
+  },
+  {
+    "name": "Young",
+    "club": "Everton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 0.5,
+    "answer": "Ashley Young",
+    "img": ""
+  },
+  {
+    "name": "Al hamadi",
+    "club": "Ipswich",
+    "position": "Striker",
+    "nation": "Iraq",
+    "value": 1,
+    "answer": "Ali Al-Hamadi",
+    "img": ""
+  },
+  {
+    "name": "Broadhead",
+    "club": "Ipswich",
+    "position": "Winger",
+    "nation": "Wales",
+    "value": 5,
+    "answer": "Nathan Broadhead",
+    "img": ""
+  },
+  {
+    "name": "Burgess",
+    "club": "Ipswich",
+    "position": "Defender",
+    "nation": "Australia",
+    "value": 1.5,
+    "answer": "Cameron Burgess",
+    "img": ""
+  },
+  {
+    "name": "Burns",
+    "club": "Ipswich",
+    "position": "Midfielder",
+    "nation": "Wales",
+    "value": 1.5,
+    "answer": "Wes Burns",
+    "img": ""
+  },
+  {
+    "name": "Chaplin",
+    "club": "Ipswich",
+    "position": "Striker",
+    "nation": "England",
+    "value": 7,
+    "answer": "Conor Chaplin",
+    "img": ""
+  },
+  {
+    "name": "Clarke",
+    "club": "Ipswich",
+    "position": "Defender",
+    "nation": "England",
+    "value": 5,
+    "answer": "Harry Clarke",
+    "img": ""
+  },
+  {
+    "name": "Davis",
+    "club": "Ipswich",
+    "position": "Defender",
+    "nation": "England",
+    "value": 9,
+    "answer": "Leif Davis",
+    "img": ""
+  },
+  {
+    "name": "Delap",
+    "club": "Ipswich",
+    "position": "Striker",
+    "nation": "England",
+    "value": 8,
+    "answer": "Liam Delap",
+    "img": ""
+  },
+  {
+    "name": "Greaves",
+    "club": "Ipswich",
+    "position": "Defender",
+    "nation": "England",
+    "value": 15,
+    "answer": "Jacob Greaves",
+    "img": ""
+  },
+  {
+    "name": "Harness",
+    "club": "Ipswich",
+    "position": "Winger",
+    "nation": "Ireland",
+    "value": 0.8,
+    "answer": "Marcus Harness",
+    "img": ""
+  },
+  {
+    "name": "Hirst",
+    "club": "Ipswich",
+    "position": "Striker",
+    "nation": "England",
+    "value": 4,
+    "answer": "George Hirst",
+    "img": ""
+  },
+  {
+    "name": "Hutchinson",
+    "club": "Ipswich",
+    "position": "Winger",
+    "nation": "Jamaica",
+    "value": 7,
+    "answer": "Omari Hutchinson",
+    "img": ""
+  },
+  {
+    "name": "Johnson",
+    "club": "Ipswich",
+    "position": "Defender",
+    "nation": "England",
+    "value": 8,
+    "answer": "Ben Johnson",
+    "img": ""
+  },
+  {
+    "name": "Luongo",
+    "club": "Ipswich",
+    "position": "Midfielder",
+    "nation": "Australia",
+    "value": 0.5,
+    "answer": "Massimo Luongo",
+    "img": ""
+  },
+  {
+    "name": "Morsy",
+    "club": "Ipswich",
+    "position": "Midfielder",
+    "nation": "Egypt",
+    "value": 0.9,
+    "answer": "Sam Morsy",
+    "img": ""
+  },
+  {
+    "name": "Muric",
+    "club": "Ipswich",
+    "position": "Goalkeeper",
+    "nation": "Kosovo",
+    "value": 7,
+    "answer": "Arijanet Muric",
+    "img": ""
+  },
+  {
+    "name": "Taylor",
+    "club": "Ipswich",
+    "position": "Midfielder",
+    "nation": "Ireland",
+    "value": 1.8,
+    "answer": "Jack Taylor",
+    "img": ""
+  },
+  {
+    "name": "Tuanzebe",
+    "club": "Ipswich",
+    "position": "Defender",
+    "nation": "DR Congo",
+    "value": 2.2,
+    "answer": "Axel Tuanzebe",
+    "img": ""
+  },
+  {
+    "name": "Walton",
+    "club": "Ipswich",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 0.9,
+    "answer": "Christian Walton",
+    "img": ""
+  },
+  {
+    "name": "Woolfenden",
+    "club": "Ipswich",
+    "position": "Defender",
+    "nation": "England",
+    "value": 2,
+    "answer": "Luke Woolfenden",
+    "img": ""
+  }
+]
