@@ -1,6 +1,6 @@
 # epl-player-trivia
 
-## A simple Premier League player trivia game
+ A simple Premier League player trivia game
 
 ### Source Image Sizes
 Player Images: 576px x 576px
