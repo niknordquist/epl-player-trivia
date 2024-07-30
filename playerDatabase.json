@@ -24,7 +24,7 @@
     "nation": "Germany",
     "value": 70,
     "answer": "Kai Havertz",
-    "img": ""
+    "img": "img-players/arsenal/havertz.jpg"
   },
   {
     "name": "Hein",
@@ -33,7 +33,7 @@
     "nation": "Estonia",
     "value": 2,
     "answer": "Karl Hein",
-    "img": ""
+    "img": "img-players/arsenal/hein.jpg"
   },
   {
     "name": "Jesus",
@@ -42,7 +42,7 @@
     "nation": "Brazil",
     "value": 65,
     "answer": "Gabriel Jesus",
-    "img": ""
+    "img": "img-players/arsenal/gabijesus.jpg"
   },
   {
     "name": "Jorginho",
@@ -51,7 +51,7 @@
     "nation": "Italy",
     "value": 12,
     "answer": "Jorginho",
-    "img": ""
+    "img": "img-players/arsenal/jorginho.jpg"
   },
   {
     "name": "Kiwior",
@@ -60,7 +60,7 @@
     "nation": "Poland",
     "value": 30,
     "answer": "Jakub Kiwior",
-    "img": ""
+    "img": "img-players/arsenal/kiwior.jpg"
   },
   {
     "name": "Martinelli",
@@ -69,7 +69,7 @@
     "nation": "Brazil",
     "value": 70,
     "answer": "Gabriel Martinelli",
-    "img": ""
+    "img": "img-players/arsenal/martinelli.jpg"
   },
   {
     "name": "Nelson",
@@ -78,7 +78,7 @@
     "nation": "England",
     "value": 15,
     "answer": "Reiss Nelson",
-    "img": ""
+    "img": "img-players/arsenal/nelson.jpg"
   },
   {
     "name": "Nketiah",
@@ -87,7 +87,7 @@
     "nation": "England",
     "value": 30,
     "answer": "Eddie Nketiah",
-    "img": ""
+    "img": "img-players/arsenal/nketiah.jpg"
   },
   {
     "name": "Odegaard",
@@ -96,7 +96,7 @@
     "nation": "Norway",
     "value": 110,
     "answer": "Martin Odegaard",
-    "img": ""
+    "img": "img-players/arsenal/odegaard.jpg"
   },
   {
     "name": "Partey",
@@ -105,7 +105,7 @@
     "nation": "Ghana",
     "value": 18,
     "answer": "Thomas Partey",
-    "img": ""
+    "img": "img-players/arsenal/partey.jpg"
   },
   {
     "name": "Ramsdale",
@@ -114,7 +114,7 @@
     "nation": "England",
     "value": 25,
     "answer": "Aaron Ramsdale",
-    "img": ""
+    "img": "img-players/arsenal/ramsdale.jpg"
   },
   {
     "name": "Raya",
@@ -123,7 +123,7 @@
     "nation": "Spain",
     "value": 35,
     "answer": "David Raya",
-    "img": ""
+    "img": "img-players/arsenal/raya.jpg"
   },
   {
     "name": "Rice",
@@ -132,7 +132,7 @@
     "nation": "England",
     "value": 120,
     "answer": "Declan Rice",
-    "img": ""
+    "img": "img-players/arsenal/rice.jpg"
   },
   {
     "name": "Saka",
@@ -141,7 +141,7 @@
     "nation": "England",
     "value": 140,
     "answer": "Bukayo Saka",
-    "img": ""
+    "img": "img-players/arsenal/saka.jpg"
   },
   {
     "name": "Saliba",
@@ -150,7 +150,7 @@
     "nation": "France",
     "value": 80,
     "answer": "William Saliba",
-    "img": ""
+    "img": "img-players/arsenal/saliba.jpg"
   },
   {
     "name": "Smith rowe",
@@ -159,7 +159,7 @@
     "nation": "England",
     "value": 22,
     "answer": "Emile Smith-Rowe",
-    "img": ""
+    "img": "img-players/arsenal/esr.jpg"
   },
   {
     "name": "Tierney",
@@ -168,7 +168,7 @@
     "nation": "Scotland",
     "value": 12,
     "answer": "Kieran Tierney",
-    "img": ""
+    "img": "img-players/arsenal/tierney.jpg"
   },
   {
     "name": "Timber",
@@ -177,7 +177,7 @@
     "nation": "Netherlands",
     "value": 38,
     "answer": "Jurrien Timber",
-    "img": ""
+    "img": "img-players/arsenal/timber.jpg"
   },
   {
     "name": "Tomiyasu",
@@ -186,7 +186,7 @@
     "nation": "Japan",
     "value": 35,
     "answer": "Takehiro Tomiyasu",
-    "img": ""
+    "img": "img-players/arsenal/tomi.jpg"
   },
   {
     "name": "Trossard",
@@ -195,7 +195,7 @@
     "nation": "Belgium",
     "value": 35,
     "answer": "Leandro Trossard",
-    "img": ""
+    "img": "img-players/arsenal/trossard.jpg"
   },
   {
     "name": "Vieira",
@@ -204,7 +204,7 @@
     "nation": "Portugal",
     "value": 22,
     "answer": "Fabio Vieira",
-    "img": ""
+    "img": "img-players/arsenal/vieira.jpg"
   },
   {
     "name": "White",
@@ -213,7 +213,7 @@
     "nation": "England",
     "value": 55,
     "answer": "Ben White",
-    "img": ""
+    "img": "img-players/arsenal/white.jpg"
   },
   {
     "name": "Zinchenko",
@@ -222,7 +222,7 @@
     "nation": "Ukraine",
     "value": 38,
     "answer": "Oleksandr Zinchenko",
-    "img": ""
+    "img": "img-players/arsenal/zini.jpg"
   },
   {
     "name": "Choudhury",

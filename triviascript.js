@@ -14,4 +14,5 @@ const playerDB = fetch('./playerDatabase.json')
     .then(function(playerDB) {
         secretPlayer = playerDB[Math.floor(Math.random() * playerDB.length)]
         document.getElementById('player-name').innerText = secretPlayer.answer;
+        document.getElementById('player-image').src = secretPlayer.img; 
     });
