@@ -9,9 +9,12 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
+.pl-font {
+    font-family: 'plfont'
+}
+
 h1 {
     padding-top: 4rem;
-    font-family: "plfont";
     font-size: 3.5rem;
 }
 
@@ -43,7 +46,6 @@ a:active {
     font-weight: bold;
 }
 
-
 #play {
     cursor: pointer;
     margin-top: 5rem;
@@ -60,6 +62,23 @@ a:active {
     margin-top: 5.25rem;
 }
 
-#gamehud {
+#gamehud, #reveal-player {
     display: none;
+}
+
+#player-container {
+    text-align: center;
+}
+
+#secret-player {
+    font-size: 4.5rem;
+}
+
+#player-name {
+    font-size: 3rem;
+}
+
+#player-image {
+    margin-top: -3rem;
+    width: max(27.5%, 250px);
 }
