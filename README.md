@@ -3,6 +3,6 @@
  A simple Premier League player trivia game
 
 ### Source Image Sizes
-- Player Images: 576px x 576px
-- Club Badges: 250px x 250px
-- Nations: 320px x 180px
+- Player Images: 1200px x 1200px
+- Club Badges: 500px x 500px
+- Nations: 640px x 360px
