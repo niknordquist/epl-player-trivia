@@ -3534,7 +3534,7 @@
     "nation": "Argentina",
     "value": 15,
     "answer": "Carlos Alcaraz",
-    "img": ""
+    "img": "alcaraz.jpg"
   },
   {
     "name": "Aribo",
@@ -3543,7 +3543,7 @@
     "nation": "Nigeria",
     "value": 5,
     "answer": "Joe Aribo",
-    "img": ""
+    "img": "aribo.jpg"
   },
   {
     "name": "Armstrong",
@@ -3552,7 +3552,7 @@
     "nation": "England",
     "value": 16,
     "answer": "Adam Armstrong",
-    "img": ""
+    "img": "armstrong.jpg"
   },
   {
     "name": "Bazunu",
@@ -3561,7 +3561,7 @@
     "nation": "Ireland",
     "value": 15,
     "answer": "Gavin Bazunu",
-    "img": ""
+    "img": "bazunu.jpg"
   },
   {
     "name": "Bednarek",
@@ -3570,7 +3570,7 @@
     "nation": "Poland",
     "value": 11,
     "answer": "Jan Bednarek",
-    "img": ""
+    "img": "bednarek.jpg"
   },
   {
     "name": "Bella Kotchap",
@@ -3579,7 +3579,7 @@
     "nation": "Germany",
     "value": 12,
     "answer": "Armel Bella-Kotchap",
-    "img": ""
+    "img": "abk.jpg"
   },
   {
     "name": "Bree",
@@ -3588,7 +3588,7 @@
     "nation": "England",
     "value": 2.2,
     "answer": "James Bree",
-    "img": ""
+    "img": "bree.jpg"
   },
   {
     "name": "Charles",
@@ -3597,7 +3597,7 @@
     "nation": "Northern Ireland",
     "value": 10,
     "answer": "Shea Charles",
-    "img": ""
+    "img": "charles.jpg"
   },
   {
     "name": "Downes",
@@ -3606,7 +3606,7 @@
     "nation": "England",
     "value": 9,
     "answer": "Flynn Downes",
-    "img": ""
+    "img": "downes.jpg"
   },
   {
     "name": "Edozie",
@@ -3615,16 +3615,7 @@
     "nation": "England",
     "value": 8,
     "answer": "Samuel Edozie",
-    "img": ""
-  },
-  {
-    "name": "Edwards",
-    "club": "Southampton",
-    "position": "Defender",
-    "nation": "England",
-    "value": 3.8,
-    "answer": "Ronnie Edwards",
-    "img": ""
+    "img": "edozie.jpg"
   },
   {
     "name": "Hardwood Bellis",
@@ -3633,7 +3624,7 @@
     "nation": "England",
     "value": 22,
     "answer": "Taylor Harwood-Bellis",
-    "img": ""
+    "img": "thb.jpg"
   },
   {
     "name": "Lallana",
@@ -3642,7 +3633,7 @@
     "nation": "England",
     "value": 1,
     "answer": "Adam Lallana",
-    "img": ""
+    "img": "lallana.jpg"
   },
   {
     "name": "Larios",
@@ -3651,7 +3642,7 @@
     "nation": "Spain",
     "value": 4.5,
     "answer": "Juan Larios",
-    "img": ""
+    "img": "larios.jpg"
   },
   {
     "name": "Manning",
@@ -3660,7 +3651,7 @@
     "nation": "Ireland",
     "value": 3,
     "answer": "Ryan Manning",
-    "img": ""
+    "img": "manning.jpg"
   },
   {
     "name": "Mara",
@@ -3669,7 +3660,7 @@
     "nation": "France",
     "value": 6,
     "answer": "Sekou Mara",
-    "img": ""
+    "img": "mara.jpg"
   },
   {
     "name": "Onuachu",
@@ -3678,7 +3669,7 @@
     "nation": "Nigeria",
     "value": 13,
     "answer": "Paul Onuachu",
-    "img": ""
+    "img": "onuachu.jpg"
   },
   {
     "name": "Smallbone",
@@ -3687,7 +3678,7 @@
     "nation": "Ireland",
     "value": 5,
     "answer": "Will Smallbone",
-    "img": ""
+    "img": "smallbone.jpg"
   },
   {
     "name": "Stephens",
@@ -3696,7 +3687,7 @@
     "nation": "Scotland",
     "value": 2,
     "answer": "Jack Stephens",
-    "img": ""
+    "img": "stephens.jpg"
   },
   {
     "name": "Stewart",
@@ -3705,7 +3696,7 @@
     "nation": "Scotland",
     "value": 4.5,
     "answer": "Ross Stewart",
-    "img": ""
+    "img": "stewart.jpg"
   },
   {
     "name": "Sugawara",
@@ -3714,7 +3705,7 @@
     "nation": "Japan",
     "value": 12,
     "answer": "Yukinari Sugawara",
-    "img": ""
+    "img": "sugawara.jpg"
   },
   {
     "name": "Sulemana",
@@ -3723,7 +3714,7 @@
     "nation": "Ghana",
     "value": 13,
     "answer": "Kamaldeen Sulemana",
-    "img": ""
+    "img": "sulemana.jpg"
   },
   {
     "name": "Taylor",
@@ -3732,7 +3723,7 @@
     "nation": "England",
     "value": 3,
     "answer": "Charlie Taylor",
-    "img": ""
+    "img": "taylor.jpg"
   },
   {
     "name": "Walker Peters",
@@ -3741,7 +3732,7 @@
     "nation": "England",
     "value": 20,
     "answer": "Kyle Walker-Peters",
-    "img": ""
+    "img": "kwp.jpg"
   },
   {
     "name": "Wood",
@@ -3750,7 +3741,7 @@
     "nation": "England",
     "value": 3.8,
     "answer": "Nathan Wood",
-    "img": ""
+    "img": "wood.jpg"
   },
   {
     "name": "Adarabioyo",
