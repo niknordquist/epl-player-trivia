@@ -240,7 +240,7 @@
     "nation": "England",
     "value": 3,
     "answer": "Conor Coady",
-    "img": "coady"
+    "img": "coady.jpg"
   },
   {
     "name": "Daka",
@@ -1400,7 +1400,7 @@
     "position": "Winger",
     "nation": "Argentina",
     "value": 45,
-    "answer": "Alejnadro Garnacho",
+    "answer": "Alejandro Garnacho",
     "img": "garnacho.jpg"
   },
   {
@@ -1770,7 +1770,7 @@
     "nation": "Ukraine",
     "value": 32,
     "answer": "Ilya Zabarnyi",
-    "img": "zabarnyi"
+    "img": "zabarnyi.jpg"
   },
   {
     "name": "Aina",
@@ -1986,7 +1986,7 @@
     "nation": "Algeria",
     "value": 35,
     "answer": "Rayan Ait-Nouri",
-    "img": ""
+    "img": "aitnouri.jpg"
   },
   {
     "name": "Bellegarde",
@@ -1995,7 +1995,7 @@
     "nation": "France",
     "value": 15,
     "answer": "Jean-Ricner Bellgarde",
-    "img": ""
+    "img": "bellegarde.jpg"
   },
   {
     "name": "Bueno",
@@ -2004,7 +2004,7 @@
     "nation": "Spain",
     "value": 6,
     "answer": "Hugo Bueno",
-    "img": ""
+    "img": "hugobueno.jpg"
   },
   {
     "name": "Bueno",
@@ -2013,7 +2013,7 @@
     "nation": "Uruguay",
     "value": 8,
     "answer": "Santiago Bueno",
-    "img": ""
+    "img": "santibueno.jpg"
   },
   {
     "name": "Cunha",
@@ -2022,7 +2022,7 @@
     "nation": "Brazil",
     "value": 45,
     "answer": "Matheus Cunha",
-    "img": ""
+    "img": "cunha.jpg"
   },
   {
     "name": "Dawson",
@@ -2031,7 +2031,7 @@
     "nation": "England",
     "value": 2,
     "answer": "Craig Dawson",
-    "img": ""
+    "img": "dawson.jpg"
   },
   {
     "name": "Doherty",
@@ -2040,7 +2040,7 @@
     "nation": "Ireland",
     "value": 3,
     "answer": "Matt Doherty",
-    "img": ""
+    "img": "doherty.jpg"
   },
   {
     "name": "Doyle",
@@ -2049,7 +2049,7 @@
     "nation": "Ireland",
     "value": 10,
     "answer": "Tommy Doyle",
-    "img": ""
+    "img": "doyle"
   },
   {
     "name": "Gomes",
@@ -2058,7 +2058,7 @@
     "nation": "Brazil",
     "value": 35,
     "answer": "Joao Gomes",
-    "img": ""
+    "img": "gomes.jpg"
   },
   {
     "name": "Gomes",
@@ -2067,7 +2067,7 @@
     "nation": "Portugal",
     "value": 12,
     "answer": "Rodrigo Gomes",
-    "img": ""
+    "img": "rodrigog.jpg"
   },
   {
     "name": "Guedes",
@@ -2076,7 +2076,7 @@
     "nation": "Portugal",
     "value": 15,
     "answer": "Goncalo Guedes",
-    "img": ""
+    "img": "guedes.jpg"
   },
   {
     "name": "Hoever",
@@ -2085,7 +2085,7 @@
     "nation": "Netherlands",
     "value": 4.5,
     "answer": "Ki-Jana Hoever",
-    "img": ""
+    "img": "hoever.jpg"
   },
   {
     "name": "Hwang",
@@ -2094,7 +2094,7 @@
     "nation": "South Korea",
     "value": 25,
     "answer": "Hwang Hee-Chan",
-    "img": ""
+    "img": "hwang.jpg"
   },
   {
     "name": "Kalajdzic",
@@ -2103,7 +2103,7 @@
     "nation": "Austria",
     "value": 5,
     "answer": "Sasa Kalajdzic",
-    "img": ""
+    "img": "sasa.jpg"
   },
   {
     "name": "Larsen",
@@ -2112,7 +2112,7 @@
     "nation": "Norway",
     "value": 25,
     "answer": "Jørgen Strand Larsen",
-    "img": ""
+    "img": "jsl.jpg"
   },
   {
     "name": "Lemina",
@@ -2121,7 +2121,7 @@
     "nation": "Gabon",
     "value": 10,
     "answer": "Mario Lemina",
-    "img": ""
+    "img": "lemina.jpg"
   },
   {
     "name": "Mosquera",
@@ -2130,7 +2130,7 @@
     "nation": "Colombia",
     "value": 6,
     "answer": "Yerson Mosquera",
-    "img": ""
+    "img": "mosquera.jpg"
   },
   {
     "name": "Neto",
@@ -2139,7 +2139,7 @@
     "nation": "Portugal",
     "value": 55,
     "answer": "Pedro Neto",
-    "img": ""
+    "img": "neto.jpg"
   },
   {
     "name": "Podence",
@@ -2148,7 +2148,7 @@
     "nation": "Portugal",
     "value": 13,
     "answer": "Daniel Podence",
-    "img": ""
+    "img": "podence.jpg"
   },
   {
     "name": "Sa",
@@ -2157,7 +2157,7 @@
     "nation": "Portugal",
     "value": 14,
     "answer": "Jose Sa",
-    "img": ""
+    "img": "sa.jpg"
   },
   {
     "name": "Sarabia",
@@ -2166,7 +2166,7 @@
     "nation": "Spain",
     "value": 10,
     "answer": "Pablo Sarabia",
-    "img": ""
+    "img": "sarabia.jpg"
   },
   {
     "name": "Semedo",
@@ -2175,7 +2175,7 @@
     "nation": "Portugal",
     "value": 12,
     "answer": "Nelson Semedo",
-    "img": ""
+    "img": "semedo.jpg"
   },
   {
     "name": "Silva",
@@ -2184,7 +2184,7 @@
     "nation": "Portugal",
     "value": 11,
     "answer": "Fabio Silva",
-    "img": ""
+    "img": "silva.jpg"
   },
   {
     "name": "Toti",
@@ -2193,7 +2193,7 @@
     "nation": "Portugal",
     "value": 20,
     "answer": "Toti",
-    "img": ""
+    "img": "toti.jpg"
   },
   {
     "name": "Ajer",
@@ -2754,12 +2754,12 @@
     "img": ""
   },
   {
-    "name": "Geuhi",
+    "name": "Guehi",
     "club": "Crystal Palace",
     "position": "Defender",
     "nation": "England",
     "value": 38,
-    "answer": "Marc Geuhi",
+    "answer": "Marc Guehi",
     "img": ""
   },
   {
