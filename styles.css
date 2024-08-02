@@ -4,9 +4,30 @@
 }
 
 body {
+
     background-color: #371959;
     color: #f2ecdc;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.half {
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+#left {
+    float: left;
+    margin-left: 8.5%;
+    margin-top: 10%;
+}
+
+#right {
+    float: right;
+    margin-right: 8.5%;
+    margin-top: 7.5%;
 }
 
 .pl-font {
@@ -57,28 +78,71 @@ a:active {
     box-shadow: 0 20px #1c0c2e;
 }
 
+#play-2 {
+    cursor: pointer;
+    margin: 3vh auto 5vh auto;
+    display: block;
+    padding: 2rem 2rem;
+    font-size: 2rem;
+    font-family: 'plfont';
+    border: 10px solid #fff4b8;
+    border-radius: 3px;
+    box-shadow: 0 20px #1c0c2e;
+}
+
 #play:active {
     box-shadow: 0 15px #1c0c2e;
     margin-top: 5.25rem;
+}
+
+#play-2:active {
+    margin-top: 2rem;
+    box-shadow: 0 15px #1c0c2e;
 }
 
 #gamehud, #reveal-player {
     display: none;
 }
 
+#reveal-player {
+    justify-content: center;
+}
+
 #player-container {
     text-align: center;
+    display: block;
 }
 
 #secret-player {
-    font-size: 4.5rem;
+    font-size: calc(12px + 2.75rem);
 }
 
 #player-name {
-    font-size: 3rem;
+    font-size: calc(10px + 2.25rem);
+    padding-bottom: 0;
 }
 
 #player-image {
-    margin-top: -3rem;
-    width: max(27.5%, 250px);
+    margin-top: 2vh;
+    width: calc(250px + 6vw);
+    border: 7px solid #12071f;
+    border-radius: 15px;
+}
+
+#details-container {
+    margin-inline: auto;
+    margin: calc(10px + 1vw) auto 0 auto;
+    max-width: fit-content;
+}
+
+.details-img {
+    width: calc(25px + 4vw);
+    padding: 0 calc(10px + 1.25vw);
+    vertical-align: middle;
+}
+
+@media screen and (max-width: 1005px) {
+    body {
+        background-color: green;
+    }
 }

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>HTML 5 Boilerplate</title>
+    <title>PL Player Trivia Game</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -35,10 +35,21 @@
         <h1>Test Text!</h1>
     </div>
     <div id="reveal-player">
-        <div id="player-container">
+        <div class="half" id="left">
             <h1 id="secret-player" class="pl-font">Secret Player:</h1>
             <h2 id="player-name" class="pl-font">Firstname Lastname</h2>
-            <img id="player-image" src="/img-players/arsenal/havertz.jpg">
+            <button id="play-2">PLAY AGAIN?</button>
+        </div>
+        <div class="half" id="right">
+            <img id="player-image" src="">
+            <div id="details-container">
+                <img id="club" class="details-img" src="">
+                <img id="nation" class="details-img" src="">
+            </div>
+        </div>
+        <div id="player-container">
+        </div>
+        <div id="details-container">
         </div>
     </div>
     <script src="triviascript.js"></script>
