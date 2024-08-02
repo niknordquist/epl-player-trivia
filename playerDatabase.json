@@ -3750,7 +3750,7 @@
     "nation": "England",
     "value": 20,
     "answer": "Tosin Adarabioyo",
-    "img": ""
+    "img": "tosin.jpg"
   },
   {
     "name": "Badiashile",
@@ -3759,7 +3759,7 @@
     "nation": "France",
     "value": 30,
     "answer": "Benoit Badiashile",
-    "img": ""
+    "img": "badiashile.jpg"
   },
   {
     "name": "Broja",
@@ -3768,7 +3768,7 @@
     "nation": "Albania",
     "value": 22,
     "answer": "Armando Broja",
-    "img": ""
+    "img": "broja.jpg"
   },
   {
     "name": "Caicedo",
@@ -3777,7 +3777,7 @@
     "nation": "Ecuador",
     "value": 75,
     "answer": "Moises Caicedo",
-    "img": ""
+    "img": "caicedo.jpg"
   },
   {
     "name": "Chalobah",
@@ -3786,7 +3786,7 @@
     "nation": "England",
     "value": 13,
     "answer": "Trevoh Chalobah",
-    "img": ""
+    "img": "chalobah.jpg"
   },
   {
     "name": "Chilwell",
@@ -3795,7 +3795,7 @@
     "nation": "England",
     "value": 28,
     "answer": "Ben Chilwell",
-    "img": ""
+    "img": "chilwell.jpg"
   },
   {
     "name": "Chukwuemeka",
@@ -3804,7 +3804,7 @@
     "nation": "England",
     "value": 15,
     "answer": "Carney Chukwuemeka",
-    "img": ""
+    "img": "chukwuemeka.jpg"
   },
   {
     "name": "Colwill",
@@ -3813,7 +3813,7 @@
     "nation": "England",
     "value": 50,
     "answer": "Levi Colwill",
-    "img": ""
+    "img": "colwill.jpg"
   },
   {
     "name": "Cucurella",
@@ -3822,7 +3822,7 @@
     "nation": "Spain",
     "value": 30,
     "answer": "Marc Cucurella",
-    "img": ""
+    "img": "cucurella.jpg"
   },
   {
     "name": "Dewsbury Hall",
@@ -3831,7 +3831,7 @@
     "nation": "England",
     "value": 30,
     "answer": "Kiernan Dewsbury-Hall",
-    "img": ""
+    "img": "kdh.jpg"
   },
   {
     "name": "Disasi",
@@ -3840,7 +3840,7 @@
     "nation": "France",
     "value": 40,
     "answer": "Axel Disasi",
-    "img": ""
+    "img": "disasi.jpg"
   },
   {
     "name": "Fernandez",
@@ -3849,7 +3849,7 @@
     "nation": "Argentina",
     "value": 75,
     "answer": "Enzo Fernandez",
-    "img": ""
+    "img": "enzo.jpg"
   },
   {
     "name": "Fofana",
@@ -3858,7 +3858,7 @@
     "nation": "France",
     "value": 25,
     "answer": "Wesley Fofana",
-    "img": ""
+    "img": "fofana.jpg"
   },
   {
     "name": "Fofana",
@@ -3867,7 +3867,7 @@
     "nation": "Ivory Coast",
     "value": 12,
     "answer": "David Datro Fofana",
-    "img": ""
+    "img": "ddf.jpg"
   },
   {
     "name": "Gallagher",
@@ -3876,7 +3876,7 @@
     "nation": "England",
     "value": 50,
     "answer": "Conor Gallagher",
-    "img": ""
+    "img": "gallagher.jpg"
   },
   {
     "name": "Gilchrist",
@@ -3885,7 +3885,7 @@
     "nation": "England",
     "value": 5,
     "answer": "Alfie Gilchrist",
-    "img": ""
+    "img": "gilchrist.jpg"
   },
   {
     "name": "Guiu",
@@ -3894,7 +3894,7 @@
     "nation": "Spain",
     "value": 7.5,
     "answer": "Marc Guiu",
-    "img": ""
+    "img": "guiu.jpg"
   },
   {
     "name": "Gusto",
@@ -3903,7 +3903,7 @@
     "nation": "France",
     "value": 35,
     "answer": "Malo Gusto",
-    "img": ""
+    "img": "gusto.jpg"
   },
   {
     "name": "Jackson",
@@ -3912,7 +3912,7 @@
     "nation": "Senegal",
     "value": 35,
     "answer": "Nicolas Jackson",
-    "img": ""
+    "img": "jackson.jpg"
   },
   {
     "name": "James",
@@ -3921,7 +3921,7 @@
     "nation": "England",
     "value": 40,
     "answer": "Reece James",
-    "img": ""
+    "img": "james.jpg"
   },
   {
     "name": "Kepa",
@@ -3930,7 +3930,7 @@
     "nation": "Spain",
     "value": 12,
     "answer": "Kepa Arrizabalaga",
-    "img": ""
+    "img": "kepa.jpg"
   },
   {
     "name": "Lavia",
@@ -3939,7 +3939,7 @@
     "nation": "Belgium",
     "value": 35,
     "answer": "Romeo Lavia",
-    "img": ""
+    "img": "lavia.jpg"
   },
   {
     "name": "Lukaku",
@@ -3948,7 +3948,7 @@
     "nation": "Belgium",
     "value": 30,
     "answer": "Romelu Lukaku",
-    "img": ""
+    "img": "lukaku.jpg"
   },
   {
     "name": "Madueke",
@@ -3957,7 +3957,7 @@
     "nation": "England",
     "value": 28,
     "answer": "Noni Madueke",
-    "img": ""
+    "img": "noni.jpg"
   },
   {
     "name": "Mudryk",
@@ -3966,7 +3966,7 @@
     "nation": "Ukraine",
     "value": 35,
     "answer": "Mykhaylo Mudryk",
-    "img": ""
+    "img": "mudryk.jpg"
   },
   {
     "name": "Nkunku",
@@ -3975,7 +3975,7 @@
     "nation": "France",
     "value": 65,
     "answer": "Christopher Nkunku",
-    "img": ""
+    "img": "nkunku.jpg"
   },
   {
     "name": "Palmer",
@@ -3984,7 +3984,7 @@
     "nation": "England",
     "value": 80,
     "answer": "Cole Palmer",
-    "img": ""
+    "img": "palmer.jpg"
   },
   {
     "name": "Petrovic",
@@ -3993,7 +3993,7 @@
     "nation": "Serbia",
     "value": 20,
     "answer": "Djordje Petrovic",
-    "img": ""
+    "img": "petrovic.jpg"
   },
   {
     "name": "Sanchez",
@@ -4002,7 +4002,7 @@
     "nation": "Spain",
     "value": 20,
     "answer": "Robert Sanchez",
-    "img": ""
+    "img": "sanchez.jpg"
   },
   {
     "name": "Sterling",
@@ -4011,7 +4011,7 @@
     "nation": "England",
     "value": 35,
     "answer": "Raheem Sterling",
-    "img": ""
+    "img": "sterling.jpg"
   },
   {
     "name": "Ugochukwu",
@@ -4020,7 +4020,7 @@
     "nation": "France",
     "value": 25,
     "answer": "Lesley Ugochukwu",
-    "img": ""
+    "img": "ugochukwu.jpg"
   },
   {
     "name": "Wiley",
@@ -4029,7 +4029,7 @@
     "nation": "United States",
     "value": 5,
     "answer": "Caleb Wiley",
-    "img": ""
+    "img": "wiley.jpg"
   },
   {
     "name": "Beto",
