@@ -3309,7 +3309,7 @@
     "nation": "England",
     "value": 70,
     "answer": "Trent Alexander-Arnold",
-    "img": ""
+    "img": "trent.jpg"
   },
   {
     "name": "Alisson",
@@ -3318,7 +3318,7 @@
     "nation": "Brazil",
     "value": 28,
     "answer": "Alisson",
-    "img": ""
+    "img": "alisson.jpg"
   },
   {
     "name": "Bajcetic",
@@ -3327,7 +3327,7 @@
     "nation": "Spain",
     "value": 11,
     "answer": "Stefan Bajcetic",
-    "img": ""
+    "img": "bajectic.jpg"
   },
   {
     "name": "Bradley",
@@ -3336,7 +3336,7 @@
     "nation": "Northern Ireland",
     "value": 15,
     "answer": "Connor Bradley",
-    "img": ""
+    "img": "bradley.jpg"
   },
   {
     "name": "Carvalho",
@@ -3345,7 +3345,7 @@
     "nation": "Portugal",
     "value": 14,
     "answer": "Fabio Carvalho",
-    "img": ""
+    "img": "carvalho.jpg"
   },
   {
     "name": "Diaz",
@@ -3354,7 +3354,7 @@
     "nation": "Colombia",
     "value": 75,
     "answer": "Luis Diaz",
-    "img": ""
+    "img": "diaz.jpg"
   },
   {
     "name": "Doak",
@@ -3363,7 +3363,7 @@
     "nation": "Scotland",
     "value": 10,
     "answer": "Ben Soak",
-    "img": ""
+    "img": "doak.jpg"
   },
   {
     "name": "Elliott",
@@ -3372,7 +3372,7 @@
     "nation": "England",
     "value": 35,
     "answer": "Harvey Elliott",
-    "img": ""
+    "img": "elliott.jpg"
   },
   {
     "name": "Endo",
@@ -3380,8 +3380,8 @@
     "position": "Midfielder",
     "nation": "Japan",
     "value": 13,
-    "answer": "Water Endo",
-    "img": ""
+    "answer": "Wataru Endo",
+    "img": "endo.jpg"
   },
   {
     "name": "Gakpo",
@@ -3390,7 +3390,7 @@
     "nation": "Netherlands",
     "value": 50,
     "answer": "Cody Gakpo",
-    "img": ""
+    "img": "gakpo.jpg"
   },
   {
     "name": "Gomez",
@@ -3399,7 +3399,7 @@
     "nation": "England",
     "value": 28,
     "answer": "Joe Gomez",
-    "img": ""
+    "img": "gomez.jpg"
   },
   {
     "name": "Gravenberch",
@@ -3408,7 +3408,7 @@
     "nation": "Netherlands",
     "value": 35,
     "answer": "Ryan Gravenberch",
-    "img": ""
+    "img": "gravenberch.jpg"
   },
   {
     "name": "Jones",
@@ -3417,7 +3417,7 @@
     "nation": "England",
     "value": 35,
     "answer": "Curtis Jones",
-    "img": ""
+    "img": "jones.jpg"
   },
   {
     "name": "Jota",
@@ -3426,7 +3426,7 @@
     "nation": "Portugal",
     "value": 50,
     "answer": "Diogo Jota",
-    "img": ""
+    "img": "jota.jpg"
   },
   {
     "name": "Kelleher",
@@ -3435,7 +3435,7 @@
     "nation": "Ireland",
     "value": 20,
     "answer": "Caoimhin Kelleher",
-    "img": ""
+    "img": "kelleher.jpg"
   },
   {
     "name": "Konate",
@@ -3444,7 +3444,7 @@
     "nation": "France",
     "value": 45,
     "answer": "Ibrahima Konate",
-    "img": ""
+    "img": "konate.jpg"
   },
   {
     "name": "Mac allister",
@@ -3453,7 +3453,7 @@
     "nation": "Argentina",
     "value": 75,
     "answer": "Alexis Mac Allister",
-    "img": ""
+    "img": "macallister.jpg"
   },
   {
     "name": "Nunez",
@@ -3462,7 +3462,7 @@
     "nation": "Uruguay",
     "value": 70,
     "answer": "Diego Nunez",
-    "img": ""
+    "img": "nunez.jpg"
   },
   {
     "name": "Quansah",
@@ -3471,7 +3471,7 @@
     "nation": "England",
     "value": 22,
     "answer": "Jarrell Quansah",
-    "img": ""
+    "img": "quansah.jpg"
   },
   {
     "name": "Robertson",
@@ -3480,7 +3480,7 @@
     "nation": "Scotland",
     "value": 30,
     "answer": "Andrew Robertson",
-    "img": ""
+    "img": "robertson.jpg"
   },
   {
     "name": "Salah",
@@ -3489,7 +3489,7 @@
     "nation": "Egypt",
     "value": 55,
     "answer": "Mohamed Salah",
-    "img": ""
+    "img": "salah.jpg"
   },
   {
     "name": "Szoboszlai",
@@ -3498,7 +3498,7 @@
     "nation": "Hungary",
     "value": 75,
     "answer": "Dominik Szoboszlai",
-    "img": ""
+    "img": "szob.jpg"
   },
   {
     "name": "Tsimikas",
@@ -3507,7 +3507,7 @@
     "nation": "Greece",
     "value": 22,
     "answer": "Kostas Tsimikas",
-    "img": ""
+    "img": "tsimikas.jpg"
   },
   {
     "name": "Van den berg",
@@ -3516,7 +3516,7 @@
     "nation": "Netherlands",
     "value": 12,
     "answer": "Sepp Van den Berg",
-    "img": ""
+    "img": "vdb.jpg"
   },
   {
     "name": "Van dijk",
@@ -3525,7 +3525,7 @@
     "nation": "Netherlands",
     "value": 30,
     "answer": "Virgil Van Dijk",
-    "img": ""
+    "img": "vvd.jpg"
   },
   {
     "name": "Alcaraz",
