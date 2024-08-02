@@ -2679,7 +2679,7 @@
     "nation": "France",
     "value": 8,
     "answer": "Naouirou Acamada",
-    "img": ""
+    "img": "ahamada.jpg"
   },
   {
     "name": "Andersen",
@@ -2688,7 +2688,7 @@
     "nation": "Denmark",
     "value": 35,
     "answer": "Joachim Andersen",
-    "img": ""
+    "img": "andersen.jpg"
   },
   {
     "name": "Ayew",
@@ -2697,7 +2697,7 @@
     "nation": "Ghana",
     "value": 4,
     "answer": "Jordan Ayer",
-    "img": ""
+    "img": "ayew.jpg"
   },
   {
     "name": "Clyne",
@@ -2706,7 +2706,7 @@
     "nation": "England",
     "value": 1.5,
     "answer": "Nathaniel Clyne",
-    "img": ""
+    "img": "clyne.jpg"
   },
   {
     "name": "Doucoure",
@@ -2715,7 +2715,7 @@
     "nation": "Mali",
     "value": 35,
     "answer": "Cheick Doucoure",
-    "img": ""
+    "img": "doucoure.jpg"
   },
   {
     "name": "Edouard",
@@ -2724,7 +2724,7 @@
     "nation": "France",
     "value": 18,
     "answer": "Odsonne Edouard",
-    "img": ""
+    "img": "edouard.jpg"
   },
   {
     "name": "Eze",
@@ -2733,7 +2733,7 @@
     "nation": "England",
     "value": 55,
     "answer": "Eberechi Eze",
-    "img": ""
+    "img": "eze.jpg"
   },
   {
     "name": "Franca",
@@ -2741,8 +2741,8 @@
     "position": "Midfielder",
     "nation": "Brazil",
     "value": 15,
-    "answer": "Matheus França",
-    "img": ""
+    "answer": "Matheus Franca",
+    "img": "franca.jpg"
   },
   {
     "name": "Guehi",
@@ -2751,7 +2751,7 @@
     "nation": "England",
     "value": 38,
     "answer": "Marc Guehi",
-    "img": ""
+    "img": "guehi.jpg"
   },
   {
     "name": "Henderson",
@@ -2760,7 +2760,7 @@
     "nation": "England",
     "value": 12,
     "answer": "Dean Henderson",
-    "img": ""
+    "img": "henderson.jpg"
   },
   {
     "name": "Holding",
@@ -2769,7 +2769,7 @@
     "nation": "England",
     "value": 5,
     "answer": "Rob Holding",
-    "img": ""
+    "img": "holding.jpg"
   },
   {
     "name": "Hughes",
@@ -2778,7 +2778,7 @@
     "nation": "England",
     "value": 9,
     "answer": "Will Hughes",
-    "img": ""
+    "img": "hughes.jpg"
   },
   {
     "name": "Johnstone",
@@ -2787,7 +2787,7 @@
     "nation": "England",
     "value": 10,
     "answer": "Sam Johnstone",
-    "img": ""
+    "img": "johnstone.jpg"
   },
   {
     "name": "Kamada",
@@ -2796,7 +2796,7 @@
     "nation": "Japan",
     "value": 18,
     "answer": "Daichi Kamada",
-    "img": ""
+    "img": "kamada.jpg"
   },
   {
     "name": "Lerma",
@@ -2805,7 +2805,7 @@
     "nation": "Colombia",
     "value": 20,
     "answer": "Jefferson Lerma",
-    "img": ""
+    "img": "lerma.jpg"
   },
   {
     "name": "Mateta",
@@ -2814,7 +2814,7 @@
     "nation": "France",
     "value": 20,
     "answer": "Jean-Phillippe Mateta",
-    "img": ""
+    "img": "mateta.jpg"
   },
   {
     "name": "Mitchell",
@@ -2823,7 +2823,7 @@
     "nation": "England",
     "value": 25,
     "answer": "Tyrick Mitchell",
-    "img": ""
+    "img": "mitchell.jpg"
   },
   {
     "name": "Munoz",
@@ -2832,7 +2832,7 @@
     "nation": "Colombia",
     "value": 23,
     "answer": "Daniel Muñoz",
-    "img": ""
+    "img": "munoz.jpg"
   },
   {
     "name": "Rak Sakyi",
@@ -2841,7 +2841,7 @@
     "nation": "England",
     "value": 2,
     "answer": "Jesurun Rak-Sakyi",
-    "img": ""
+    "img": "jrs.jpg"
   },
   {
     "name": "Riad",
@@ -2850,7 +2850,7 @@
     "nation": "Morocco",
     "value": 15,
     "answer": "Chadi Riad",
-    "img": ""
+    "img": "riad.jpg"
   },
   {
     "name": "Richards",
@@ -2859,7 +2859,7 @@
     "nation": "United States",
     "value": 12,
     "answer": "Chris Richards",
-    "img": ""
+    "img": "richards.jpg"
   },
   {
     "name": "Schlupp",
@@ -2868,7 +2868,7 @@
     "nation": "Ghana",
     "value": 7,
     "answer": "Jeffrey Schlupp",
-    "img": ""
+    "img": "schlupp.jpg"
   },
   {
     "name": "Ward",
@@ -2877,7 +2877,7 @@
     "nation": "England",
     "value": 1,
     "answer": "Joel Ward",
-    "img": ""
+    "img": "ward.jpg"
   },
   {
     "name": "Wharton",
@@ -2886,7 +2886,7 @@
     "nation": "England",
     "value": 30,
     "answer": "Adam Wharton",
-    "img": ""
+    "img": "wharton.jpg"
   },
   {
     "name": "Akanji",
