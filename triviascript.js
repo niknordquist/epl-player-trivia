@@ -12,7 +12,7 @@ playButton.addEventListener("click", () => {
     .then(function(playerDB) {
         secretPlayer = playerDB[Math.floor(Math.random() * playerDB.length)]
         document.getElementById('player-name').innerText = secretPlayer.answer;
-        document.getElementById('player-image').src = secretPlayer.img;
+        document.getElementById('player-image').src = `./img-players/${secretPlayer.club}/${secretPlayer.img}`;
         document.getElementById('club').src = `img-clubs/${secretPlayer.club}.png` 
         document.getElementById('nation').src = `img-countries/${secretPlayer.nation}.png`
         document.getElementById('position').innerText = secretPlayer.position;
@@ -30,7 +30,7 @@ replayButton.addEventListener("click", () => {
     .then(function(playerDB) {
         secretPlayer = playerDB[Math.floor(Math.random() * playerDB.length)]
         document.getElementById('player-name').innerText = secretPlayer.answer;
-        document.getElementById('player-image').src = secretPlayer.img;
+        document.getElementById('player-image').src = `./img-players/${secretPlayer.club}/${secretPlayer.img}`;
         document.getElementById('club').src = `img-clubs/${secretPlayer.club}.png` 
         document.getElementById('nation').src = `img-countries/${secretPlayer.nation}.png`
         document.getElementById('position').innerText = secretPlayer.position;
