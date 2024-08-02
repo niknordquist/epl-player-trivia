@@ -1095,7 +1095,7 @@
     "nation": "England",
     "value": 13,
     "answer": "Cameron Archer",
-    "img": ""
+    "img": "archer.jpg"
   },
   {
     "name": "Bailey",
@@ -1104,7 +1104,7 @@
     "nation": "Jamaica",
     "value": 42,
     "answer": "Leon Bailey",
-    "img": ""
+    "img": "bailey.jpg"
   },
   {
     "name": "Barkley",
@@ -1113,7 +1113,7 @@
     "nation": "England",
     "value": 8,
     "answer": "Ross Barkley",
-    "img": ""
+    "img": "barkley.jpg"
   },
   {
     "name": "Barrenechea",
@@ -1122,7 +1122,7 @@
     "nation": "Argentina",
     "value": 7.5,
     "answer": "Enzo Barrenechea",
-    "img": ""
+    "img": "enzo.jpg"
   },
   {
     "name": "Buendia",
@@ -1131,7 +1131,7 @@
     "nation": "Argentina",
     "value": 22,
     "answer": "Emiliano Buendia",
-    "img": ""
+    "img": "buendia.jpg"
   },
   {
     "name": "Carlos",
@@ -1140,7 +1140,7 @@
     "nation": "Brazil",
     "value": 16,
     "answer": "Diego Carlos",
-    "img": ""
+    "img": "carlos.jpg"
   },
   {
     "name": "Cash",
@@ -1149,7 +1149,7 @@
     "nation": "Poland",
     "value": 28,
     "answer": "Matty Cash",
-    "img": ""
+    "img": "cash.jpg"
   },
   {
     "name": "Dendoncker",
@@ -1158,7 +1158,7 @@
     "nation": "Belgium",
     "value": 7,
     "answer": "Leander Dendoncker",
-    "img": ""
+    "img": "donck.jpg"
   },
   {
     "name": "Digne",
@@ -1167,7 +1167,7 @@
     "nation": "France",
     "value": 12,
     "answer": "Lucas Digne",
-    "img": ""
+    "img": "digne.jpg"
   },
   {
     "name": "Duran",
@@ -1176,7 +1176,7 @@
     "nation": "Colombia",
     "value": 20,
     "answer": "Jhon Durán",
-    "img": ""
+    "img": "duran.jpg"
   },
   {
     "name": "Iling Junior",
@@ -1185,7 +1185,7 @@
     "nation": "England",
     "value": 13,
     "answer": "Samuel Iling-Junior",
-    "img": ""
+    "img": "sij.jpg"
   },
   {
     "name": "Kamara",
@@ -1194,7 +1194,7 @@
     "nation": "France",
     "value": 38,
     "answer": "Boubacer Kamara",
-    "img": ""
+    "img": "kamara.jpg"
   },
   {
     "name": "Konsa",
@@ -1203,7 +1203,7 @@
     "nation": "England",
     "value": 35,
     "answer": "Ezri Konsa",
-    "img": ""
+    "img": "konsa.jpg"
   },
   {
     "name": "Maatsen",
@@ -1212,7 +1212,7 @@
     "nation": "Netherlands",
     "value": 40,
     "answer": "Ian Maatsen",
-    "img": ""
+    "img": "maatsen.jpg"
   },
   {
     "name": "Martinez",
@@ -1221,7 +1221,7 @@
     "nation": "Argentina",
     "value": 28,
     "answer": "Emiliano Martinez",
-    "img": ""
+    "img": "dibu.jpg"
   },
   {
     "name": "McGinn",
@@ -1230,7 +1230,7 @@
     "nation": "Scotland",
     "value": 30,
     "answer": "John McGinn",
-    "img": ""
+    "img": "mcginn.jpg"
   },
   {
     "name": "Mings",
@@ -1239,7 +1239,7 @@
     "nation": "England",
     "value": 13,
     "answer": "Tyrone Mings",
-    "img": ""
+    "img": "mings.jpg"
   },
   {
     "name": "Moreno",
@@ -1248,7 +1248,7 @@
     "nation": "Spain",
     "value": 13,
     "answer": "Alex Moreno",
-    "img": ""
+    "img": "moreno.jpg"
   },
   {
     "name": "Nedeljkovic",
@@ -1257,7 +1257,7 @@
     "nation": "Serbia",
     "value": 8,
     "answer": "Kosta Nedeljkovic",
-    "img": ""
+    "img": "nedel.jpg"
   },
   {
     "name": "Onana",
@@ -1266,7 +1266,7 @@
     "nation": "Belgium",
     "value": 50,
     "answer": "Amadou Onana",
-    "img": ""
+    "img": "onana.jpg"
   },
   {
     "name": "Philogene",
@@ -1275,7 +1275,7 @@
     "nation": "England",
     "value": 15,
     "answer": "Jaden Philogene",
-    "img": ""
+    "img": "philogene.jpg"
   },
   {
     "name": "Ramsey",
@@ -1284,7 +1284,7 @@
     "nation": "England",
     "value": 35,
     "answer": "Jacob Ramsey",
-    "img": ""
+    "img": "ramsey.jpg"
   },
   {
     "name": "Rodgers",
@@ -1293,7 +1293,7 @@
     "nation": "England",
     "value": 15,
     "answer": "Morgan Rogers",
-    "img": ""
+    "img": "rodgers.jpg"
   },
   {
     "name": "Tielemans",
@@ -1302,7 +1302,7 @@
     "nation": "Belgium",
     "value": 25,
     "answer": "Youri Tielemans",
-    "img": ""
+    "img": "youri.jpg"
   },
   {
     "name": "Torres",
@@ -1311,16 +1311,7 @@
     "nation": "Spain",
     "value": 45,
     "answer": "Pau Torres",
-    "img": ""
-  },
-  {
-    "name": "Torres",
-    "club": "Aston Villa",
-    "position": "Defender",
-    "nation": "Spain",
-    "value": 45,
-    "answer": "Pau Torres",
-    "img": ""
+    "img": "pau.jpg"
   },
   {
     "name": "Watkins",
@@ -1329,7 +1320,7 @@
     "nation": "England",
     "value": 65,
     "answer": "Ollie Watkins",
-    "img": ""
+    "img": "watkins.jpg"
   },
   {
     "name": "Antony",
