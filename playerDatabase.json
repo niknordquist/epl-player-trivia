@@ -1329,7 +1329,7 @@
     "nation": "Brazil",
     "value": 25,
     "answer": "Antony",
-    "img": ""
+    "img": "antony.jpg"
   },
   {
     "name": "Bayindir",
@@ -1338,7 +1338,7 @@
     "nation": "Turkey",
     "value": 10,
     "answer": "Altay Bayindir",
-    "img": ""
+    "img": "bayindir.jpg"
   },
   {
     "name": "Casemiro",
@@ -1347,7 +1347,7 @@
     "nation": "Brazil",
     "value": 20,
     "answer": "Casemiro",
-    "img": ""
+    "img": "casemiro.jpg"
   },
   {
     "name": "Dalot",
@@ -1356,7 +1356,7 @@
     "nation": "Portugal",
     "value": 35,
     "answer": "Diogo Dalot",
-    "img": ""
+    "img": "dalot.jpg"
   },
   {
     "name": "Diallo",
@@ -1365,7 +1365,7 @@
     "nation": "Ivory Coast",
     "value": 18,
     "answer": "Amad Diallo",
-    "img": ""
+    "img": "amad.jpg"
   },
   {
     "name": "Eriksen",
@@ -1374,7 +1374,7 @@
     "nation": "Denmark",
     "value": 8,
     "answer": "Christian Eriksen",
-    "img": ""
+    "img": "eriksen.jpg"
   },
   {
     "name": "Evans",
@@ -1383,7 +1383,7 @@
     "nation": "Northern Ireland",
     "value": 2,
     "answer": "Jonny Evans",
-    "img": ""
+    "img": "evans.jpg"
   },
   {
     "name": "Fernandes",
@@ -1392,7 +1392,7 @@
     "nation": "Brazil",
     "value": 70,
     "answer": "Bruno Fernandes",
-    "img": ""
+    "img": "bruno.jpg"
   },
   {
     "name": "Garnacho",
@@ -1401,7 +1401,7 @@
     "nation": "Argentina",
     "value": 45,
     "answer": "Alejnadro Garnacho",
-    "img": ""
+    "img": "garnacho.jpg"
   },
   {
     "name": "Hannibal",
@@ -1410,7 +1410,7 @@
     "nation": "Turkey",
     "value": 9,
     "answer": "Hannibal",
-    "img": ""
+    "img": "hannibal.jpg"
   },
   {
     "name": "Hojlund",
@@ -1419,7 +1419,7 @@
     "nation": "Denmark",
     "value": 65,
     "answer": "Rasmus Hojlund",
-    "img": ""
+    "img": "hojlund.jpg"
   },
   {
     "name": "Lindelof",
@@ -1428,7 +1428,7 @@
     "nation": "Sweden",
     "value": 15,
     "answer": "Victor Lindelof",
-    "img": ""
+    "img": "lindelof.jpg"
   },
   {
     "name": "Maguire",
@@ -1437,7 +1437,7 @@
     "nation": "England",
     "value": 18,
     "answer": "Harry Maguire",
-    "img": ""
+    "img": "maguire.jpg"
   },
   {
     "name": "Mainoo",
@@ -1446,7 +1446,7 @@
     "nation": "England",
     "value": 55,
     "answer": "Kobbie Mainoo",
-    "img": ""
+    "img": "mainoo.jpg"
   },
   {
     "name": "Malacia",
@@ -1455,7 +1455,7 @@
     "nation": "Netherlands",
     "value": 18,
     "answer": "Tyrell Malacia",
-    "img": ""
+    "img": "malacia.jpg"
   },
   {
     "name": "Martinez",
@@ -1464,7 +1464,7 @@
     "nation": "Argentina",
     "value": 50,
     "answer": "Lisandro Martinez",
-    "img": ""
+    "img": "lisandro.jpg"
   },
   {
     "name": "Mctominay",
@@ -1473,7 +1473,7 @@
     "nation": "Scotland",
     "value": 32,
     "answer": "Scott McTominay",
-    "img": ""
+    "img": "mctominay.jpg"
   },
   {
     "name": "Mount",
@@ -1482,7 +1482,7 @@
     "nation": "England",
     "value": 35,
     "answer": "Mason Mount",
-    "img": ""
+    "img": "mount.jpg"
   },
   {
     "name": "Onana",
@@ -1491,7 +1491,7 @@
     "nation": "Cameroon",
     "value": 35,
     "answer": "Andre Onana",
-    "img": ""
+    "img": "onana.jpg"
   },
   {
     "name": "Pellistri",
@@ -1500,7 +1500,7 @@
     "nation": "Uruguay",
     "value": 10,
     "answer": "Facundo Pellistri",
-    "img": ""
+    "img": "pellistri.jpg"
   },
   {
     "name": "Rashford",
@@ -1509,7 +1509,7 @@
     "nation": "England",
     "value": 60,
     "answer": "Marcus Rashford",
-    "img": ""
+    "img": "rashford.jpg"
   },
   {
     "name": "Sancho",
@@ -1518,7 +1518,7 @@
     "nation": "England",
     "value": 30,
     "answer": "Jadon Sancho",
-    "img": ""
+    "img": "sancho.jpg"
   },
   {
     "name": "Shaw",
@@ -1527,7 +1527,7 @@
     "nation": "England",
     "value": 32,
     "answer": "Luke Shaw",
-    "img": ""
+    "img": "shaw.jpg"
   },
   {
     "name": "Wan bissaka",
@@ -1536,7 +1536,7 @@
     "nation": "England",
     "value": 20,
     "answer": "Aaron Wan-Bissaka",
-    "img": ""
+    "img": "awb.jpg"
   },
   {
     "name": "Yoro",
@@ -1545,7 +1545,7 @@
     "nation": "France",
     "value": 50,
     "answer": "Leny Yoro",
-    "img": ""
+    "img": "yoro.jpg"
   },
   {
     "name": "Zirkzee",
@@ -1554,7 +1554,7 @@
     "nation": "Netherlands",
     "value": 50,
     "answer": "Joshua Zirkzee",
-    "img": ""
+    "img": "zirkzee.jpg"
   },
   {
     "name": "Aarons",
