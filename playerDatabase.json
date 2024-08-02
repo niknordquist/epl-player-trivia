@@ -2895,7 +2895,7 @@
     "nation": "Switzerland",
     "value": 45,
     "answer": "Manuel Akanji",
-    "img": ""
+    "img": "akanji.jpg"
   },
   {
     "name": "Ake",
@@ -2904,7 +2904,7 @@
     "nation": "Netherlands",
     "value": 40,
     "answer": "Nathan Ake",
-    "img": ""
+    "img": "ake.jpg"
   },
   {
     "name": "Alvarez",
@@ -2913,7 +2913,7 @@
     "nation": "Argentina",
     "value": 90,
     "answer": "Julian Alvarez",
-    "img": ""
+    "img": "alvarez.jpg"
   },
   {
     "name": "Bobb",
@@ -2922,7 +2922,7 @@
     "nation": "Norway",
     "value": 25,
     "answer": "Oscar Bobb",
-    "img": ""
+    "img": "bobb.jpg"
   },
   {
     "name": "Cancelo",
@@ -2931,7 +2931,7 @@
     "nation": "Portugal",
     "value": 25,
     "answer": "Joao Cancelo",
-    "img": ""
+    "img": "cancelo.jpg"
   },
   {
     "name": "Couto",
@@ -2940,7 +2940,7 @@
     "nation": "Brazil",
     "value": 25,
     "answer": "Yan Couto",
-    "img": ""
+    "img": "couto.jpg"
   },
   {
     "name": "De bruyne",
@@ -2949,7 +2949,7 @@
     "nation": "Belgium",
     "value": 50,
     "answer": "Kevin De Bruyne",
-    "img": ""
+    "img": "kdb.jpg"
   },
   {
     "name": "Dias",
@@ -2958,7 +2958,7 @@
     "nation": "Portugal",
     "value": 80,
     "answer": "Ruben Dias",
-    "img": ""
+    "img": "dias.jpg"
   },
   {
     "name": "Doku",
@@ -2967,7 +2967,7 @@
     "nation": "Belgium",
     "value": 65,
     "answer": "Jeremy Doku",
-    "img": ""
+    "img": "doku.jpg"
   },
   {
     "name": "Ederson",
@@ -2976,7 +2976,7 @@
     "nation": "Brazil",
     "value": 35,
     "answer": "Ederson",
-    "img": ""
+    "img": "ederson.jpg"
   },
   {
     "name": "Foden",
@@ -2985,7 +2985,7 @@
     "nation": "England",
     "value": 150,
     "answer": "Phil Foden",
-    "img": ""
+    "img": "foden.jpg"
   },
   {
     "name": "Grealish",
@@ -2994,7 +2994,7 @@
     "nation": "England",
     "value": 60,
     "answer": "Jack Grealish",
-    "img": ""
+    "img": "grealish.jpg"
   },
   {
     "name": "Gvardiol",
@@ -3003,7 +3003,7 @@
     "nation": "Croatia",
     "value": 75,
     "answer": "Josko Gvardiol",
-    "img": ""
+    "img": "gvardio.jpg"
   },
   {
     "name": "Haaland",
@@ -3012,7 +3012,7 @@
     "nation": "Norway",
     "value": 180,
     "answer": "Erling Haaland",
-    "img": ""
+    "img": "haaland.jpg"
   },
   {
     "name": "Kovacic",
@@ -3021,7 +3021,7 @@
     "nation": "Croatia",
     "value": 30,
     "answer": "Mateo Kovacic",
-    "img": ""
+    "img": "kovacic.jpg"
   },
   {
     "name": "Lewis",
@@ -3030,7 +3030,7 @@
     "nation": "England",
     "value": 38,
     "answer": "Rico Lewis",
-    "img": ""
+    "img": "lewis.jpg"
   },
   {
     "name": "McAtee",
@@ -3039,7 +3039,7 @@
     "nation": "England",
     "value": 12,
     "answer": "James McAtee",
-    "img": ""
+    "img": "mcatee.jpg"
   },
   {
     "name": "Nunes",
@@ -3048,7 +3048,7 @@
     "nation": "Portugal",
     "value": 50,
     "answer": "Matheus Nunes",
-    "img": ""
+    "img": "nunes.jpg"
   },
   {
     "name": "Ortega",
@@ -3057,7 +3057,7 @@
     "nation": "Germany",
     "value": 9,
     "answer": "Stefan Ortega",
-    "img": ""
+    "img": "ortega.jpg"
   },
   {
     "name": "Phillips",
@@ -3066,7 +3066,7 @@
     "nation": "England",
     "value": 25,
     "answer": "Kalvin Phillips",
-    "img": ""
+    "img": "phillips.jpg"
   },
   {
     "name": "Rodri",
@@ -3075,7 +3075,7 @@
     "nation": "Spain",
     "value": 130,
     "answer": "Rodri",
-    "img": ""
+    "img": "rodri.jpg"
   },
   {
     "name": "Savinho",
@@ -3083,8 +3083,8 @@
     "position": "Winger",
     "nation": "Brazil",
     "value": 50,
-    "answer": "Saving",
-    "img": ""
+    "answer": "Savinho",
+    "img": "savinho.jpg"
   },
   {
     "name": "Silva",
@@ -3093,7 +3093,7 @@
     "nation": "Portugal",
     "value": 70,
     "answer": "Bernardo Silva",
-    "img": ""
+    "img": "bernardo.jpg"
   },
   {
     "name": "Stones",
@@ -3102,7 +3102,7 @@
     "nation": "England",
     "value": 38,
     "answer": "John Stones",
-    "img": ""
+    "img": "stones.jpg"
   },
   {
     "name": "Walker",
@@ -3111,7 +3111,7 @@
     "nation": "England",
     "value": 13,
     "answer": "Kyle Walker",
-    "img": ""
+    "img": "walker.jpg"
   },
   {
     "name": "Bassey",
