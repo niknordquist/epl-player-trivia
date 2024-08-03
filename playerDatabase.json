@@ -4227,7 +4227,7 @@
     "nation": "Iraq",
     "value": 1,
     "answer": "Ali Al-Hamadi",
-    "img": ""
+    "img": "alhamadi.jpg"
   },
   {
     "name": "Broadhead",
@@ -4236,7 +4236,7 @@
     "nation": "Wales",
     "value": 5,
     "answer": "Nathan Broadhead",
-    "img": ""
+    "img": "broadhead.jpg"
   },
   {
     "name": "Burgess",
@@ -4245,7 +4245,7 @@
     "nation": "Australia",
     "value": 1.5,
     "answer": "Cameron Burgess",
-    "img": ""
+    "img": "burgess.jpg"
   },
   {
     "name": "Burns",
@@ -4254,7 +4254,7 @@
     "nation": "Wales",
     "value": 1.5,
     "answer": "Wes Burns",
-    "img": ""
+    "img": "burns.jpg"
   },
   {
     "name": "Chaplin",
@@ -4263,7 +4263,7 @@
     "nation": "England",
     "value": 7,
     "answer": "Conor Chaplin",
-    "img": ""
+    "img": "chaplin.jpg"
   },
   {
     "name": "Clarke",
@@ -4272,7 +4272,7 @@
     "nation": "England",
     "value": 5,
     "answer": "Harry Clarke",
-    "img": ""
+    "img": "clarke.jpg"
   },
   {
     "name": "Davis",
@@ -4281,7 +4281,7 @@
     "nation": "England",
     "value": 9,
     "answer": "Leif Davis",
-    "img": ""
+    "img": "davis.jpg"
   },
   {
     "name": "Delap",
@@ -4290,7 +4290,7 @@
     "nation": "England",
     "value": 8,
     "answer": "Liam Delap",
-    "img": ""
+    "img": "delap.jpg"
   },
   {
     "name": "Greaves",
@@ -4299,7 +4299,7 @@
     "nation": "England",
     "value": 15,
     "answer": "Jacob Greaves",
-    "img": ""
+    "img": "greaves.jpg"
   },
   {
     "name": "Harness",
@@ -4308,7 +4308,7 @@
     "nation": "Ireland",
     "value": 0.8,
     "answer": "Marcus Harness",
-    "img": ""
+    "img": "harness.jpg"
   },
   {
     "name": "Hirst",
@@ -4317,7 +4317,7 @@
     "nation": "England",
     "value": 4,
     "answer": "George Hirst",
-    "img": ""
+    "img": "hirst.jpg"
   },
   {
     "name": "Hutchinson",
@@ -4326,7 +4326,7 @@
     "nation": "Jamaica",
     "value": 7,
     "answer": "Omari Hutchinson",
-    "img": ""
+    "img": "hutchinson.jpg"
   },
   {
     "name": "Johnson",
@@ -4335,7 +4335,7 @@
     "nation": "England",
     "value": 8,
     "answer": "Ben Johnson",
-    "img": ""
+    "img": "johnson.jpg"
   },
   {
     "name": "Luongo",
@@ -4344,7 +4344,7 @@
     "nation": "Australia",
     "value": 0.5,
     "answer": "Massimo Luongo",
-    "img": ""
+    "img": "luongo.jpg"
   },
   {
     "name": "Morsy",
@@ -4353,7 +4353,7 @@
     "nation": "Egypt",
     "value": 0.9,
     "answer": "Sam Morsy",
-    "img": ""
+    "img": "morsy.jpg"
   },
   {
     "name": "Muric",
@@ -4362,7 +4362,7 @@
     "nation": "Kosovo",
     "value": 7,
     "answer": "Arijanet Muric",
-    "img": ""
+    "img": "muric.jpg"
   },
   {
     "name": "Taylor",
@@ -4371,7 +4371,7 @@
     "nation": "Ireland",
     "value": 1.8,
     "answer": "Jack Taylor",
-    "img": ""
+    "img": "taylor.jpg"
   },
   {
     "name": "Tuanzebe",
@@ -4380,7 +4380,7 @@
     "nation": "DR Congo",
     "value": 2.2,
     "answer": "Axel Tuanzebe",
-    "img": ""
+    "img": "tuanzebe.jpg"
   },
   {
     "name": "Walton",
@@ -4389,7 +4389,7 @@
     "nation": "England",
     "value": 0.9,
     "answer": "Christian Walton",
-    "img": ""
+    "img": "walton.jpg"
   },
   {
     "name": "Woolfenden",
@@ -4398,6 +4398,6 @@
     "nation": "England",
     "value": 2,
     "answer": "Luke Woolfenden",
-    "img": ""
+    "img": "woolfenden.jpg"
   }
 ]
