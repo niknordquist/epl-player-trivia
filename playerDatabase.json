@@ -4038,7 +4038,7 @@
     "nation": "Portugal",
     "value": 20,
     "answer": "Beto",
-    "img": ""
+    "img": "beto.jpg"
   },
   {
     "name": "Branthwaite",
@@ -4047,7 +4047,7 @@
     "nation": "England",
     "value": 42,
     "answer": "Jarrad Braithwaite",
-    "img": ""
+    "img": "branthwaite.jpg"
   },
   {
     "name": "Calvert lewin",
@@ -4056,7 +4056,7 @@
     "nation": "England",
     "value": 22,
     "answer": "Dominic Calvert-Lewin",
-    "img": ""
+    "img": "dcl.jpg"
   },
   {
     "name": "Chermiti",
@@ -4065,7 +4065,7 @@
     "nation": "Portugal",
     "value": 9,
     "answer": "Chermiti",
-    "img": ""
+    "img": "chermiti.jpg"
   },
   {
     "name": "Coleman",
@@ -4074,7 +4074,7 @@
     "nation": "Ireland",
     "value": 0.5,
     "answer": "Seamus Coleman",
-    "img": ""
+    "img": "coleman.jpg"
   },
   {
     "name": "Doucoure",
@@ -4083,7 +4083,7 @@
     "nation": "Mali",
     "value": 10,
     "answer": "Abdoulaye Doucoure",
-    "img": ""
+    "img": "doucoure.jpg"
   },
   {
     "name": "Garner",
@@ -4092,16 +4092,16 @@
     "nation": "England",
     "value": 22,
     "answer": "James Garner",
-    "img": ""
+    "img": "garner.jpg"
   },
   {
-    "name": "Geuye",
+    "name": "Gueye",
     "club": "Everton",
     "position": "Midfielder",
     "nation": "Sengeal",
     "value": 3,
-    "answer": "Idrissa Geuye",
-    "img": ""
+    "answer": "Idrissa Gueye",
+    "img": "gueye.jpg"
   },
   {
     "name": "Harrison",
@@ -4110,7 +4110,7 @@
     "nation": "England",
     "value": 18,
     "answer": "Jack Harrison",
-    "img": ""
+    "img": "harrison.jpg"
   },
   {
     "name": "Holgate",
@@ -4119,7 +4119,7 @@
     "nation": "England",
     "value": 5,
     "answer": "Mason Holgate",
-    "img": ""
+    "img": "holgate.jpg"
   },
   {
     "name": "Iroegbunam",
@@ -4128,7 +4128,7 @@
     "nation": "England",
     "value": 4,
     "answer": "Tim Iroegbunam",
-    "img": ""
+    "img": "iroegbunam.jpg"
   },
   {
     "name": "Keane",
@@ -4137,7 +4137,7 @@
     "nation": "England",
     "value": 6,
     "answer": "Michael Keane",
-    "img": ""
+    "img": "keane.jpg"
   },
   {
     "name": "Lindstrom",
@@ -4146,7 +4146,7 @@
     "nation": "Denmark",
     "value": 22,
     "answer": "Jesper Lindstrom",
-    "img": ""
+    "img": "lindstrom.jpg"
   },
   {
     "name": "Maupay",
@@ -4155,7 +4155,7 @@
     "nation": "France",
     "value": 12,
     "answer": "Neal Maupay",
-    "img": ""
+    "img": "maupay.jpg"
   },
   {
     "name": "Mcneil",
@@ -4164,7 +4164,7 @@
     "nation": "England",
     "value": 22,
     "answer": "Dwight McNeil",
-    "img": ""
+    "img": "mcneil.jpg"
   },
   {
     "name": "Mykolenko",
@@ -4173,7 +4173,7 @@
     "nation": "Ukraine",
     "value": 28,
     "answer": "Vitaliy Mykolenko",
-    "img": ""
+    "img": "mykolenko.jpg"
   },
   {
     "name": "Ndiaye",
@@ -4182,7 +4182,7 @@
     "nation": "Senegal",
     "value": 15,
     "answer": "Iliman Ndiaye",
-    "img": ""
+    "img": "ndiaye.jpg"
   },
   {
     "name": "Patterson",
@@ -4191,7 +4191,7 @@
     "nation": "Scotland",
     "value": 15,
     "answer": "Nathan Patterson",
-    "img": ""
+    "img": "patterson.jpg"
   },
   {
     "name": "Pickford",
@@ -4200,7 +4200,7 @@
     "nation": "England",
     "value": 22,
     "answer": "Jordan Pickford",
-    "img": ""
+    "img": "pickford.jpg"
   },
   {
     "name": "Tarkowski",
@@ -4209,7 +4209,7 @@
     "nation": "England",
     "value": 13,
     "answer": "James Tarkowski",
-    "img": ""
+    "img": "tarkowski.jpg"
   },
   {
     "name": "Young",
@@ -4218,7 +4218,7 @@
     "nation": "England",
     "value": 0.5,
     "answer": "Ashley Young",
-    "img": ""
+    "img": "young.jpg"
   },
   {
     "name": "Al hamadi",
