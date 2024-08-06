@@ -14,7 +14,7 @@
     "position": "Defender",
     "nation": "Brazil",
     "value": 70,
-    "answer": "Gabriel Magalhāes",
+    "answer": "Gabriel Magalhaes",
     "img": "gabriel.jpg"
   },
   {
@@ -1175,7 +1175,7 @@
     "position": "Striker",
     "nation": "Colombia",
     "value": 20,
-    "answer": "Jhon Durán",
+    "answer": "Jhon Duran",
     "img": "duran.jpg"
   },
   {
@@ -1913,7 +1913,7 @@
     "position": "Midfielder",
     "nation": "Ivory Coast",
     "value": 30,
-    "answer": "Ibrahim Sangaré",
+    "answer": "Ibrahim Sangare",
     "img": "sangare.jpg"
   },
   {
@@ -3003,7 +3003,7 @@
     "nation": "Croatia",
     "value": 75,
     "answer": "Josko Gvardiol",
-    "img": "gvardio.jpg"
+    "img": "gvardiol.jpg"
   },
   {
     "name": "Haaland",
@@ -3327,7 +3327,7 @@
     "nation": "Spain",
     "value": 11,
     "answer": "Stefan Bajcetic",
-    "img": "bajectic.jpg"
+    "img": "bajcetic.jpg"
   },
   {
     "name": "Bradley",
@@ -3461,7 +3461,7 @@
     "position": "Striker",
     "nation": "Uruguay",
     "value": 70,
-    "answer": "Diego Nunez",
+    "answer": "Darwin Nunez",
     "img": "nunez.jpg"
   },
   {
@@ -4046,7 +4046,7 @@
     "position": "Defender",
     "nation": "England",
     "value": 42,
-    "answer": "Jarrad Braithwaite",
+    "answer": "Jarrad Branthwaite",
     "img": "branthwaite.jpg"
   },
   {
