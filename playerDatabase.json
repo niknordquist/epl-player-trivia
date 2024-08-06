@@ -27,15 +27,6 @@
     "img": "havertz.jpg"
   },
   {
-    "name": "Hein",
-    "club": "Arsenal",
-    "position": "Goalkeeper",
-    "nation": "Estonia",
-    "value": 2,
-    "answer": "Karl Hein",
-    "img": "hein.jpg"
-  },
-  {
     "name": "Jesus",
     "club": "Arsenal",
     "position": "Striker",
@@ -360,15 +351,6 @@
     "img": "soumare.jpg"
   },
   {
-    "name": "Souttar",
-    "club": "Leicester City",
-    "position": "Defender",
-    "nation": "Australia",
-    "value": 8,
-    "answer": "Harry Souttar",
-    "img": "souttar.jpg"
-  },
-  {
     "name": "Thomas",
     "club": "Leicester City",
     "position": "Defender",
@@ -603,13 +585,13 @@
     "img": "pope.jpg"
   },
   {
-    "name": "Ritchie",
+    "name": "Ruddy",
     "club": "Newcastle",
-    "position": "Winger",
-    "nation": "Scotland",
-    "value": 1,
-    "answer": "Matt Ritchie",
-    "img": "ritchie.jpg"
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 0.2,
+    "answer": "John Ruddy",
+    "img": "ruddy.jpg"
   },
   {
     "name": "Schar",
@@ -1008,6 +990,15 @@
     "img": "foderingham.jpg"
   },
   {
+    "name": "Fullkrug",
+    "club": "West Ham",
+    "position": "Striker",
+    "nation": "Germany",
+    "value": 15,
+    "answer": "Nicolas Fullkrug",
+    "img": "fullkrug.jpg"
+  },
+  {
     "name": "Guilherme",
     "club": "West Ham",
     "position": "Winger",
@@ -1062,6 +1053,15 @@
     "img": "paqueta.jpg"
   },
   {
+    "name": "Rodriguez",
+    "club": "West Ham",
+    "position": "Midfielder",
+    "nation": "Argentina",
+    "value": 20,
+    "answer": "Guido Rodriguez",
+    "img": "rodriguez.jpg"
+  },
+  {
     "name": "Soucek",
     "club": "West Ham",
     "position": "Midfielder",
@@ -1069,6 +1069,15 @@
     "value": 30,
     "answer": "Tomas Soucek",
     "img": "soucek.jpg"
+  },
+  {
+    "name": "Summerville",
+    "club": "West Ham",
+    "position": "Winger",
+    "nation": "Netherlands",
+    "value": 20,
+    "answer": "Crysencio Summerville",
+    "img": "summerville.jpg"
   },
   {
     "name": "Ward Prowse",
@@ -1629,6 +1638,15 @@
     "img": "faivre.jpg"
   },
   {
+    "name": "Huijsen",
+    "club": "Bournemouth",
+    "position": "Defender",
+    "nation": "Spain",
+    "value": 10,
+    "answer": "Dean Huijsen",
+    "img": "huijsen.jpg"
+  },
+  {
     "name": "Kerkez",
     "club": "Bournemouth",
     "position": "Defender",
@@ -1881,15 +1899,6 @@
     "img": "murillo.jpg"
   },
   {
-    "name": "O brien",
-    "club": "Nottingham Forest",
-    "position": "Midfielder",
-    "nation": "England",
-    "value": 5,
-    "answer": "Lewis O'Brien",
-    "img": "obrien.jpg"
-  },
-  {
     "name": "Omobamidele",
     "club": "Nottingham Forest",
     "position": "Defender",
@@ -1924,6 +1933,15 @@
     "value": 7,
     "answer": "Matz Sels",
     "img": "selz.jpg"
+  },
+  {
+    "name": "Silva",
+    "club": "Nottingham Forest",
+    "position": "Winger",
+    "nation": "Portugal",
+    "value": 12,
+    "answer": "Jota Silva",
+    "img": "jota.jpg"
   },
   {
     "name": "Toffolo",
@@ -2673,6 +2691,15 @@
     "img": "wieffer.jpg"
   },
   {
+    "name": "Yalcouye",
+    "club": "Brighton",
+    "position": "Midfielder",
+    "nation": "Ivory Coast",
+    "value": 5,
+    "answer": "Malick Yalcouye",
+    "img": "yalcouye.jpg"
+  },
+  {
     "name": "Ahamada",
     "club": "Crystal Palace",
     "position": "Midfielder",
@@ -2862,6 +2889,15 @@
     "img": "richards.jpg"
   },
   {
+    "name": "Sarr",
+    "club": "Crystal Palace",
+    "position": "Winger",
+    "nation": "Senegal",
+    "value": 18,
+    "answer": "Ismaila Sarr",
+    "img": "sarr.jpg"
+  },
+  {
     "name": "Schlupp",
     "club": "Crystal Palace",
     "position": "Midfielder",
@@ -2907,15 +2943,6 @@
     "img": "ake.jpg"
   },
   {
-    "name": "Alvarez",
-    "club": "Manchester City",
-    "position": "Striker",
-    "nation": "Argentina",
-    "value": 90,
-    "answer": "Julian Alvarez",
-    "img": "alvarez.jpg"
-  },
-  {
     "name": "Bobb",
     "club": "Manchester City",
     "position": "Winger",
@@ -2932,15 +2959,6 @@
     "value": 25,
     "answer": "Joao Cancelo",
     "img": "cancelo.jpg"
-  },
-  {
-    "name": "Couto",
-    "club": "Manchester City",
-    "position": "Defender",
-    "nation": "Brazil",
-    "value": 25,
-    "answer": "Yan Couto",
-    "img": "couto.jpg"
   },
   {
     "name": "De bruyne",
@@ -3870,15 +3888,6 @@
     "img": "ddf.jpg"
   },
   {
-    "name": "Gallagher",
-    "club": "Chelsea",
-    "position": "Midfielder",
-    "nation": "England",
-    "value": 50,
-    "answer": "Conor Gallagher",
-    "img": "gallagher.jpg"
-  },
-  {
     "name": "Gilchrist",
     "club": "Chelsea",
     "position": "Defender",
@@ -3922,6 +3931,15 @@
     "value": 40,
     "answer": "Reece James",
     "img": "james.jpg"
+  },
+  {
+    "name": "Jorgensen",
+    "club": "Chelsea",
+    "position": "Goalkeeper",
+    "nation": "Denmark",
+    "value": 20,
+    "answer": "Filip Jorgensen",
+    "img": "jorgensen.jpg"
   },
   {
     "name": "Kepa",
@@ -4021,6 +4039,15 @@
     "value": 25,
     "answer": "Lesley Ugochukwu",
     "img": "ugochukwu.jpg"
+  },
+  {
+    "name": "Veiga",
+    "club": "Chelsea",
+    "position": "Midfielder",
+    "nation": "Portugal",
+    "value": 3,
+    "answer": "Renato Veiga",
+    "img": "veiga.jpg"
   },
   {
     "name": "Wiley",
@@ -4183,6 +4210,15 @@
     "value": 15,
     "answer": "Iliman Ndiaye",
     "img": "ndiaye.jpg"
+  },
+  {
+    "name": "O'Brien",
+    "club": "Everton",
+    "position": "Defender",
+    "nation": "Ireland",
+    "value": 12,
+    "answer": "Jake O'Brien",
+    "img": "job.jpg"
   },
   {
     "name": "Patterson",
