@@ -81,12 +81,36 @@ a:active {
     margin: 2vh;
 }
 
-.left-guess {
-    float: left
+.autocomplete {
+    position: relative;
+    display: inline-block;
 }
 
-.right-guess {
-    float: right;
+.autocomplete-items {
+    position: absolute;
+    border: 1px solid black;
+    border-bottom: none;
+    border-top: none;
+    z-index: 99;
+    top: 100%;
+    left: 0;
+    right: 0;
+    color: #f2ecdc
+}
+
+.autocomplete-items div {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #fff;
+    border-bottom: 1px solid #371959;
+}
+
+input {
+    border: 1px solid #12071f;
+    background-color: #371959;
+    padding: 10px;
+    font-size: 16px;
+    color: #f2ecdc
 }
 
 #play {

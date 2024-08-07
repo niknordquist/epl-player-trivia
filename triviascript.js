@@ -31,7 +31,9 @@ playButton.addEventListener("click", () => {
         playerPosition = secretPlayer.position;
         playerValue = secretPlayer.value;
     });
+
 });
+
 
 replayButton.addEventListener("click", () => {
     document.getElementById("newgame").style.display = "block";
