@@ -78,7 +78,7 @@ a:active {
     box-shadow: 0 20px #1c0c2e;
 }
 
-#play-2 {
+#replay-button {
     cursor: pointer;
     margin: 3vh auto 5vh auto;
     display: block;
@@ -95,17 +95,29 @@ a:active {
     margin-top: 5.25rem;
 }
 
-#play-2:active {
-    margin-top: 2rem;
-    box-shadow: 0 15px #1c0c2e;
-}
-
 #gamehud, #reveal-player {
     display: none;
 }
 
 #reveal-player {
     justify-content: center;
+}
+
+#reveal-button {
+    cursor: pointer;
+    margin: 3vh auto 5vh auto;
+    display: block;
+    padding: 2rem 2rem;
+    font-size: 2rem;
+    font-family: 'plfont';
+    border: 10px solid #fff4b8;
+    border-radius: 3px;
+    box-shadow: 0 20px #1c0c2e;
+}
+
+#reveal-button:active {
+    margin-top: 2rem;
+    box-shadow: 0 15px #1c0c2e;
 }
 
 #player-container {
