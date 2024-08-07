@@ -32,26 +32,36 @@
         </div>
     </div>
     <div id="gamehud">
-        <h1>Game!</h1>
-        <button id="reveal-button">REVEAL PLAYER?</button>
-    </div>
-    <div id="reveal-player">
         <div class="half" id="left">
-            <h1 id="secret-player" class="pl-font">Secret Player:</h1>
-            <h2 id="player-name" class="pl-font"></h2>
-            <button id="replay-button">PLAY AGAIN?</button>
-        </div>
-        <div class="half" id="right">
-            <img id="player-image" src="">
-            <div id="details-container">
-                <img id="club" class="details-img" src="">
-                <img id="nation" class="details-img" src="">
+            <div id="player-title">
+                <h1 id="secret-player" class="pl-font">Secret Player:</h1>
+                <h2 id="player-name" class="pl-font"></h2>
+                <button id="replay-button">PLAY AGAIN?</button>
+            </div>
+            <div id="guesses">
+                <div id="guess1" class="row">1</div>
+                <div id="guess2" class="row">2</div>
+                <div id="guess3" class="row">3</div>
+                <div id="guess4" class="row">4</div>
+                <div id="guess5" class="row">5</div>
+                <div id="guess6" class="row">6</div>
+                <div id="hint1" class="row">Market Value: £<span id="value-hint"></span>m</div>
+                <div id="guess7" class="row">7</div>
+                <div id="guess8" class="row">8</div>
+                <div id="guess9" class="row">9</div>
+                <div id="hint2" class="row">Final Guess Hint Unlocked!</div>
+                <div id="guess10" class="row">10</div>
             </div>
         </div>
-        <div id="player-container">
+        <div class="half" id="right">
+            <img id="player-image" src="unknown.png">
+            <div id="details-container">
+                <img id="club" class="details-img" src="unknown.png">
+                <img id="nation" class="details-img" src="unknown.png">
+            </div>
+            <span id="position" class="details-img"></span>
         </div>
-        <div id="details-container">
-        </div>
+        <button id="reveal-button">REVEAL PLAYER?</button>
     </div>
     <script src="triviascript.js"></script>
     <script src="playerDatabase.json"></script>

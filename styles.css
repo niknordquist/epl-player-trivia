@@ -67,6 +67,28 @@ a:active {
     font-weight: bold;
 }
 
+#guesses {
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.row {
+    border: 1px solid black;
+    padding: 0 calc(10px + 0.5vw);
+    vertical-align: middle;
+    width: calc(300px + 5vw);
+    margin: 2vh;
+}
+
+.left-guess {
+    float: left
+}
+
+.right-guess {
+    float: right;
+}
+
 #play {
     cursor: pointer;
     margin-top: 5rem;
@@ -107,8 +129,8 @@ a:active {
     cursor: pointer;
     margin: 3vh auto 5vh auto;
     display: block;
-    padding: 2rem 2rem;
-    font-size: 2rem;
+    padding: 1vw 1vw;
+    font-size: 1rem;
     font-family: 'plfont';
     border: 10px solid #fff4b8;
     border-radius: 3px;
@@ -118,11 +140,6 @@ a:active {
 #reveal-button:active {
     margin-top: 2rem;
     box-shadow: 0 15px #1c0c2e;
-}
-
-#player-container {
-    text-align: center;
-    display: block;
 }
 
 #secret-player {
@@ -141,16 +158,16 @@ a:active {
     border-radius: 15px;
 }
 
-#details-container {
-    margin-inline: auto;
-    margin: calc(10px + 1vw) auto 0 auto;
-    max-width: fit-content;
-}
-
 .details-img {
     width: calc(25px + 4vw);
-    padding: 0 calc(10px + 1.25vw);
+    padding: 0 calc(10px + 0.5vw);
     vertical-align: middle;
+    margin: 2vh 0;
+}
+
+#position {
+    font-family: 'plfont';
+    font-size: calc(8px + 1.5rem);
 }
 
 @media screen and (max-width: 1005px) {
