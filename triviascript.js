@@ -1,7 +1,6 @@
 const playButton = document.querySelector("#play");
 const newGameDisplay = document.querySelector("#newgame");
 const replayButton = document.querySelector("#replay-button");
-const revealButton = document.querySelector("#reveal-button")
 
 let playerDB;
 let secretPlayer; 
@@ -12,12 +11,16 @@ let playerNation;
 let playerPosition;
 let playerValue;
 
+let guess = 1;
+
 playButton.addEventListener("click", () => {
+    guess = 1;
     document.getElementById("newgame").style.display = "none";
     document.getElementById("gamehud").style.display = "block";
     document.getElementById("player-title").style.display = "none";
-    revealButton.style.display = "block";
     document.getElementById("guesses").style.display = "block";
+    document.getElementById('searchbar').style.display = "block";
+    document.getElementById('userGuess').value = "";
     playerDB = fetch('./playerDatabase.json')
     .then(function(resp) {
         return resp.json();
@@ -30,10 +33,9 @@ playButton.addEventListener("click", () => {
         playerNation = `./img-countries/${secretPlayer.nation}.png`;
         playerPosition = secretPlayer.position;
         playerValue = secretPlayer.value;
+        console.log(`This print statement is a way to cheat and find who the player is! The answer is: ${secretPlayer.answer}`);
     });
-
 });
-
 
 replayButton.addEventListener("click", () => {
     document.getElementById("newgame").style.display = "block";
@@ -45,13 +47,26 @@ replayButton.addEventListener("click", () => {
     document.getElementById('position').innerText = "";
 });
 
-revealButton.addEventListener("click", () => {
+const submitButton = document.getElementById("submission");
+
+submitButton.addEventListener("click", (event) => {
+    event.preventDefault();
+    if ((document.getElementById("userGuess").value).toLowerCase() == secretPlayer.name.toLowerCase()) {
+        document.getElementById('searchbar').style.display = "none";
+        win();
+    } else {
+    document.getElementById(`guess${guess}`).innerHTML = document.getElementById("userGuess").value;
+    document.getElementById('userGuess').value = "";
+    }
+    guess++;
+}); 
+
+function win() {
     document.getElementById('player-name').innerText = playerName;
     document.getElementById('player-image').src = playerImage;
     document.getElementById('club').src = playerClub; 
     document.getElementById('nation').src = playerNation;
     document.getElementById('position').innerText = playerPosition;
-    document.getElementById("player-title").style.display = "block";
-    revealButton.style.display = "none";
     document.getElementById("guesses").style.display = "none";
-})
+    document.getElementById("player-title").style.display = "block";
+}

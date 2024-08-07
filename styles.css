@@ -79,6 +79,7 @@ a:active {
     vertical-align: middle;
     width: calc(300px + 5vw);
     margin: 2vh;
+    
 }
 
 .autocomplete {

@@ -52,12 +52,12 @@
                 <div id="hint2" class="row">Final Guess Hint Unlocked!</div>
                 <div id="guess10" class="row">10</div>
             </div>
-            <form autocomplete="off">
+            <form  id="searchbar" autocomplete="off">
                 <div class="autocomplete">
                     <input id="userGuess" type="text" name="currGuess" placeholder="Player Name:">
                     <div id="resultBox"></div>
                 </div>
-                <input type="submit">
+                <input id="submission" type="submit">
             </form>
         </div>
         <div class="half" id="right">
@@ -68,7 +68,6 @@
             </div>
             <span id="position" class="details-img"></span>
         </div>
-        <button id="reveal-button">REVEAL PLAYER?</button>
     </div>
     <script src="triviascript.js"></script>
     <script src="playerDatabase.json"></script>
