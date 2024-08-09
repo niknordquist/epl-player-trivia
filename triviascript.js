@@ -96,10 +96,25 @@ submitButton.addEventListener("click", (event) => {
         document.getElementById(`guess${guess}`).innerHTML = `Guess #${guess}: ${guessedPlayer}`;
         document.getElementById('userGuess').value = "";
         if (guess === 6) {
+            alert(`Hint 1 Unlocked: Player Market Value = £${playerValue}m`);
             document.getElementById("hint1").innerHTML = `Market Value: £${playerValue}m`;
         } else if (guess === 9) {
-            document.getElementById("hint2").innerHTML = secretPlayer.club;
-            document.getElementById('club').src = `./img-clubs/${secretPlayer.club}.png`;
+            if (!nationFound) {
+                alert('Final hint: Nation unlocked!');
+                document.getElementById("hint2").innerHTML = secretPlayer.nation;
+                document.getElementById('nation').src = playerNation;
+                nationFound = true;
+            } else if (!clubFound) {
+                alert('Final hint: Club unlocked!');
+                document.getElementById("hint2").innerHTML = secretPlayer.club;
+                document.getElementById('club').src = playerClub;
+                clubFound = true;
+            } else if (!positionFound) {
+                alert('Final hint: Position unlocked!');
+                document.getElementById("hint2").innerHTML = secretPlayer.position;
+                document.getElementById("position").innerHTML = playerPosition;
+                positionFound = true;
+            }
         }
     }
     guess++;
