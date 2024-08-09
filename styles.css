@@ -82,9 +82,14 @@ a:active {
     
 }
 
+#searchbar {
+    float: left;
+}
+
 .autocomplete {
     position: relative;
     display: inline-block;
+    margin: 0 auto;
 }
 
 .autocomplete-items {
@@ -174,6 +179,11 @@ input {
 #player-name {
     font-size: calc(10px + 2.25rem);
     padding-bottom: 0;
+}
+#congrats {
+    font-size: calc(8px + 1.75rem);
+    padding-bottom: 0;
+    display: none;
 }
 
 #player-image {

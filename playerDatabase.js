@@ -1,5 +1,4 @@
-[
-  {
+playerDB = [{
     "name": "Calafiori",
     "club": "Arsenal",
     "position": "Defender",

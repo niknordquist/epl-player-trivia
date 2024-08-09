@@ -39,26 +39,28 @@
                 <button id="replay-button">PLAY AGAIN?</button>
             </div>
             <div id="guesses">
-                <div id="guess1" class="row">1</div>
-                <div id="guess2" class="row">2</div>
-                <div id="guess3" class="row">3</div>
-                <div id="guess4" class="row">4</div>
-                <div id="guess5" class="row">5</div>
-                <div id="guess6" class="row">6</div>
+                <div id="guess1" class="row"></div>
+                <div id="guess2" class="row"></div>
+                <div id="guess3" class="row"></div>
+                <div id="guess4" class="row"></div>
+                <div id="guess5" class="row"></div>
+                <div id="guess6" class="row"></div>
                 <div id="hint1" class="row">Market Value: £<span id="value-hint"></span>m</div>
-                <div id="guess7" class="row">7</div>
-                <div id="guess8" class="row">8</div>
-                <div id="guess9" class="row">9</div>
+                <div id="guess7" class="row"></div>
+                <div id="guess8" class="row"></div>
+                <div id="guess9" class="row"></div>
                 <div id="hint2" class="row">Final Hint: </div>
-                <div id="guess10" class="row">10</div>
+                <div id="guess10" class="row"></div>
             </div>
             <form  id="searchbar" autocomplete="off">
                 <div class="autocomplete">
-                    <input id="userGuess" type="text" name="currGuess" placeholder="Player Name:">
+                    <label for="userGuess" id="userGuessLabel"></label>
+                    <input required id="userGuess" type="search" name="userGuess" placeholder="Player Name:"/>
                     <div id="resultBox"></div>
                 </div>
                 <input id="submission" type="submit">
             </form>
+            <h2 id="congrats" class="pl-font">Congraulations, you win!</h2>
         </div>
         <div class="half" id="right">
             <img id="player-image" src="unknown.png">
@@ -69,8 +71,9 @@
             <span id="position" class="details-img"></span>
         </div>
     </div>
-    <script src="triviascript.js"></script>
-    <script src="playerDatabase.json"></script>
+    <script type="text/javascript" src="triviascript.js"></script>
+    <script type="text/javascript" src="playerDatabase.js"></script>
+        
 </body>
 
 </html>
