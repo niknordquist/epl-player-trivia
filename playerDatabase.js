@@ -4076,6 +4076,15 @@ playerDB = [{
     "img": "veiga.jpg"
   },
   {
+    "name": "Begovic",
+    "club": "Everton",
+    "position": "Goalkeeper",
+    "nation": "Bosnia",
+    "value": 0.3,
+    "answer": "Asmir Begovic",
+    "img": "begovic.jpg",
+  },
+  {
     "name": "Beto",
     "club": "Everton",
     "position": "Striker",
@@ -4092,6 +4101,15 @@ playerDB = [{
     "value": 42,
     "answer": "Jarrad Branthwaite",
     "img": "branthwaite.jpg"
+  },
+  {
+    "name": "Broja",
+    "club": "Everton",
+    "position": "Striker",
+    "nation": "Albania",
+    "value": 22,
+    "answer": "Armando Broja",
+    "img": "broja.jpg",
   },
   {
     "name": "Calvert lewin",
@@ -4157,15 +4175,6 @@ playerDB = [{
     "img": "harrison.jpg"
   },
   {
-    "name": "Holgate",
-    "club": "Everton",
-    "position": "Defender",
-    "nation": "England",
-    "value": 5,
-    "answer": "Mason Holgate",
-    "img": "holgate.jpg"
-  },
-  {
     "name": "Iroegbunam",
     "club": "Everton",
     "position": "Midfielder",
@@ -4193,13 +4202,13 @@ playerDB = [{
     "img": "lindstrom.jpg"
   },
   {
-    "name": "Maupay",
+    "name": "Mangala",
     "club": "Everton",
-    "position": "Striker",
-    "nation": "France",
-    "value": 12,
-    "answer": "Neal Maupay",
-    "img": "maupay.jpg"
+    "position": "Midfielder",
+    "nation": "Belgium",
+    "value": 20,
+    "answer": "Orel Mangala",
+    "img": "mangala.jpg",
   },
   {
     "name": "Mcneil",
@@ -4263,6 +4272,15 @@ playerDB = [{
     "value": 13,
     "answer": "James Tarkowski",
     "img": "tarkowski.jpg"
+  },
+  {
+    "name": "Virginia",
+    "club": "Everton",
+    "position": "Goalkeeper",
+    "nation": "Portugal",
+    "value": 0.8,
+    "answer": "Joao Virginia",
+    "img": "virginia.jpg",
   },
   {
     "name": "Young",
