@@ -2159,15 +2159,6 @@ playerDB = [{
     "img": "mosquera.jpg"
   },
   {
-    "name": "Neto",
-    "club": "Wolves",
-    "position": "Winger",
-    "nation": "Portugal",
-    "value": 55,
-    "answer": "Pedro Neto",
-    "img": "neto.jpg"
-  },
-  {
     "name": "Podence",
     "club": "Wolves",
     "position": "Winger",
@@ -2501,33 +2492,6 @@ playerDB = [{
     "img": "baleba.jpg"
   },
   {
-    "name": "Barco",
-    "club": "Brighton",
-    "position": "Defender",
-    "nation": "Argentina",
-    "value": 13,
-    "answer": "Valentin Barco",
-    "img": "barco.jpg"
-  },
-  {
-    "name": "Cozier Duberry",
-    "club": "Brighton",
-    "position": "Winger",
-    "nation": "England",
-    "value": 2,
-    "answer": "Amario Cozier-Duberry",
-    "img": "acd.jpg"
-  },
-  {
-    "name": "Dahoud",
-    "club": "Brighton",
-    "position": "Midfielder",
-    "nation": "Germany",
-    "value": 6,
-    "answer": "Mohamed Dahoud",
-    "img": "dahoud.jpg"
-  },
-  {
     "name": "Dunk",
     "club": "Brighton",
     "position": "Defender",
@@ -2564,6 +2528,15 @@ playerDB = [{
     "img": "ferguson.jpg"
   },
   {
+    "name": "Gruda",
+    "club": "Brighton",
+    "position": "Winger",
+    "nation": "Germany",
+    "value": 20,
+    "answer": "Brajan Gruda",
+    "img": "",
+  },
+  {
     "name": "Gilmour",
     "club": "Brighton",
     "position": "Midfielder",
@@ -2589,6 +2562,15 @@ playerDB = [{
     "value": 17,
     "answer": "Igor",
     "img": "igor.jpg"
+  },
+  {
+    "name": "Kadioglu",
+    "club": "Brighton",
+    "position": "Defender",
+    "nation": "Turkey",
+    "value": 30,
+    "answer": "Ferdi Kadioglu",
+    "img": "kadioglu.jpg",
   },
   {
     "name": "Lamptey",
@@ -2645,13 +2627,13 @@ playerDB = [{
     "img": "moder.jpg"
   },
   {
-    "name": "Osman",
+    "name": "O'Riley",
     "club": "Brighton",
-    "position": "Winger",
-    "nation": "Ghana",
-    "value": 12,
-    "answer": "Ibrahim Osman",
-    "img": "osman.jpg"
+    "position": "Midfielder",
+    "nation": "Denmark",
+    "value": 20,
+    "answer": "Matt O'Riley",
+    "img": "",
   },
   {
     "name": "Pedro",
@@ -2663,13 +2645,22 @@ playerDB = [{
     "img": "pedro.jpg"
   },
   {
-    "name": "Sarmiento",
+    "name": "Rutter",
     "club": "Brighton",
-    "position": "Winger",
-    "nation": "Ecuador",
-    "value": 7,
-    "answer": "Jeremy Sarmiento",
-    "img": "sarmiento.jpg"
+    "position": "Striker",
+    "nation": "Netherlands",
+    "value": 18,
+    "answer": "Georginio Rutter",
+    "img": "rutter.jpg",
+  },
+  {
+    "name": "Samuels",
+    "club": "Brighton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 0.1,
+    "answer": "Imari Samuels",
+    "img": "samuels.jpg"
   },
   {
     "name": "Steele",
@@ -2681,12 +2672,12 @@ playerDB = [{
     "img": "steele.jpg"
   },
   {
-    "name": "Undav",
+    "name": "Turns",
     "club": "Brighton",
-    "position": "Striker",
-    "nation": "Germany",
-    "value": 25,
-    "answer": "Deniz Undav",
+    "position": "Defender",
+    "nation": "Wales",
+    "value": 0.4,
+    "answer": "Ed Turns",
     "img": "undav.jpg"
   },
   {
@@ -2744,31 +2735,13 @@ playerDB = [{
     "img": "wieffer.jpg"
   },
   {
-    "name": "Yalcouye",
-    "club": "Brighton",
-    "position": "Midfielder",
-    "nation": "Ivory Coast",
-    "value": 5,
-    "answer": "Malick Yalcouye",
-    "img": "yalcouye.jpg"
-  },
-  {
-    "name": "Ahamada",
-    "club": "Crystal Palace",
-    "position": "Midfielder",
-    "nation": "France",
-    "value": 8,
-    "answer": "Naouirou Acamada",
-    "img": "ahamada.jpg"
-  },
-  {
-    "name": "Andersen",
+    "name": "Chalobah",
     "club": "Crystal Palace",
     "position": "Defender",
-    "nation": "Denmark",
-    "value": 35,
-    "answer": "Joachim Andersen",
-    "img": "andersen.jpg"
+    "nation": "England",
+    "value": 13,
+    "answer": "Trevoh Chalobah",
+    "img": "chalobah.jpg",
   },
   {
     "name": "Clyne",
@@ -2861,6 +2834,15 @@ playerDB = [{
     "img": "kamada.jpg"
   },
   {
+    "name": "Lacroix",
+    "club": "Crystal Palace",
+    "position": "Defender",
+    "nation": "France",
+    "value": 20,
+    "answer": "Maxence Lacroix",
+    "img": "lacroix.jpg",
+  },
+  {
     "name": "Lerma",
     "club": "Crystal Palace",
     "position": "Midfielder",
@@ -2879,6 +2861,15 @@ playerDB = [{
     "img": "mateta.jpg"
   },
   {
+    "name": "Matthews",
+    "club": "Crystal Palace",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 0.5,
+    "answer": "Remi Matthews",
+    "img": "matthews.jpg",
+  },
+  {
     "name": "Mitchell",
     "club": "Crystal Palace",
     "position": "Defender",
@@ -2895,6 +2886,15 @@ playerDB = [{
     "value": 23,
     "answer": "Daniel Muñoz",
     "img": "munoz.jpg"
+  },
+  {
+    "name": "Nketiah",
+    "club": "Crystal Palace",
+    "position": "Striker",
+    "nation": "England",
+    "value": 30,
+    "answer": "Eddie Nketiah",
+    "img": "nketiah.jpg",
   },
   {
     "name": "Rak Sakyi",
@@ -2940,6 +2940,15 @@ playerDB = [{
     "value": 7,
     "answer": "Jeffrey Schlupp",
     "img": "schlupp.jpg"
+  },
+  {
+    "name": "Turner",
+    "club": "Crystal Palace",
+    "position": "Goalkeeper",
+    "nation": "United States",
+    "value": 7,
+    "answer": "Matt Turner",
+    "img": "turner.jpg",
   },
   {
     "name": "Ward",
@@ -3815,13 +3824,22 @@ playerDB = [{
     "img": "badiashile.jpg"
   },
   {
-    "name": "Broja",
+    "name": "Bergstrom",
     "club": "Chelsea",
-    "position": "Striker",
-    "nation": "Albania",
-    "value": 22,
-    "answer": "Armando Broja",
-    "img": "broja.jpg"
+    "position": "Goalkeeper",
+    "nation": "Finland",
+    "value": 0.7,
+    "answer": "Lucas Bergstrom",
+    "img": "bergstrom.jpg"
+  },
+  {
+    "name": "Bettinelli",
+    "club": "Chelsea",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 1,
+    "answer": "Marcus Bettinelli",
+    "img": "bettinelli.jpg",
   },
   {
     "name": "Caicedo",
@@ -3833,13 +3851,13 @@ playerDB = [{
     "img": "caicedo.jpg"
   },
   {
-    "name": "Chalobah",
+    "name": "Casadei",
     "club": "Chelsea",
-    "position": "Defender",
-    "nation": "England",
-    "value": 13,
-    "answer": "Trevoh Chalobah",
-    "img": "chalobah.jpg"
+    "position": "Midfielder",
+    "nation": "Italy",
+    "value": 10,
+    "answer": "Cesare Casadei",
+    "img": "casadei.jpg"
   },
   {
     "name": "Chilwell",
@@ -3896,6 +3914,15 @@ playerDB = [{
     "img": "disasi.jpg"
   },
   {
+    "name": "Felix",
+    "club": "Chelsea",
+    "position": "Midfielder",
+    "nation": "Portugal",
+    "value": 30,
+    "answer": "Joao Felix",
+    "img": "felix.jpg",
+  },
+  {
     "name": "Fernandez",
     "club": "Chelsea",
     "position": "Midfielder",
@@ -3921,15 +3948,6 @@ playerDB = [{
     "value": 12,
     "answer": "David Datro Fofana",
     "img": "ddf.jpg"
-  },
-  {
-    "name": "Gilchrist",
-    "club": "Chelsea",
-    "position": "Defender",
-    "nation": "England",
-    "value": 5,
-    "answer": "Alfie Gilchrist",
-    "img": "gilchrist.jpg"
   },
   {
     "name": "Guiu",
@@ -3986,15 +4004,6 @@ playerDB = [{
     "img": "lavia.jpg"
   },
   {
-    "name": "Lukaku",
-    "club": "Chelsea",
-    "position": "Striker",
-    "nation": "Belgium",
-    "value": 30,
-    "answer": "Romelu Lukaku",
-    "img": "lukaku.jpg"
-  },
-  {
     "name": "Madueke",
     "club": "Chelsea",
     "position": "Winger",
@@ -4011,6 +4020,15 @@ playerDB = [{
     "value": 35,
     "answer": "Mykhaylo Mudryk",
     "img": "mudryk.jpg"
+  },
+  {
+    "name": "Neto",
+    "club": "Chelsea",
+    "position": "Winger",
+    "nation": "Portugal",
+    "value": 55,
+    "answer": "Pedro Neto",
+    "img": "neto.jpg"
   },
   {
     "name": "Nkunku",
@@ -4031,15 +4049,6 @@ playerDB = [{
     "img": "palmer.jpg"
   },
   {
-    "name": "Petrovic",
-    "club": "Chelsea",
-    "position": "Goalkeeper",
-    "nation": "Serbia",
-    "value": 20,
-    "answer": "Djordje Petrovic",
-    "img": "petrovic.jpg"
-  },
-  {
     "name": "Sanchez",
     "club": "Chelsea",
     "position": "Goalkeeper",
@@ -4049,22 +4058,13 @@ playerDB = [{
     "img": "sanchez.jpg"
   },
   {
-    "name": "Sterling",
+    "name": "Sancho",
     "club": "Chelsea",
     "position": "Winger",
     "nation": "England",
-    "value": 35,
-    "answer": "Raheem Sterling",
-    "img": "sterling.jpg"
-  },
-  {
-    "name": "Ugochukwu",
-    "club": "Chelsea",
-    "position": "Midfielder",
-    "nation": "France",
-    "value": 25,
-    "answer": "Lesley Ugochukwu",
-    "img": "ugochukwu.jpg"
+    "value": 30,
+    "answer": "Jadon Sancho",
+    "img": "sancho.jpg",
   },
   {
     "name": "Veiga",
@@ -4074,15 +4074,6 @@ playerDB = [{
     "value": 3,
     "answer": "Renato Veiga",
     "img": "veiga.jpg"
-  },
-  {
-    "name": "Wiley",
-    "club": "Chelsea",
-    "position": "Defender",
-    "nation": "United States",
-    "value": 5,
-    "answer": "Caleb Wiley",
-    "img": "wiley.jpg"
   },
   {
     "name": "Beto",
