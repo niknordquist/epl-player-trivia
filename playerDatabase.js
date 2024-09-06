@@ -467,13 +467,13 @@ playerDB = [{
     "img": "dubravka.jpg"
   },
   {
-    "name": "Fraser",
+    "name": "Gillespie",
     "club": "Newcastle",
-    "position": "Winger",
-    "nation": "Scotland",
-    "value": 3,
-    "answer": "Ryan Fraser",
-    "img": "fraser.jpg"
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 0.3,
+    "answer": "Mark Gillespie",
+    "img": "gillespie.jpg",
   },
   {
     "name": "Gordon",
@@ -548,6 +548,15 @@ playerDB = [{
     "img": "krafth.jpg"
   },
   {
+    "name": "Kuol",
+    "club": "Newcastle",
+    "position": "Winger",
+    "nation": "Australia",
+    "value": 0.6,
+    "answer": "Garang Kuol",
+    "img": "kuol.jpg",
+  },
+  {
     "name": "Lascelles",
     "club": "Newcastle",
     "position": "Defender",
@@ -555,15 +564,6 @@ playerDB = [{
     "value": 7,
     "answer": "Jamaal Lascelles",
     "img": "lascelles.jpg"
-  },
-  {
-    "name": "Lewis",
-    "club": "Newcastle",
-    "position": "Defender",
-    "nation": "Northern Ireland",
-    "value": 3.5,
-    "answer": "Jamal Lewis",
-    "img": "lewis.jpg"
   },
   {
     "name": "Livramento",
@@ -595,11 +595,29 @@ playerDB = [{
   {
     "name": "Murphy",
     "club": "Newcastle",
+    "position": "Defender",
+    "nation": "Ireland",
+    "value": 0.25,
+    "answer": "Alex Murphy",
+    "img": "amurphy.jpg",
+  },
+  {
+    "name": "Murphy",
+    "club": "Newcastle",
     "position": "Winger",
     "nation": "England",
     "value": 15,
     "answer": "Jacob Murphy",
     "img": "murphy.jpg"
+  },
+  {
+    "name": "Osula",
+    "club": "Newcastle",
+    "position": "Striker",
+    "nation": "Denmark",
+    "value": 3,
+    "answer": "William Osula",
+    "img": "osula.jpg",
   },
   {
     "name": "Pope",
@@ -683,6 +701,15 @@ playerDB = [{
     "img": "wilson.jpg"
   },
   {
+    "name": "Austin",
+    "club": "Tottenham",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 0.6,
+    "answer": "Brandon Austin",
+    "img": "austin.jpg",
+  },
+  {
     "name": "Bentancur",
     "club": "Tottenham",
     "position": "Midfielder",
@@ -764,15 +791,6 @@ playerDB = [{
     "img": "kulu.jpg"
   },
   {
-    "name": "Lo Celso",
-    "club": "Tottenham",
-    "position": "Midfielder",
-    "nation": "Argentina",
-    "value": 16,
-    "answer": "Giovani Lo Celso",
-    "img": "glc.jpg"
-  },
-  {
     "name": "Maddison",
     "club": "Tottenham",
     "position": "Midfielder",
@@ -780,6 +798,15 @@ playerDB = [{
     "value": 70,
     "answer": "James Maddison",
     "img": "maddison.jpg"
+  },
+  {
+    "name": "Odobert",
+    "club": "Tottenham",
+    "position": "Winger",
+    "nation": "France",
+    "value": 10,
+    "answer": "Wilson Odobert",
+    "img": "odobert.jpg",
   },
   {
     "name": "Porro",
@@ -818,15 +845,6 @@ playerDB = [{
     "img": "romero.jpg"
   },
   {
-    "name": "Royal",
-    "club": "Tottenham",
-    "position": "Defender",
-    "nation": "Brazil",
-    "value": 18,
-    "answer": "Emerson Royal",
-    "img": "royal.jpg"
-  },
-  {
     "name": "Sarr",
     "club": "Tottenham",
     "position": "Midfielder",
@@ -836,24 +854,6 @@ playerDB = [{
     "img": "sarr.jpg"
   },
   {
-    "name": "Skipp",
-    "club": "Tottenham",
-    "position": "Midfielder",
-    "nation": "England",
-    "value": 15,
-    "answer": "Oliver Skipp",
-    "img": "skipp.jpg"
-  },
-  {
-    "name": "Solomon",
-    "club": "Tottenham",
-    "position": "Winger",
-    "nation": "Israel",
-    "value": 13,
-    "answer": "Manor Solomon",
-    "img": "solomon.jpg"
-  },
-  {
     "name": "Son",
     "club": "Tottenham",
     "position": "Winger",
@@ -861,6 +861,15 @@ playerDB = [{
     "value": 45,
     "answer": "Heung-Min Son",
     "img": "son.jpg"
+  },
+  {
+    "name": "Solanke",
+    "club": "Tottenham",
+    "position": "Striker",
+    "nation": "England",
+    "value": 40,
+    "answer": "Dominic Solanke",
+    "img": "solanke.jpg",
   },
   {
     "name": "Spence",
@@ -890,15 +899,6 @@ playerDB = [{
     "img": "vdv.jpg"
   },
   {
-    "name": "Veliz",
-    "club": "Tottenham",
-    "position": "Striker",
-    "nation": "Argentina",
-    "value": 9,
-    "answer": "Alejo Veliz",
-    "img": "veliz.jpg"
-  },
-  {
     "name": "Vicario",
     "club": "Tottenham",
     "position": "Goalkeeper",
@@ -917,13 +917,13 @@ playerDB = [{
     "img": "werner.jpg"
   },
   {
-    "name": "Aguerd",
-    "club": "West Ham",
-    "position": "Defender",
-    "nation": "Morocco",
-    "value": 35,
-    "answer": "Nayef Aguerd",
-    "img": "aguerd.jpg"
+    "name": "Whiteman",
+    "club": "Tottenham",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 0.5,
+    "answer": "Alfie Whiteman",
+    "img": "whiteman.jpg",
   },
   {
     "name": "Alvarez",
@@ -960,15 +960,6 @@ playerDB = [{
     "value": 50,
     "answer": "Jarrod Bowen",
     "img": "bowen.jpg"
-  },
-  {
-    "name": "Cornet",
-    "club": "West Ham",
-    "position": "Midfielder",
-    "nation": "Ivory Coast",
-    "value": 9,
-    "answer": "Maxwel Cornet",
-    "img": "cornet.jpg"
   },
   {
     "name": "Coufal",
@@ -1043,6 +1034,15 @@ playerDB = [{
     "img": "ings.jpg"
   },
   {
+    "name": "Irving",
+    "club": "West Ham",
+    "position": "Midfielder",
+    "nation": "Scotland",
+    "value": 2,
+    "answer": "Andy Irving",
+    "img": "irving.jpg"
+  },
+  {
     "name": "Kilman",
     "club": "West Ham",
     "position": "Defender",
@@ -1088,6 +1088,15 @@ playerDB = [{
     "img": "rodriguez.jpg"
   },
   {
+    "name": "Soler",
+    "club": "West Ham",
+    "position": "Midfielder",
+    "nation": "Spain",
+    "value": 20,
+    "answer": "Carlos Soler",
+    "img": "soler.jpg",
+  },
+  {
     "name": "Soucek",
     "club": "West Ham",
     "position": "Midfielder",
@@ -1106,22 +1115,22 @@ playerDB = [{
     "img": "summerville.jpg"
   },
   {
-    "name": "Ward Prowse",
-    "club": "West Ham",
-    "position": "Midfielder",
-    "nation": "England",
-    "value": 30,
-    "answer": "James Ward-Prowse",
-    "img": "jwp.jpg"
-  },
-  {
-    "name": "Zouma",
+    "name": "Todibo",
     "club": "West Ham",
     "position": "Defender",
     "nation": "France",
-    "value": 25,
-    "answer": "Kurt Zouma",
-    "img": "zouma.jpg"
+    "value": 35,
+    "answer": "Jean-Clair Todibo",
+    "img": "todibo.jpg",
+  },
+  {
+    "name": "Wan Bissaka",
+    "club": "West Ham",
+    "position": "Defender",
+    "nation": "England",
+    "value": 20,
+    "answer": "Aaron Wan-Bissaka",
+    "img": "awb.jpg",
   },
   {
     "name": "Bailey",
@@ -1376,6 +1385,15 @@ playerDB = [{
     "img": "casemiro.jpg"
   },
   {
+    "name": "Collyer",
+    "club": "Manchester United",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 0.2,
+    "answer": "Toby Collyer",
+    "img": "collyer.jpg",
+  },
+  {
     "name": "Dalot",
     "club": "Manchester United",
     "position": "Defender",
@@ -1383,6 +1401,15 @@ playerDB = [{
     "value": 35,
     "answer": "Diogo Dalot",
     "img": "dalot.jpg"
+  },
+  {
+    "name": "De Ligt",
+    "club": "Manchester United",
+    "position": "Defender",
+    "nation": "Netherlands",
+    "value": 65,
+    "answer": "Matthijs de Ligt",
+    "img": "deligt.jpg",
   },
   {
     "name": "Diallo",
@@ -1439,6 +1466,15 @@ playerDB = [{
     "img": "hannibal.jpg"
   },
   {
+    "name": "Heaton",
+    "club": "Manchester United",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 0.25,
+    "answer": "Tom Heaton",
+    "img": "heaton.jpg",
+  },
+  {
     "name": "Hojlund",
     "club": "Manchester United",
     "position": "Striker",
@@ -1493,13 +1529,13 @@ playerDB = [{
     "img": "lisandro.jpg"
   },
   {
-    "name": "Mctominay",
+    "name": "Mazraoui",
     "club": "Manchester United",
-    "position": "Midfielder",
-    "nation": "Scotland",
-    "value": 32,
-    "answer": "Scott McTominay",
-    "img": "mctominay.jpg"
+    "position": "Defender",
+    "nation": "Morocco",
+    "value": 30,
+    "answer": "Noussair Mazraoui",
+    "img": "mazraoui.jpg",
   },
   {
     "name": "Mount",
@@ -1520,15 +1556,6 @@ playerDB = [{
     "img": "onana.jpg"
   },
   {
-    "name": "Pellistri",
-    "club": "Manchester United",
-    "position": "Winger",
-    "nation": "Uruguay",
-    "value": 10,
-    "answer": "Facundo Pellistri",
-    "img": "pellistri.jpg"
-  },
-  {
     "name": "Rashford",
     "club": "Manchester United",
     "position": "Winger",
@@ -1536,15 +1563,6 @@ playerDB = [{
     "value": 60,
     "answer": "Marcus Rashford",
     "img": "rashford.jpg"
-  },
-  {
-    "name": "Sancho",
-    "club": "Manchester United",
-    "position": "Winger",
-    "nation": "England",
-    "value": 30,
-    "answer": "Jadon Sancho",
-    "img": "sancho.jpg"
   },
   {
     "name": "Shaw",
@@ -1556,13 +1574,13 @@ playerDB = [{
     "img": "shaw.jpg"
   },
   {
-    "name": "Wan bissaka",
+    "name": "Ugarte",
     "club": "Manchester United",
-    "position": "Defender",
-    "nation": "England",
-    "value": 20,
-    "answer": "Aaron Wan-Bissaka",
-    "img": "awb.jpg"
+    "position": "Midfielder",
+    "nation": "Uruguay",
+    "value": 45,
+    "answer": "Manuel Ugarte",
+    "img": "ugarte.jpg",
   },
   {
     "name": "Yoro",
@@ -1799,6 +1817,15 @@ playerDB = [{
     "img": "zabarnyi.jpg"
   },
   {
+    "name": "Abbott",
+    "club": "Nottingham Forest",
+    "position": "Defender", 
+    "nation": "England",
+    "value": 0.3,
+    "answer": "Zach Abbott",
+    "img": "abbott.jpg",
+  },
+  {
     "name": "Aina",
     "club": "Nottingham Forest",
     "position": "Defender",
@@ -1889,6 +1916,15 @@ playerDB = [{
     "img": "cho.jpg"
   },
   {
+    "name": "Miguel",
+    "club": "Nottingham Forest",
+    "position": "Goalkeeper",
+    "nation": "Brazil",
+    "value": 4,
+    "answer": "Carlos Miguel",
+    "img": "miguel.jpg",
+  },
+  {
     "name": "Milenkovic",
     "club": "Nottingham Forest",
     "position": "Defender",
@@ -1896,6 +1932,33 @@ playerDB = [{
     "value": 15,
     "answer": "Nikola Milenkovic",
     "img": "milenkovic.jpg"
+  },
+  {
+    "name": "Morato",
+    "club": "Nottingham Forest",
+    "position": "Defender",
+    "nation": "Brazil",
+    "value": 15,
+    "answer": "Morato",
+    "img": "morato.jpg",
+  },
+  {
+    "name": "Moreira",
+    "club": "Nottingham Forest",
+    "position": "Winger",
+    "nation": "Germany",
+    "value": 1,
+    "answer": "Eric da Silva Moreira",
+    "img": "moreira.jpg",
+  },
+  {
+    "name": "Moreno",
+    "club": "Nottingham Forest",
+    "position": "Defender", 
+    "nation": "Spain",
+    "value": 13,
+    "answer": "Alex Moreno",
+    "img": "moreno.jpg",
   },
   {
     "name": "Murillo",
@@ -1914,15 +1977,6 @@ playerDB = [{
     "value": 11,
     "answer": "Andrew Omobamidele",
     "img": "omobamidele.jpg"
-  },
-  {
-    "name": "Richards",
-    "club": "Nottingham Forest",
-    "position": "Defender",
-    "nation": "England",
-    "value": 2.5,
-    "answer": "Omar Richards",
-    "img": "richards.jpg"
   },
   {
     "name": "Sangare",
@@ -1952,6 +2006,15 @@ playerDB = [{
     "img": "jota.jpg"
   },
   {
+    "name": "Sosa",
+    "club": "Nottingham Forest",
+    "position": "Winger",
+    "nation": "Paraguay",
+    "value": 13,
+    "answer": "Ramon Sosa",
+    "img": "sosa.jpg",
+  },
+  {
     "name": "Toffolo",
     "club": "Nottingham Forest",
     "position": "Defender",
@@ -1961,13 +2024,13 @@ playerDB = [{
     "img": "toffolo.jpg"
   },
   {
-    "name": "Turner",
+    "name": "Ward Prowse",
     "club": "Nottingham Forest",
-    "position": "Goalkeeper",
-    "nation": "United States",
-    "value": 7,
-    "answer": "Matt Turner",
-    "img": "turner.jpg"
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 30,
+    "answer": "James Ward-Prowse",
+    "img": "jwp.jpg",
   },
   {
     "name": "Williams",
@@ -1988,15 +2051,6 @@ playerDB = [{
     "img": "wood.jpg"
   },
   {
-    "name": "Worrall",
-    "club": "Nottingham Forest",
-    "position": "Defender",
-    "nation": "England",
-    "value": 7.5,
-    "answer": "Joe Worrall",
-    "img": "worrall.jpg"
-  },
-  {
     "name": "Yates",
     "club": "Nottingham Forest",
     "position": "Midfielder",
@@ -2004,6 +2058,15 @@ playerDB = [{
     "value": 12,
     "answer": "Ryan Yates",
     "img": "yates.jpg"
+  },
+  {
+    "name": "Andre",
+    "club": "Wolves",
+    "position": "Midfielder",
+    "nation": "Brazil",
+    "value": 25,
+    "answer": "Andre",
+    "img": "andre.jpg",
   },
   {
     "name": "Ait nouri",
@@ -2024,13 +2087,13 @@ playerDB = [{
     "img": "bellegarde.jpg"
   },
   {
-    "name": "Bueno",
+    "name": "Bentley",
     "club": "Wolves",
-    "position": "Defender",
-    "nation": "Spain",
-    "value": 6,
-    "answer": "Hugo Bueno",
-    "img": "hugobueno.jpg"
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 2,
+    "answer": "Daniel Bentley",
+    "img": "bentley.jpg",
   },
   {
     "name": "Bueno",
@@ -2040,6 +2103,15 @@ playerDB = [{
     "value": 8,
     "answer": "Santiago Bueno",
     "img": "santibueno.jpg"
+  },
+  {
+    "name": "Cundle",
+    "club": "Wolves",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 5,
+    "answer": "Luke Cundle",
+    "img": "cundle.jpg",
   },
   {
     "name": "Cunha",
@@ -2078,6 +2150,15 @@ playerDB = [{
     "img": "doyle"
   },
   {
+    "name": "Forbs",
+    "club": "Wolves",
+    "position": "Winger",
+    "nation": "Portugal",
+    "value": 8,
+    "answer": "Carlos Forbs",
+    "img": "forbs.jpg",
+  },
+  {
     "name": "Gomes",
     "club": "Wolves",
     "position": "Midfielder",
@@ -2096,6 +2177,15 @@ playerDB = [{
     "img": "rodrigog.jpg"
   },
   {
+    "name": "Gonzalez",
+    "club": "Wolves",
+    "position": "Winger",
+    "nation": "Paraguay",
+    "value": 4,
+    "answer": "Enso Gonzalez",
+    "img": "enso.jpg",
+  },
+  {
     "name": "Guedes",
     "club": "Wolves",
     "position": "Winger",
@@ -2105,15 +2195,6 @@ playerDB = [{
     "img": "guedes.jpg"
   },
   {
-    "name": "Hoever",
-    "club": "Wolves",
-    "position": "Defender",
-    "nation": "Netherlands",
-    "value": 4.5,
-    "answer": "Ki-Jana Hoever",
-    "img": "hoever.jpg"
-  },
-  {
     "name": "Hwang",
     "club": "Wolves",
     "position": "Striker",
@@ -2121,6 +2202,15 @@ playerDB = [{
     "value": 25,
     "answer": "Hwang Hee-Chan",
     "img": "hwang.jpg"
+  },
+  {
+    "name": "Johnstone",
+    "club": "Wolves",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 10,
+    "answer": "Sam Johnstone",
+    "img": "johnstone.jpg",
   },
   {
     "name": "Kalajdzic",
@@ -2150,6 +2240,24 @@ playerDB = [{
     "img": "lemina.jpg"
   },
   {
+    "name": "Lima",
+    "club": "Wolves",
+    "position": "Defender",
+    "nation": "Brazil",
+    "value": 2.5,
+    "answer": "Pedro Lima",
+    "img": "lima.jpg",
+  },
+  {
+    "name": "Meupiyou",
+    "club": "Wolves",
+    "position": "Defender",
+    "nation": "France",
+    "value": 0.8,
+    "answer": "Bastien Meupiyou",
+    "img": "meupiyou.jpg",
+  },
+  {
     "name": "Mosquera",
     "club": "Wolves",
     "position": "Defender",
@@ -2157,15 +2265,6 @@ playerDB = [{
     "value": 6,
     "answer": "Yerson Mosquera",
     "img": "mosquera.jpg"
-  },
-  {
-    "name": "Podence",
-    "club": "Wolves",
-    "position": "Winger",
-    "nation": "Portugal",
-    "value": 13,
-    "answer": "Daniel Podence",
-    "img": "podence.jpg"
   },
   {
     "name": "Sa",
@@ -2195,15 +2294,6 @@ playerDB = [{
     "img": "semedo.jpg"
   },
   {
-    "name": "Silva",
-    "club": "Wolves",
-    "position": "Striker",
-    "nation": "Portugal",
-    "value": 11,
-    "answer": "Fabio Silva",
-    "img": "silva.jpg"
-  },
-  {
     "name": "Toti",
     "club": "Wolves",
     "position": "Defender",
@@ -2211,6 +2301,15 @@ playerDB = [{
     "value": 20,
     "answer": "Toti",
     "img": "toti.jpg"
+  },
+  {
+    "name": "Traore",
+    "club": "Wolves",
+    "position": "Midfielder",
+    "nation": "Mali",
+    "value": 6,
+    "answer": "Boubacar Traore",
+    "img": "traore.jpg",
   },
   {
     "name": "Ajer",
@@ -2996,13 +3095,13 @@ playerDB = [{
     "img": "bobb.jpg"
   },
   {
-    "name": "Cancelo",
+    "name": "Carson",
     "club": "Manchester City",
-    "position": "Defender",
-    "nation": "Portugal",
-    "value": 25,
-    "answer": "Joao Cancelo",
-    "img": "cancelo.jpg"
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 0.2,
+    "answer": "Scott Carson",
+    "img": "carson.jpg",
   },
   {
     "name": "De bruyne",
@@ -3057,6 +3156,15 @@ playerDB = [{
     "value": 60,
     "answer": "Jack Grealish",
     "img": "grealish.jpg"
+  },
+  {
+    "name": "Gundogan",
+    "club": "Manchester City",
+    "position": "Midfielder",
+    "nation": "Germany",
+    "value": 15,
+    "answer": "Ilkay Gundogan",
+    "img": "gundogan.jpg",
   },
   {
     "name": "Gvardiol",
@@ -3122,15 +3230,6 @@ playerDB = [{
     "img": "ortega.jpg"
   },
   {
-    "name": "Phillips",
-    "club": "Manchester City",
-    "position": "Midfielder",
-    "nation": "England",
-    "value": 25,
-    "answer": "Kalvin Phillips",
-    "img": "phillips.jpg"
-  },
-  {
     "name": "Rodri",
     "club": "Manchester City",
     "position": "Midfielder",
@@ -3174,6 +3273,15 @@ playerDB = [{
     "value": 13,
     "answer": "Kyle Walker",
     "img": "walker.jpg"
+  },
+  {
+    "name": "Wilson Esbrand",
+    "club": "Manchester City",
+    "position": "Defender",
+    "nation": "England",
+    "value": 4,
+    "answer": "Josh Wilson-Esbrand",
+    "img": "jwe.jpg",
   },
   {
     "name": "Andersen",
@@ -3392,15 +3500,6 @@ playerDB = [{
     "img": "alisson.jpg"
   },
   {
-    "name": "Bajcetic",
-    "club": "Liverpool",
-    "position": "Midfielder",
-    "nation": "Spain",
-    "value": 11,
-    "answer": "Stefan Bajcetic",
-    "img": "bajcetic.jpg"
-  },
-  {
     "name": "Bradley",
     "club": "Liverpool",
     "position": "Defender",
@@ -3410,13 +3509,13 @@ playerDB = [{
     "img": "bradley.jpg"
   },
   {
-    "name": "Carvalho",
+    "name": "Chiesa",
     "club": "Liverpool",
-    "position": "Midfielder",
-    "nation": "Portugal",
-    "value": 14,
-    "answer": "Fabio Carvalho",
-    "img": "carvalho.jpg"
+    "position": "Winger",
+    "nation": "Italy",
+    "value": 35,
+    "answer": "Federico Chiesa",
+    "img": "chiesa.jpg",
   },
   {
     "name": "Diaz",
@@ -3426,15 +3525,6 @@ playerDB = [{
     "value": 75,
     "answer": "Luis Diaz",
     "img": "diaz.jpg"
-  },
-  {
-    "name": "Doak",
-    "club": "Liverpool",
-    "position": "Winger",
-    "nation": "Scotland",
-    "value": 10,
-    "answer": "Ben Soak",
-    "img": "doak.jpg"
   },
   {
     "name": "Elliott",
@@ -3480,6 +3570,15 @@ playerDB = [{
     "value": 35,
     "answer": "Ryan Gravenberch",
     "img": "gravenberch.jpg"
+  },
+  {
+    "name": "Jaros",
+    "club": "Liverpool",
+    "position": "Goalkeeper",
+    "nation": "Czechia",
+    "value": 5,
+    "answer": "Vitezslav Jaros",
+    "img": "jaros.jpg",
   },
   {
     "name": "Jones",
@@ -3581,15 +3680,6 @@ playerDB = [{
     "img": "tsimikas.jpg"
   },
   {
-    "name": "Van den berg",
-    "club": "Liverpool",
-    "position": "Defender",
-    "nation": "Netherlands",
-    "value": 12,
-    "answer": "Sepp Van den Berg",
-    "img": "vdb.jpg"
-  },
-  {
     "name": "Van dijk",
     "club": "Liverpool",
     "position": "Defender",
@@ -3599,13 +3689,22 @@ playerDB = [{
     "img": "vvd.jpg"
   },
   {
-    "name": "Alcaraz",
+    "name": "Amo Ameyaw",
     "club": "Southampton",
-    "position": "Midfielder",
-    "nation": "Argentina",
-    "value": 15,
-    "answer": "Carlos Alcaraz",
-    "img": "alcaraz.jpg"
+    "position": "Winger",
+    "nation": "England",
+    "value": 0.3,
+    "answer": "Sam Amo-Ameyaw",
+    "img": "saa.jpg",
+  },
+  {
+    "name": "Archer",
+    "club": "Southampton",
+    "position": "Striker",
+    "nation": "England", 
+    "value": 13,
+    "answer": "Cameron Archer",
+    "img": "archer.jpg",
   },
   {
     "name": "Aribo",
@@ -3662,13 +3761,22 @@ playerDB = [{
     "img": "bree.jpg"
   },
   {
-    "name": "Charles",
+    "name": "Brereton Diaz",
     "club": "Southampton",
-    "position": "Midfielder",
-    "nation": "Northern Ireland",
-    "value": 10,
-    "answer": "Shea Charles",
-    "img": "charles.jpg"
+    "position": "Striker",
+    "nation": "Chile",
+    "value": 8,
+    "answer": "Ben Brereton Diaz",
+    "img": "bbd.jpg",
+  },
+  {
+    "name": "Cornet",
+    "club": "Southampton",
+    "position": "Winger",
+    "nation": "Ivory Coast",
+    "value": 9,
+    "answer": "Max Cornet",
+    "img": "cornet.jpg",
   },
   {
     "name": "Downes",
@@ -3680,13 +3788,31 @@ playerDB = [{
     "img": "downes.jpg"
   },
   {
-    "name": "Edozie",
+    "name": "Edwards",
+    "club": "Southampton",
+    "position": "Defender",
+    "nation": "England",
+    "value": 3.8,
+    "answer": "Ronnie Edwards",
+    "img": "edwards.jpg",
+  },
+  {
+    "name": "Fernandes",
+    "club": "Southampton",
+    "position": "Midfielder",
+    "nation": "Portugal",
+    "value": 8,
+    "answer": "Matheus Fernandes",
+    "img": "fernandes.jpg",
+  },
+  {
+    "name": "Fraser",
     "club": "Southampton",
     "position": "Winger",
-    "nation": "England",
-    "value": 8,
-    "answer": "Samuel Edozie",
-    "img": "edozie.jpg"
+    "nation": "Scotland",
+    "value": 3,
+    "answer": "Ryan Fraser",
+    "img": "fraser.jpg",
   },
   {
     "name": "Hardwood Bellis",
@@ -3716,6 +3842,15 @@ playerDB = [{
     "img": "larios.jpg"
   },
   {
+    "name": "Lumley",
+    "club": "Southampton",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 0.6,
+    "answer": "Joe Lumley",
+    "img": "lumley.jpg",
+  },
+  {
     "name": "Manning",
     "club": "Southampton",
     "position": "Defender",
@@ -3725,13 +3860,13 @@ playerDB = [{
     "img": "manning.jpg"
   },
   {
-    "name": "Mara",
+    "name": "McCarthy",
     "club": "Southampton",
-    "position": "Striker",
-    "nation": "France",
-    "value": 6,
-    "answer": "Sekou Mara",
-    "img": "mara.jpg"
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 0.5,
+    "answer": "Alex McCarthy",
+    "img": "mccarthy.jpg",
   },
   {
     "name": "Onuachu",
@@ -3741,6 +3876,15 @@ playerDB = [{
     "value": 13,
     "answer": "Paul Onuachu",
     "img": "onuachu.jpg"
+  },
+  {
+    "name": "Ramsdale",
+    "club": "Southampton",
+    "position": "Goalkeeper",
+    "nation": "England",
+    "value": 25,
+    "answer": "Aaron Ramsdale",
+    "img": "ramsdale.jpg",
   },
   {
     "name": "Smallbone",
@@ -3795,6 +3939,15 @@ playerDB = [{
     "value": 3,
     "answer": "Charlie Taylor",
     "img": "taylor.jpg"
+  },
+  {
+    "name": "Ugochukwu",
+    "club": "Southampton",
+    "position": "Midfielder",
+    "nation": "France",
+    "value": 25,
+    "answer": "Lesley Ugochukwu",
+    "img": "ugochukwu.jpg",
   },
   {
     "name": "Walker Peters",
@@ -4337,6 +4490,15 @@ playerDB = [{
     "img": "burns.jpg"
   },
   {
+    "name": "Cajuste",
+    "club": "Ipswich",
+    "position": "Midfielder",
+    "nation": "Sweden",
+    "value": 10,
+    "answer": "Jens Cajuste",
+    "img": "cajuste.jpg",
+  },
+  {
     "name": "Chaplin",
     "club": "Ipswich",
     "position": "Striker",
@@ -4353,6 +4515,15 @@ playerDB = [{
     "value": 5,
     "answer": "Harry Clarke",
     "img": "clarke.jpg"
+  },
+  {
+    "name": "Clarke",
+    "club": "Ipswich",
+    "position": "Winger",
+    "nation": "England",
+    "value": 15,
+    "answer": "Jack Clarke",
+    "img": "jackclarke.jpg",
   },
   {
     "name": "Davis",
@@ -4380,15 +4551,6 @@ playerDB = [{
     "value": 15,
     "answer": "Jacob Greaves",
     "img": "greaves.jpg"
-  },
-  {
-    "name": "Harness",
-    "club": "Ipswich",
-    "position": "Winger",
-    "nation": "Ireland",
-    "value": 0.8,
-    "answer": "Marcus Harness",
-    "img": "harness.jpg"
   },
   {
     "name": "Hirst",
@@ -4445,6 +4607,51 @@ playerDB = [{
     "img": "muric.jpg"
   },
   {
+    "name": "O'Shea",
+    "club": "Ipswich",
+    "position": "Defender",
+    "nation": "Ireland",
+    "value": 7,
+    "answer": "Dara O'Shea",
+    "img": "oshea.jpg",
+  },
+  {
+    "name": "Ogbene",
+    "club": "Ipswich",
+    "position": "Winger",
+    "nation": "Ireland",
+    "value": 8,
+    "answer": "Chiedozie Ogbene",
+    "img": "ogbene.jpg",
+  },
+  {
+    "name": "Phillips",
+    "club": "Ipswich",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 25,
+    "answer": "Kalvin Phillips",
+    "img": "phillips.jpg",
+  },
+  {
+    "name": "Slicker",
+    "club": "Ipswich",
+    "position": "Goalkeeper",
+    "nation": "Scotland",
+    "value": 0.3,
+    "answer": "Cieran Slicker",
+    "img": "slicker.jpg",
+  },
+  {
+    "name": "Szmodics",
+    "club": "Ipswich",
+    "position": "Midfielder",
+    "nation": "Ireland",
+    "value": 7,
+    "answer": "Sammie Szmodics",
+    "img": "szmodics.jpg",
+  },
+  {
     "name": "Taylor",
     "club": "Ipswich",
     "position": "Midfielder",
@@ -4452,6 +4659,15 @@ playerDB = [{
     "value": 1.8,
     "answer": "Jack Taylor",
     "img": "taylor.jpg"
+  },
+  {
+    "name": "Townsend",
+    "club": "Ipswich",
+    "position": "Defender",
+    "nation": "England",
+    "value": 1.5,
+    "answer": "Conor Townsend",
+    "img": "townsend.jpg",
   },
   {
     "name": "Tuanzebe",
