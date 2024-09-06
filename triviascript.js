@@ -59,6 +59,7 @@ replayButton.addEventListener("click", () => {
     document.getElementById('club').src = "unknown.png";
     document.getElementById('nation').src = "unknown.png";
     document.getElementById('position').innerText = "";
+    document.getElementById("hint1").innerHTML = `£${playerValue}m`;
 });
 
 submitButton.addEventListener("click", (event) => {
