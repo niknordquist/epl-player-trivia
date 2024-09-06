@@ -62,22 +62,22 @@ playerDB = [{
     "img": "martinelli.jpg"
   },
   {
-    "name": "Nelson",
+    "name": "Merino",
     "club": "Arsenal",
-    "position": "Winger",
-    "nation": "England",
-    "value": 15,
-    "answer": "Reiss Nelson",
-    "img": "nelson.jpg"
+    "position": "Midfielder",
+    "nation": "Spain",
+    "value": 50,
+    "answer": "Mikel Merino",
+    "img": "merino.jpg",
   },
   {
-    "name": "Nketiah",
+    "name": "Neto",
     "club": "Arsenal",
-    "position": "Striker",
-    "nation": "England",
-    "value": 30,
-    "answer": "Eddie Nketiah",
-    "img": "nketiah.jpg"
+    "position": "Goalkeeper",
+    "nation": "Brazil",
+    "value": 2.5,
+    "answer": "Neto",
+    "img": "neto.jpg",
   },
   {
     "name": "Odegaard",
@@ -96,15 +96,6 @@ playerDB = [{
     "value": 18,
     "answer": "Thomas Partey",
     "img": "partey.jpg"
-  },
-  {
-    "name": "Ramsdale",
-    "club": "Arsenal",
-    "position": "Goalkeeper",
-    "nation": "England",
-    "value": 25,
-    "answer": "Aaron Ramsdale",
-    "img": "ramsdale.jpg"
   },
   {
     "name": "Raya",
@@ -143,13 +134,13 @@ playerDB = [{
     "img": "saliba.jpg"
   },
   {
-    "name": "Smith rowe",
-    "club": "Fulham",
+    "name": "Sterling",
+    "club": "Arsenal",
     "position": "Winger",
     "nation": "England",
-    "value": 22,
-    "answer": "Emile Smith-Rowe",
-    "img": "esr.jpg"
+    "value": 35,
+    "answer": "Raheem Sterling",
+    "img": "sterling.jpg",
   },
   {
     "name": "Tierney",
@@ -186,15 +177,6 @@ playerDB = [{
     "value": 35,
     "answer": "Leandro Trossard",
     "img": "trossard.jpg"
-  },
-  {
-    "name": "Vieira",
-    "club": "Arsenal",
-    "position": "Midfielder",
-    "nation": "Portugal",
-    "value": 22,
-    "answer": "Fabio Vieira",
-    "img": "vieira.jpg"
   },
   {
     "name": "White",
@@ -339,6 +321,15 @@ playerDB = [{
     "value": 7,
     "answer": "Bobby Decordova-Reid",
     "img": "reid.jpg"
+  },
+  {
+    "name": "Skipp",
+    "club": "Leicester City",
+    "position": "Midfielder",
+    "nation": "England",
+    "value": 15,
+    "answer": "Oliver Skipp",
+    "img": "",
   },
   {
     "name": "Soumare",
