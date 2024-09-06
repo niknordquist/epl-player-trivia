@@ -19,7 +19,7 @@ playerDB = [{
   {
     "name": "Havertz",
     "club": "Arsenal",
-    "position": "Midfielder",
+    "position": "Striker",
     "nation": "Germany",
     "value": 70,
     "answer": "Kai Havertz",
