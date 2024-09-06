@@ -1415,7 +1415,7 @@ playerDB = [{
     "name": "Fernandes",
     "club": "Manchester United",
     "position": "Midfielder",
-    "nation": "Brazil",
+    "nation": "Portugal",
     "value": 70,
     "answer": "Bruno Fernandes",
     "img": "bruno.jpg"
