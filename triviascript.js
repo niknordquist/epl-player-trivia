@@ -45,6 +45,7 @@ playButton.addEventListener("click", () => {
     document.getElementById('searchbar').style.display = "block";
     document.getElementById('userGuess').value = "";
     document.getElementById('userGuessLabel').innerHTML = `Guess #${guess}:`;
+    document.getElementById("hint1").innerHTML = "Market Value: £";
     submitButton.style.display = "none";
     document.getElementById("congrats").style.display = "none";
 
@@ -59,7 +60,6 @@ replayButton.addEventListener("click", () => {
     document.getElementById('club').src = "unknown.png";
     document.getElementById('nation').src = "unknown.png";
     document.getElementById('position').innerText = "";
-    document.getElementById("hint1").innerHTML = `£${playerValue}m`;
 });
 
 submitButton.addEventListener("click", (event) => {
