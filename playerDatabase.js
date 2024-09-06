@@ -3176,6 +3176,15 @@ playerDB = [{
     "img": "walker.jpg"
   },
   {
+    "name": "Andersen",
+    "club": "Fulham",
+    "position": "Defender",
+    "nation": "Denmark",
+    "value": 35,
+    "answer": "Joachim Andersen",
+    "img": "andersen.jpg",
+  },
+  {
     "name": "Bassey",
     "club": "Fulham",
     "position": "Defender",
@@ -3183,6 +3192,24 @@ playerDB = [{
     "value": 16,
     "answer": "Calvin Bassey",
     "img": "bassey.jpg"
+  },
+  {
+    "name": "Benda",
+    "club": "Fulham",
+    "position": "Goalkeeper",
+    "nation": "Germany",
+    "value": 1,
+    "answer": "Steven Benda",
+    "img": "benda.jpg",
+  },
+  {
+    "name": "Berge",
+    "club": "Fulham",
+    "position": "Midfielder",
+    "nation": "Norway",
+    "value": 20,
+    "answer": "Sander Berge",
+    "img": "berge.jpg",
   },
   {
     "name": "Cairney",
@@ -3201,6 +3228,15 @@ playerDB = [{
     "value": 17,
     "answer": "Timothy Castagne",
     "img": "castagne.jpg"
+  },
+  {
+    "name": "Cuenca",
+    "club": "Fulham",
+    "position": "Defender",
+    "nation": "Spain",
+    "value": 6,
+    "answer": "Jorge Cuenca",
+    "img": "cuenca.jpg",
   },
   {
     "name": "Diop",
@@ -3248,15 +3284,6 @@ playerDB = [{
     "img": "lukic.jpg"
   },
   {
-    "name": "Mbabu",
-    "club": "Fulham",
-    "position": "Defender",
-    "nation": "Switzerland",
-    "value": 4,
-    "answer": "Kevin Mbabu",
-    "img": "mbabu.jpg"
-  },
-  {
     "name": "Muniz",
     "club": "Fulham",
     "position": "Striker",
@@ -3266,6 +3293,15 @@ playerDB = [{
     "img": "muniz.jpg"
   },
   {
+    "name": "Nelson",
+    "club": "Fulham",
+    "position": "Winger",
+    "nation": "England",
+    "value": 15,
+    "answer": "Reiss Nelson",
+    "img": "nelson.jpg",
+  },
+  {
     "name": "Pereira",
     "club": "Fulham",
     "position": "Midfielder",
@@ -3273,15 +3309,6 @@ playerDB = [{
     "value": 20,
     "answer": "Andreas Pereira",
     "img": "pereira.jpg"
-  },
-  {
-    "name": "Ream",
-    "club": "Fulham",
-    "position": "Defender",
-    "nation": "United States",
-    "value": 0.8,
-    "answer": "Tim Ream",
-    "img": "ream.jpg"
   },
   {
     "name": "Reed",
@@ -3311,15 +3338,6 @@ playerDB = [{
     "img": "sessegnon.jpg"
   },
   {
-    "name": "Stansfield",
-    "club": "Fulham",
-    "position": "Striker",
-    "nation": "England",
-    "value": 3.5,
-    "answer": "Jay Stansfield",
-    "img": "stansfield.jpg"
-  },
-  {
     "name": "Tete",
     "club": "Fulham",
     "position": "Defender",
@@ -3345,15 +3363,6 @@ playerDB = [{
     "value": 4,
     "answer": "Carlos Vinicius",
     "img": "vinicius.jpg"
-  },
-  {
-    "name": "Willian",
-    "club": "Fulham",
-    "position": "Winger",
-    "nation": "Brazil",
-    "value": 3,
-    "answer": "Willian",
-    "img": "willian.jpg"
   },
   {
     "name": "Wilson",
