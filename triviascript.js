@@ -75,7 +75,7 @@ submitButton.addEventListener("click", (event) => {
             reveal();
         }
         /* TODO: Add in hint functionality */
-        const guessedPlayerObj = playerDB.find(x => x.answer.toLowerCase === guessedPlayer.toLowerCase);
+        const guessedPlayerObj = playerDB.find(x => x.answer === guessedPlayer);
         const guessedClub = guessedPlayerObj.club;
         const guessedNation = guessedPlayerObj.nation;
         const guessedPosition = guessedPlayerObj.position;
