@@ -75,7 +75,7 @@ submitButton.addEventListener("click", (event) => {
             reveal();
         }
         /* TODO: Add in hint functionality */
-        const guessedPlayerObj = playerDB.find(x => x.answer === guessedPlayer);
+        const guessedPlayerObj = playerDB.find(x => x.answer.toLowerCase === guessedPlayer.toLowerCase);
         const guessedClub = guessedPlayerObj.club;
         const guessedNation = guessedPlayerObj.nation;
         const guessedPosition = guessedPlayerObj.position;
@@ -161,7 +161,7 @@ function autocomplete(inp, arr) {
                 /*make the matching letters bold:*/
                 b.innerHTML = arr[i].answer;
                 /*insert a input field that will hold the current array item's value:*/
-                b.innerHTML += "<input type='hidden' value='" + arr[i].answer + "'>";
+                b.innerHTML += "<input type='hidden' value='" + (arr[i].answer).replace("'", "&apos;") + "'>";
                 /*execute a function when someone clicks on the item value (DIV element):*/
                 b.addEventListener("click", function (e) {
                     /*insert the value for the autocomplete text field:*/

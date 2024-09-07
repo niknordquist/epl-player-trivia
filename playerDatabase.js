@@ -2731,8 +2731,8 @@ playerDB = [{
     "position": "Midfielder",
     "nation": "Denmark",
     "value": 20,
-    "answer": "Matt O'Riley",
-    "img": "",
+    "answer": 'Matt O\'Riley',
+    "img": "matt.jpg",
   },
   {
     "name": "Pedro",
