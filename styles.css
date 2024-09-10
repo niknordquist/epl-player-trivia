@@ -4,7 +4,6 @@
 }
 
 body {
-
     background-color: #371959;
     color: #f2ecdc;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
@@ -190,8 +189,6 @@ input {
 #player-image {
     margin-top: 2vh;
     width: calc(250px + 6vw);
-    border: 7px solid #12071f;
-    border-radius: 15px;
 }
 
 .details-img {
