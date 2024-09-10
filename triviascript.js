@@ -46,6 +46,7 @@ playButton.addEventListener("click", () => {
     document.getElementById('userGuess').value = "";
     document.getElementById('userGuessLabel').innerHTML = `Guess #${guess}:`;
     document.getElementById("hint1").innerHTML = "Market Value: £";
+    document.getElementById("hint2").innerHTML = "Final Hint: ";
     submitButton.style.display = "none";
     document.getElementById("congrats").style.display = "none";
 
