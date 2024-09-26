@@ -203,3 +203,17 @@ input {
     font-size: calc(8px + 1.5rem);
 }
 
+@media screen and (max-width: 910px) {
+    .half {
+        width: 80%;
+    }
+    #right {
+        float: none;
+        text-align: center;
+    }
+    .inside-right {
+        position: relative;
+        border: 1px solid gray;
+        display:inline-block;
+    }
+}
