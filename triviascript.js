@@ -22,9 +22,9 @@ playButton.addEventListener("click", () => {
     secretPlayer = playerDB[Math.floor(Math.random() * playerDB.length)]
     autocomplete(document.getElementById("userGuess"), playerDB);
     playerName = secretPlayer.answer;
-    playerImage = `img-players/${secretPlayer.club}/${secretPlayer.img}`;
-    playerClub = `img-clubs/${secretPlayer.club}.png`;
-    playerNation = `img-countries/${secretPlayer.nation}.png`;
+    playerImage = `img-players/${secretPlayer.club.toLowerCase()}/${secretPlayer.img}`;
+    playerClub = `img-clubs/${secretPlayer.club.toLowerCase()}.png`;
+    playerNation = `img-countries/${secretPlayer.nation.toLowerCase()}.png`;
     playerPosition = secretPlayer.position;
     playerValue = secretPlayer.value;
 
