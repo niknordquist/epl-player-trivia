@@ -2771,15 +2771,6 @@ playerDB = [{
     "img": "steele.jpg"
   },
   {
-    "name": "Turns",
-    "club": "Brighton",
-    "position": "Defender",
-    "nation": "Wales",
-    "value": 0.4,
-    "answer": "Ed Turns",
-    "img": "undav.jpg"
-  },
-  {
     "name": "Van hecke",
     "club": "Brighton",
     "position": "Defender",

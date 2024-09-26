@@ -208,12 +208,17 @@ input {
         width: 80%;
     }
     #right {
-        float: none;
         text-align: center;
+        margin-bottom: 50px;
     }
     .inside-right {
         position: relative;
-        border: 1px solid gray;
         display:inline-block;
+        margin: auto;
+    }
+    .row {
+        float: none;
+        margin-inline: auto;
+        margin-bottom: 10px;
     }
 }
