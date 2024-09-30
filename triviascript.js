@@ -156,7 +156,7 @@ function autocomplete(inp, arr) {
         /*for each item in the array...*/
         for (i = 0; i < arr.length; i++) {
             /*check if the item starts with the same letters as the text field value:*/
-            if (arr[i].answer.toUpperCase().includes(val.toUpperCase())) {
+            if (arr[i].answer.toUpperCase().includes(val.toUpperCase().trim())) {
                 /*create a DIV element for each matching element:*/
                 b = document.createElement("DIV");
                 /*make the matching letters bold:*/
